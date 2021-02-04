@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-05T00:23:24+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>A nascent community of image analysts</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;, &quot;url&quot;=&gt;&quot;mailto:norsimon@ethz.ch&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/SwissBIAS&quot;}, {&quot;label&quot;=&gt;&quot;Instagram&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-instagram&quot;}]}</name></author><entry><title type="html">Setting Up The Site</title><link href="http://localhost:4000/technotes/setting-up-the-site/" rel="alternate" type="text/html" title="Setting Up The Site" /><published>2021-02-04T00:00:00+01:00</published><updated>2021-02-04T00:00:00+01:00</updated><id>http://localhost:4000/technotes/setting-up-the-site</id><content type="html" xml:base="http://localhost:4000/technotes/setting-up-the-site/">&lt;h1 id=&quot;setup-notes&quot;&gt;Setup notes&lt;/h1&gt;
+&lt;p&gt;Some notes from setting up the SwissBIAS website on GitHub, using Jekyll, from Ubuntu&lt;/p&gt;
+&lt;h3 id=&quot;first-steps-hello-world-and-readme&quot;&gt;First steps (hello world and README)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Following instructions on https://pages.github.com/&lt;/li&gt;
+  &lt;li&gt;Editing files/repo locally and using a terminal as git client, do
+    &lt;ul&gt;
+      &lt;li&gt;git add –all&lt;/li&gt;
+      &lt;li&gt;git commit -m “Initial commit”&lt;/li&gt;
+      &lt;li&gt;git push -u origin main&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Editing files/repo locally and using the GitHub desktop git client (mac or win), do
+    &lt;ul&gt;
+      &lt;li&gt;click “commit to main”&lt;/li&gt;
+      &lt;li&gt;click “push”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Editing files on GitHub, do
+    &lt;ul&gt;
+      &lt;li&gt;click “Commit change” at bottom of change&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;next-steps-jekyll-and-themes&quot;&gt;Next steps (Jekyll and themes)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;The idea is that Jekyll is installed locally once and used to create the structure of hte site — most edits are done directly in GitHub afterwards, requiring only a browswer&lt;/li&gt;
+  &lt;li&gt;Read here https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll&lt;/li&gt;
+  &lt;li&gt;It appears to be necessary to install Jekyll on local machine&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;installing-jekyll-on-ubuntu&quot;&gt;Installing Jekyll on Ubuntu&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;I have previously done this on macOS, so that is definitely possible and actually turns out to be easier&lt;/li&gt;
+  &lt;li&gt;https://jekyllrb.com/docs/installation/ubuntu/&lt;/li&gt;
+  &lt;li&gt;In home-dir do
+    &lt;ul&gt;
+      &lt;li&gt;$ sudo sed -i ‘/cdrom/d’ /etc/apt/sources.list&lt;/li&gt;
+      &lt;li&gt;$ sudo apt-get install ruby-full build-essential zlib1g-dev&lt;/li&gt;
+      &lt;li&gt;$ echo ‘# Install Ruby Gems to ~/gems’ » ~/.bashrc&lt;/li&gt;
+      &lt;li&gt;$ echo ‘export PATH=”$HOME/gems/bin:$PATH”’ » ~/.bashrc&lt;/li&gt;
+      &lt;li&gt;$ source ~/.bashrc&lt;/li&gt;
+      &lt;li&gt;$ gem install jekyll bundler&lt;/li&gt;
+      &lt;li&gt;$ jekyll –version
+        &lt;ul&gt;
+          &lt;li&gt;answer: $ jekyll 4.2.0&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;$ gem env
+        &lt;ul&gt;
+          &lt;li&gt;GEM PATHS tells me I run ruby 2.7.0&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;$ ruby -v
+        &lt;ul&gt;
+          &lt;li&gt;answer: 2.7.0p0&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;$ gem install jekyll bundler&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In ~/Github/SwissBIAS.github.io/ do (has to happen in folder of the project)
+    &lt;ul&gt;
+      &lt;li&gt;create file “Gemfile” and add this (more will be added later on)
+        &lt;ul&gt;
+          &lt;li&gt;source “https://rubygems.org”&lt;/li&gt;
+          &lt;li&gt;gem “jekyll”&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;$ gem install bundler&lt;/li&gt;
+      &lt;li&gt;$ bundle install&lt;/li&gt;
+      &lt;li&gt;$ bundle exec jekyll serve
+        &lt;ul&gt;
+          &lt;li&gt;then navigate to http://127.0.0.1:4000/ (http://localhost:4000/) to see local version of site&lt;/li&gt;
+          &lt;li&gt;Looks slightly different from on GitHub, because GitHub has some default theme running&lt;/li&gt;
+          &lt;li&gt;Automatically creates the folder /_site/ containing “index.html” generated from “index.md”, etc&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;create folder /_layouts/ and populate with layout templates&lt;/li&gt;
+      &lt;li&gt;create folder /_members/ and populate with one file per member, e.g. “simon.noerrelykke.md”, “romain.guit.md” etc - one markdown file for each member&lt;/li&gt;
+      &lt;li&gt;etc, basically following this tutorial: https://jekyllrb.com/docs/step-by-step/01-setup/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;theme-if-bare-bones-is-too-bland&quot;&gt;Theme (if bare-bones is too bland)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Because I already know it, and because it is the most popular &lt;a href=&quot;https://github.com/topics/jekyll-theme&quot;&gt;theme&lt;/a&gt;, I start with &lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes&quot;&gt;minimal-mistakes&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Quick-start guide here: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Modified Gem and _config.yml according to “Remote theme method” and ran command “bundle”&lt;/li&gt;
+  &lt;li&gt;Added remote_theme: “mmistakes/minimal-mistakes@4.21.0” to _config.yml&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;avatar&quot;=&gt;nil, &quot;bio&quot;=&gt;nil, &quot;location&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;label&quot;=&gt;&quot;Email&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-envelope-square&quot;, &quot;url&quot;=&gt;&quot;mailto:norsimon@ethz.ch&quot;}, {&quot;label&quot;=&gt;&quot;Website&quot;, &quot;icon&quot;=&gt;&quot;fas fa-fw fa-link&quot;}, {&quot;label&quot;=&gt;&quot;Twitter&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-twitter-square&quot;}, {&quot;label&quot;=&gt;&quot;Facebook&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-facebook-square&quot;}, {&quot;label&quot;=&gt;&quot;GitHub&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-github&quot;, &quot;url&quot;=&gt;&quot;https://github.com/SwissBIAS&quot;}, {&quot;label&quot;=&gt;&quot;Instagram&quot;, &quot;icon&quot;=&gt;&quot;fab fa-fw fa-instagram&quot;}]}</name></author><category term="technotes" /><category term="Jekyll" /><category term="GitHub" /><category term="Ubuntu" /><category term="website" /><summary type="html">Notes from setting up the site on GitHub, with Jekyll on Ubuntu</summary></entry></feed>

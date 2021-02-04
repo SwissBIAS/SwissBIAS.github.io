@@ -1,0 +1,20 @@
+# main links. these appear in the top bar. keep the number below five
+main:
+  - title: Home
+    url: /
+  - title: "About" # quotation marks not required
+    url: /about/
+  - title: Members
+    url: /members/
+  - title: Posts
+    url: /posts/
+
+side: 
+  - title: Blame these
+    children:
+      - title: "Romain Guit"
+      - title: "Sebastien Herbert"
+      - title: "Guillaume Witz"
+      - title: "Simon F. Noerrelykke"
+        url: "https://norsimon.github.io/"
+
