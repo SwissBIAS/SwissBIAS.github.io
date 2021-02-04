@@ -8,8 +8,8 @@ Website for the SwissBIAS network: Swiss BioImage Analysts's network
   + git add --all
   + git commit -m "Initial commit"
   + git push -u origin main
-- Editing files/repo locally and using the GitHub desktop git client, do
+- Editing files/repo locally and using the GitHub desktop git client (mac or win), do
   + click "commit to main"
   + click "push"
 - Editing files on GitHub, do
-  + Nothing beyond saving, files are already where they need to be
+  + click "Commit change" at bottom of change
