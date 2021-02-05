@@ -11,9 +11,9 @@ Some notes from setting up the SwissBIAS website on GitHub, using Jekyll, from U
 ### First steps (hello world and README)
 - Following instructions on https://pages.github.com/
 - Editing files/repo locally and using a terminal as git client, do
-  + git add --all
-  + git commit -m "Initial commit"
-  + git push -u origin main
+  + `$ git add --all`
+  + `$ git commit -m "Initial commit"`
+  + `$ git push -u origin main`
 - Editing files/repo locally and using the GitHub desktop git client (mac or win), do
   + click "commit to main"
   + click "push"
@@ -37,7 +37,7 @@ Some notes from setting up the SwissBIAS website on GitHub, using Jekyll, from U
   - $ source ~/.bashrc
   - $ gem install jekyll bundler
   - $ jekyll --version
-    + answer: $ jekyll 4.2.0
+    + answer: `$ jekyll 4.2.0`
   - $ gem env
     + GEM PATHS tells me I run ruby 2.7.0 
   - $ ruby -v
