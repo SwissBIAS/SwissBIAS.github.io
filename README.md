@@ -5,19 +5,21 @@ Website for the SwissBIAS network: Swiss BioImage Analysts's network
 
 ## Adding and editing member information
 Each member have their own markdown file, stored in the `/_members` directory.
-It consist of a YAML frontmatter and markdown text, like this, for the file 'simon.noerrelykke.md`:
+It consist of a YAML frontmatter and markdown text, like this, for the file `simon.noerrelykke.md`:
 
-   ---
-   first_name: Simon F.
-   last_name: Noerrelykke
-   short_name: simon
-   affiliation: ETH Zurich
-   position: Image Analyst
-   tags: [matlab, fiji]
-   ---
+```
+---
+first_name: Simon F.
+last_name: Noerrelykke
+short_name: simon
+affiliation: ETH Zurich
+position: Image Analyst
+tags: [matlab, fiji]
+---
 
-   Simon works at ETH Zurich.\\
-   He heads [IDA](http://let-your-data-speak.com/) - the Image and Data Analysis group inside of ScopeM.
+Simon works at ETH Zurich.\\
+He heads [IDA](http://let-your-data-speak.com/) - the Image and Data Analysis group inside of ScopeM.
+```
 
 To create a new member file, copy an existing file, rename as `firstName.lastName.md`, change all text that needs changing, and save it in `/_members` (commit it).
 
