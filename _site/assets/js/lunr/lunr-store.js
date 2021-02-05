@@ -1,12 +1,12 @@
 var store = [{
         "title": "Guillaume.witz",
-        "excerpt":"Guillaume is a Python wizard. Check NEUBIAS Academy if you don’t believe it!  ","categories": [],
+        "excerpt":"Guillaume is a Python wizard!!!  Check NEUBIAS Academy if you don’t believe it!  ","categories": [],
         "tags": ["fiji","python"],
         "url": "http://localhost:4000/members/guillaume.witz/",
         "teaser": null
       },{
         "title": "Romain.guiet",
-        "excerpt":"Romain works at EPFL in BIOP. He is a biologist by training, but has worked with image analysis since ~2010.  ","categories": [],
+        "excerpt":"Romain works at EPFL in BIOP.  He is a biologist by training, but has worked with image analysis since ~2010.  ","categories": [],
         "tags": ["python","fiji","qupath"],
         "url": "http://localhost:4000/members/romain.guiet/",
         "teaser": null
@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Simon.noerrelykke",
-        "excerpt":"Simon works at ETH Zurich. He heads IDA - the Image and Data Analysis group inside of ScopeM.  ","categories": [],
+        "excerpt":"Simon works at ETH Zurich.  He heads IDA - the Image and Data Analysis group inside of ScopeM.  ","categories": [],
         "tags": ["matlab","fiji"],
         "url": "http://localhost:4000/members/simon.noerrelykke/",
         "teaser": null

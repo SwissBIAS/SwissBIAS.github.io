@@ -1,10 +1,11 @@
 ---
+first_name: Simon F.
+last_name: Noerrelykke
 short_name: simon
-name: Simon F. Noerrelykke
 affiliation: ETH Zurich
 position: Image Analyst
-tags: [matlab,fiji]
+tags: [matlab, fiji]
 ---
 
-Simon works at ETH Zurich.
-He heads IDA - the Image and Data Analysis group inside of ScopeM.
+Simon works at ETH Zurich.\\
+He heads [IDA](http://let-your-data-speak.com/) - the Image and Data Analysis group inside of ScopeM.

@@ -1,10 +1,11 @@
 ---
+first_name: Romain
+last_name: Guiet
 short_name: romain
-name: Romain Guiet
-association: EPFL BIOP
+affiliation: EPFL BIOP
 position: Image Analyst
 tags: [python,fiji,qupath]
 ---
 
-Romain works at EPFL in BIOP.
+Romain works at EPFL in [BIOP](https://www.epfl.ch/research/facilities/ptbiop/).\\
 He is a biologist by training, but has worked with image analysis since ~2010.

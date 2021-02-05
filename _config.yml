@@ -92,53 +92,38 @@ analytics:
 
 
 # Site Author
-author:
+#author: # outcomment to remove from sidebar
   name             : #"Simon (blame me for now)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"We are **amazing** people."
   location         : #"Switzerland"
-  email            :
+  email            : #info@swissbias.ch
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:norsimon@ethz.ch"
+      # url: "mailto:norsimon@ethz.ch"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://sites.google.com/view/swissbias/home"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/SwissBIAS"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
+
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/SwissBIAS"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SwissBIAS"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@swissbias.ch"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      #url: "https://www.swissbias.ch"
+
 
 
 # Reading Files
@@ -268,33 +253,38 @@ compress_html:
     envs: development
 
 
-# Defaults
+# Defaults 2021-02-05, sfn
 defaults:
-  # _posts
+  # _posts (anything in this folder gets this formatting)
+  # This is the layout for individual posts, not for the overview page of all posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
+      #author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+  # _pages (anything in this folder gets this formatting)
+  # If a page in the _pages folder has other layout specified, that will override this default
   - scope:
       path: ""
       type: pages
     values:
       layout: single
-      author_profile: true
+      #author_profile: true # indfluences appearance of "Follow" box in some page views
+  # _members (anything in this folder gets this formatting)
+  # This is the layout for individual member pages, not the member overview page
   - scope:
       path: ""
       type: members
     values:
-      layout: single
-      author_profile: true
+      layout: member
+      #author_profile: true
 
-# collections
+# collections: similar to posts, but content doesn't have to be grouped by date
 collections:
   members:
-    output: true
+   output: true

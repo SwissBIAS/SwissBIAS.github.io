@@ -2,8 +2,10 @@
 main:
   - title: Home
     url: /
-  - title: "About" # quotation marks not required
+  - title: About
     url: /about/
+  - title: Resources
+    url: /resources/
   - title: Members
     url: /members/
   - title: Posts
