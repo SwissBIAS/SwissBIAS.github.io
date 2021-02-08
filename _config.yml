@@ -50,8 +50,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  hide: true
-  path                   : # blank (default) uses feed.xml
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
