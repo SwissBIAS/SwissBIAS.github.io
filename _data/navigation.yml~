@@ -1,9 +1,0 @@
-main:
-  - name: Home
-    url: /
-  - name: "About" # quotation marks not required
-    url: /about/
-  - name: Members
-    url: /members/
-  - name: Blog
-    url: /blog/
