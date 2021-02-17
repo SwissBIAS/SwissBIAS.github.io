@@ -7,7 +7,6 @@ permalink: /resources/
 Annotated and curated list of links to forums, repositories for training material, etc
 
 - [image.sc](https://forum.image.sc/): Questions and answers in bioimage analysis using open-source software
-
 - [BIAflows](https://biaflows.neubias.org/#/): A BioImage Analysis workflows benchmarking platform
 - [Biii](http://biii.eu/): BioImage Informatics Index - annotated list of software, modules, and workflows
 
@@ -26,7 +25,7 @@ Annotated and curated list of links to forums, repositories for training materia
 
 ### MOOC
   - [Image Processing and Analysis for Life Scientists](https://courseware.epfl.ch/courses/course-v1:EPFL+IPA4LS+2019_t3/about)
-  -...
+  - ...
 ### Video
  - [NEUBIAS Academy](https://www.youtube.com/c/NEUBIAS/videos): YouTube videos teaching tools and concepts 
  - ...
