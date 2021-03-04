@@ -10,6 +10,11 @@ Annotated and curated list of links to forums, repositories for training materia
 - [BIAflows](https://biaflows.neubias.org/#/): A BioImage Analysis workflows benchmarking platform
 - [Biii](http://biii.eu/): BioImage Informatics Index - annotated list of software, modules, and workflows
 
+## Journals that focus on bioimage analysis
+- [F1000R NEUBIAS Gateway](https://f1000research.com/NEUBIAS)
+- [Frontiers in Bioinformatics, Computational BioImaging](https://www.frontiersin.org/journals/bioinformatics/sections/computational-bioimaging)
+- [Biological Imaging](https://www.frontiersin.org/journals/bioinformatics/sections/computational-bioimaging)
+
 ## Open-source Software & Materials
 
 ### [Fiji](https://fiji.sc) "Fiji is just ImageJ"
