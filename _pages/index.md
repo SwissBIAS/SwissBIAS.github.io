@@ -7,20 +7,17 @@ sidebar:
 
 
 
-*You guessed it, this site is under development (2021-02-05)*
+*You guessed it, this site is under development (2021-03-04)*
 
 ---
 
-## What this is
-A list of Swiss groups and facilities working with bioimage analysis
-
-News about training schools, conferences, and network events
-
+## What this site is
+A list of Swiss groups and facilities working with bioimage analysis\\
+News about training schools, conferences, and network events\\
 Links to relevant resources
 
-## What this is *not*
-A place to ask questions about image analysis - use the [forum](https://forum.image.sc/) for that
-
+## What this site is *not*
+A place to ask questions about image analysis - use the [Scientific Community Image Forum ](https://forum.image.sc/) for that\\
 A site dealing with microscopy
 
 ## The Wiki
