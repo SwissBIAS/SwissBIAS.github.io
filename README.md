@@ -1,7 +1,6 @@
 # SwissBIAS.github.io
 Website for the SwissBIAS network: Swiss BioImage Analysts's network
-
-
+See also the associated [wiki](https://github.com/SwissBIAS/SwissBIAS.github.io/wiki)
 
 ## Adding and editing member information
 Each member have their own markdown file, stored in the `/_members` directory.
@@ -32,7 +31,7 @@ The new member will automatically be added to the list of all members and have t
 
 
 ## Adding pages
-To add a webpage, create it as markdown or html and place it in `_pages`.
+To add a webpage, create it as markdown or html and place it in `_pages` (become and editor or create a pull request for this).
 You can link to it from another page or add it to the navigation menu (be conservative -- navigation bars quickly become crowded).
 
 ## Navigation bars
