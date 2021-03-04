@@ -12,8 +12,8 @@ sidebar:
 ---
 
 ## What this site is
-A list of Swiss groups and facilities working with bioimage analysis\\
-News about training schools, conferences, and network events\\
+A list of Swiss groups and facilities working with bioimage analysis__
+News about training schools, conferences, and network events \n
 Links to relevant resources
 
 ## What this site is *not*
