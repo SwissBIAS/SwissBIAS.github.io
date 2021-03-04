@@ -5,6 +5,7 @@ short_name: simon
 affiliation: ETH Zurich
 position: Image Analyst
 tags: [matlab, fiji]
+categories: [cat1, cat2, cat3]
 ---
 
 Simon works at ETH Zurich.\\

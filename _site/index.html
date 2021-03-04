@@ -139,6 +139,13 @@
               <a href="/posts/">Posts</a>
             </li></ul>
         
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
@@ -183,11 +190,11 @@
         
         <ul>
           
-            <li><a href="">Romain Guit</a></li>
+            <li><a href="">Romain Guiet</a></li>
           
             <li><a href="">Sebastien Herbert</a></li>
           
-            <li><a href="">Guillaume Witz</a></li>
+            <li><a href="https://guiwitz.github.io/">Guillaume Witz</a></li>
           
             <li><a href="https://norsimon.github.io/">Simon F. Noerrelykke</a></li>
           
@@ -239,6 +246,8 @@
 
 <p>A site dealing with microscopy</p>
 
+<h2 id="the-wiki">The Wiki</h2>
+<p>The <a href="https://github.com/SwissBIAS/SwissBIAS.github.io/wiki">wiki page</a> is for more technical information: How-to pages, recommendations of software to use for specific tasks (often the result of discussions within the network). Take a look and let us know if you want to contribute something.</p>
 
         
       </section>
@@ -266,6 +275,19 @@
 
     </div>
 
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form onsubmit="return googleCustomSearchExecute();" id="cse-search-box-form-id">
+    <label class="sr-only" for="cse-search-input-box-id">
+      Enter your search term...
+    </label>
+    <input type="search" id="cse-search-input-box-id" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results">
+    <gcse:searchresults-only></gcse:searchresults-only>
+  </div></div>
+
+      </div>
     
 
     <div id="footer" class="page__footer">
@@ -297,7 +319,7 @@
       
     
 
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <!--<li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>-->
   </ul>
 </div>
 
@@ -310,7 +332,30 @@
   <script src="/assets/js/main.min.js"></script>
 
 
+<script>
+  (function () {
+    var cx = 'cd9c255d49d66539b';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
 
+  function googleCustomSearchExecute() {
+    var input = document.getElementById('cse-search-input-box-id');
+    var element = google.search.cse.element.getElement('searchresults-only0');
+    if (input.value == '') {
+      element.clearAllResults();
+    } else {
+      element.execute(input.value);
+    }
+    return false;
+  }
+
+  
+</script>
 
 
 

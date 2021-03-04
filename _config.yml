@@ -274,7 +274,7 @@ defaults:
       type: pages
     values:
       layout: single
-      #author_profile: true # indfluences appearance of "Follow" box in some page views
+      #author_profile: true # influences appearance of "Follow" box in some page views
   # _members (anything in this folder gets this formatting)
   # This is the layout for individual member pages, not the member overview page
   - scope:
@@ -287,4 +287,4 @@ defaults:
 # collections: similar to posts, but content doesn't have to be grouped by date
 collections:
   members:
-   output: true
+    output: true
