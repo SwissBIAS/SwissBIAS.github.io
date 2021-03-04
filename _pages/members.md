@@ -3,7 +3,8 @@ title: All members
 permalink: /members/
 ---
 
-A list of all members (under construction)
+A list of all members (under construction)  
+To become a member, please send an email (link in footer)
 
 
 <ul>
