@@ -23,3 +23,5 @@ A place to ask questions about image analysis - use the [forum](https://forum.im
 
 A site dealing with microscopy
 
+## The Wiki
+The [wiki page](https://github.com/SwissBIAS/SwissBIAS.github.io/wiki) is for more technical information: How-to pages, recommendations of software to use for specific tasks (often the result of discussions within the network). Take a look and let us know if you want to contribute something.
