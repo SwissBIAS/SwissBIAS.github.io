@@ -24,9 +24,11 @@ Annotated and curated list of links to forums, repositories for training materia
 - [Tutorials](https://www.youtube.com/channel/UCk5fn7cjMZFsQKKdy-YWOFQ) 
 ### [CellProfiler](https://cellprofiler.org/)
 - [Tutorials](https://cellprofiler.org/tutorials)
-### ...
+### [Qu](https://github.com/aarpon/qu) - DeepLearning & Napari
+"Qu is an attempt to make the full deep learning workflow more interactive by providing a user interface that abstracts all steps from ground truth generation and curation to training and prediction."
 
-## Educationnal Content
+
+## Educational Content
 
 ### MOOC
   - [Image Processing and Analysis for Life Scientists](https://courseware.epfl.ch/courses/course-v1:EPFL+IPA4LS+2019_t3/about)
