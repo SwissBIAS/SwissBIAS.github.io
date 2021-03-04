@@ -5,6 +5,7 @@ short_name: seb
 affiliation: IMCF-Unibasel
 position: Bioimage Analyst
 tags: [fiji, Python, MATLAB, Deep-Learning]
+#categories: [cat1, cat5]
 ---
 
 Seb works at the Imaging Core Facility of the Biozentrum, University of Basel.

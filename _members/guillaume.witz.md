@@ -5,6 +5,7 @@ short_name: witz
 affiliation: Bern University
 position: Bioimage Analyst
 tags: [fiji,python]
+#categories: [cat6]
 ---
 
 Guillaume is a Python wizard!!!\\

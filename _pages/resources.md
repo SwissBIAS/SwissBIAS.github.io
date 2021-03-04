@@ -1,6 +1,9 @@
 ---
 title: Resources
 permalink: /resources/
+toc: true
+toc_sticky: true
+classes: wide
 ---
 
 ## Useful links

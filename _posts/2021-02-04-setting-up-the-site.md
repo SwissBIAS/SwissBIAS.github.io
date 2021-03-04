@@ -2,6 +2,8 @@
 #title: This title is different from the file name
 #member: simon
 #short_name: simon
+classes: wide
+toc: true
 excerpt: "Notes from setting up the site on GitHub, with Jekyll on Ubuntu"
 category: technotes
 tags: [Jekyll, GitHub, Ubuntu, website]

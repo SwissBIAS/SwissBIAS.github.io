@@ -5,6 +5,7 @@ short_name: romain
 affiliation: EPFL BIOP
 position: Image Analyst
 tags: [python,fiji,qupath]
+#categories: [cat2, cat4]
 ---
 
 Romain works at EPFL in [BIOP](https://www.epfl.ch/research/facilities/ptbiop/).\\

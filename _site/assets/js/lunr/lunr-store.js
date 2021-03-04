@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Simon.noerrelykke",
-        "excerpt":"Simon works at ETH Zurich.  He heads IDA - the Image and Data Analysis group inside of ScopeM.  ","categories": ["cat1","cat2","cat3"],
+        "excerpt":"Simon works at ETH Zurich.  He heads IDA - the Image and Data Analysis group inside of ScopeM.  ","categories": [],
         "tags": ["matlab","fiji"],
         "url": "http://localhost:4000/members/simon.noerrelykke/",
         "teaser": null
