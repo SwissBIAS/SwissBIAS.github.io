@@ -10,7 +10,10 @@ Founded on 2021-01-21, during the pandemic, in a kick-off Zoom call between ~25 
 ---
 
 # Knowledge Exchange Meetings
+Monthly meetings are held on the first Tuesday/Thursday of even/odd months.
 
+- 2021-04-06: Zoom. Monthly meeting
+- 2021-03-03: Zoom. Monthly meeting
 - 2021-02-02: Zoom. First monthly meeting
 - 2021-01-21: Zoom. Kick-off meeting
 - 2021-01-21: Zoom. imaging@EPFL, Biozentrum, IDA@ETH
