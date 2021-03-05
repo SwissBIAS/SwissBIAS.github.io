@@ -288,3 +288,4 @@ defaults:
 collections:
   members:
     output: true
+#    sort_by: last_name #doesn't seem to have any effect
