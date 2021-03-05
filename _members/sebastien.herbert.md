@@ -2,9 +2,9 @@
 first_name: Sebastien
 last_name: Herbert
 short_name: seb
-affiliation: IMCF-Unibasel
+affiliation: University of Basel
 position: Bioimage Analyst
-tags: [fiji, Python, MATLAB, Deep-Learning]
+tags: [fiji, Python]
 #categories: [cat1, cat5]
 ---
 

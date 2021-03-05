@@ -3,7 +3,7 @@ first_name: Andrzej
 last_name: Rzepiela
 short_name: andrzej
 affiliation: ETH Zurich
-position: Image Analyst
+position: Data Analyst
 tags: [python, phaedra]
 #categories: [cat1, cat2, cat3]
 ---
