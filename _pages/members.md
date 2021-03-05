@@ -14,8 +14,7 @@ toc: false
 #show_excerpts: false # true false
 ---
 
-A list of all members (under construction)  
-_To become a member, please send an email (link in footer)_
+If you want to join, [email us](mailto:info@swissbias.ch)
 
 
 {% comment %}
