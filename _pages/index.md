@@ -5,8 +5,6 @@ sidebar:
   nav: "side"
 ---
 
-<meta name="google-site-verification" content="sAvNw3LhO-WsvwTa0c5VgJdhutPoDuuCl5dMph2k_4M" />
-
 *You guessed it, this site is under development (2021-03-04)*
 
 ---
