@@ -335,15 +335,13 @@
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><form onsubmit="return googleCustomSearchExecute();" id="cse-search-box-form-id">
-    <label class="sr-only" for="cse-search-input-box-id">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
       Enter your search term...
     </label>
-    <input type="search" id="cse-search-input-box-id" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
   </form>
-  <div id="results" class="results">
-    <gcse:searchresults-only></gcse:searchresults-only>
-  </div></div>
+  <div id="results" class="results"></div></div>
 
       </div>
     
@@ -390,30 +388,11 @@
   <script src="/assets/js/main.min.js"></script>
 
 
-<script>
-  (function () {
-    var cx = 'e9f50f34b77390e73';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
 
-  function googleCustomSearchExecute() {
-    var input = document.getElementById('cse-search-input-box-id');
-    var element = google.search.cse.element.getElement('searchresults-only0');
-    if (input.value == '') {
-      element.clearAllResults();
-    } else {
-      element.execute(input.value);
-    }
-    return false;
-  }
 
-  
-</script>
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 
