@@ -23,7 +23,7 @@ Monthly meetings are held on the first Tuesday/Thursday of even/odd months.
 - 2020-11-06: Zoom. imaging@EPFL and IDA@ETH
 
 
-
+<!-- duplicates information in "members"
 ---
 # Facilities and Groups
 *involved in consultations, project work, training, teaching, research*
@@ -58,3 +58,5 @@ Monthly meetings are held on the first Tuesday/Thursday of even/odd months.
 - [IDA](http://www.let-your-data-speak.com/), [ScopeM](https://scopem.ethz.ch/), [ETHZ](https://ethz.ch/en.html)
 - ZMB, University of Zurich
 - ZHAW
+
+-->
