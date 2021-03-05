@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Andrzej.rzepiela",
+        "excerpt":"Andrzej works at ETH Zurich in IDA - the Image and Data Analysis group inside of ScopeM.   Currently focused on applying deep learning to denoising of single-particle cryoEM images.   Also responsible for much of the virtualisation of image processing in ScopeM.  ","categories": [],
+        "tags": ["python","phaedra"],
+        "url": "http://localhost:4000/members/andrzej.rzepiela/",
+        "teaser": null
+      },{
         "title": "Guillaume.witz",
         "excerpt":"Guillaume is a Python wizard!!!  Check NEUBIAS Academy if you don’t believe it!  ","categories": [],
         "tags": ["fiji","python"],
@@ -21,6 +27,12 @@ var store = [{
         "excerpt":"Simon works at ETH Zurich.  He heads IDA - the Image and Data Analysis group inside of ScopeM.  ","categories": [],
         "tags": ["matlab","fiji"],
         "url": "http://localhost:4000/members/simon.noerrelykke/",
+        "teaser": null
+      },{
+        "title": "Szymon.stoma",
+        "excerpt":"Szymon works at ETH Zurich in IDA - the Image and Data Analysis group inside of ScopeM.   He is also a serial-entrepreneur - ask him about it!  ","categories": [],
+        "tags": ["python","fiji"],
+        "url": "http://localhost:4000/members/szymon.stoma/",
         "teaser": null
       },{
         "title": "Setting Up The Site",
