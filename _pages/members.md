@@ -59,7 +59,7 @@ Controlling output directly through `liquid` with `tags` and `filters`.
 
 {% endcomment %}
 
-{% assign groups = site.members | group_by: "affiliation" | sort: "first_name" %}
+{% assign groups = site.members |  sort: "affiliation" | group_by: "affiliation" %}
 
 
 <ul> 
