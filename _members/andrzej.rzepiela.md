@@ -5,7 +5,8 @@ short_name: andrzej
 affiliation: ETH Zurich
 position: Data Analyst
 tags: [python, phaedra]
-#categories: [cat1, cat2, cat3]
+categories: [cat3, cat4, cat5]
+tools: [python]
 ---
 
 Andrzej works at ETH Zurich in [IDA](http://let-your-data-speak.com/) - the Image and Data Analysis group inside of ScopeM.

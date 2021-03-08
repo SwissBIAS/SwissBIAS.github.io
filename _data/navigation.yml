@@ -15,9 +15,11 @@ side:
   - title: Blame these
     children:
       - title: "Romain Guiet"
+        url: /members/romain.guiet/
       - title: "Sebastien Herbert"
+        url: /members/sebastien.herbert/
       - title: "Guillaume Witz"
-        url: "https://guiwitz.github.io/"
+        url: /members/guillaume.witz/
       - title: "Simon F. Noerrelykke"
-        url: "https://norsimon.github.io/"
+        url: /members/simon.noerrelykke/
 

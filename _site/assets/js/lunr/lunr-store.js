@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Andrzej.rzepiela",
-        "excerpt":"Andrzej works at ETH Zurich in IDA - the Image and Data Analysis group inside of ScopeM.   Currently focused on applying deep learning to denoising of single-particle cryoEM images.   Also responsible for much of the virtualisation of image processing in ScopeM.  ","categories": [],
+        "excerpt":"Andrzej works at ETH Zurich in IDA - the Image and Data Analysis group inside of ScopeM.   Currently focused on applying deep learning to denoising of single-particle cryoEM images.   Also responsible for much of the virtualisation of image processing in ScopeM.  ","categories": ["cat3","cat4","cat5"],
         "tags": ["python","phaedra"],
         "url": "http://localhost:4000/members/andrzej.rzepiela/",
         "teaser": null
@@ -180,7 +180,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Simon.noerrelykke",
-        "excerpt":"Simon works at ETH Zurich.  He heads IDA - the Image and Data Analysis group inside of ScopeM.  ","categories": [],
+        "excerpt":"Simon works at ETH Zurich where he heads IDA - the Image and Data Analysis group inside of ScopeM.   Background: Physics.  Current interests: Deep Learning applied to bioimage analysis.   Areas of expertise: Bioimage analysis, high-content screening analysis, time-series anaysis,  mathematical modeling of stochastic processes.   Heavy user of: org-mode in Emacs.   BIA tools: Fiji, CellProfiler, ilastik, Imaris, MATLAB, Python.   For more information, please see personal scientific homepage.  ","categories": ["cat1","cat2","cat3"],
         "tags": ["matlab","fiji"],
         "url": "http://localhost:4000/members/simon.noerrelykke/",
         "teaser": null
@@ -192,7 +192,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Szymon.stoma",
-        "excerpt":"Szymon works at ETH Zurich in IDA - the Image and Data Analysis group inside of ScopeM.   He is also a serial-entrepreneur - ask him about it!  ","categories": [],
+        "excerpt":"Szymon works at ETH Zurich in IDA - the Image and Data Analysis group inside of ScopeM.   He is also a serial-entrepreneur - ask him about it!  ","categories": ["cat2","cat3"],
         "tags": ["python","fiji"],
         "url": "http://localhost:4000/members/szymon.stoma/",
         "teaser": null
