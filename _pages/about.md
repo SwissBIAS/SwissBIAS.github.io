@@ -3,14 +3,28 @@ title: About
 permalink: /about/
 ---
 
-SwissBIAS is the Swiss BioImage Analysts's Society, or network, if you please.\\
-Founded on 2021-01-21, during the pandemic, in a kick-off Zoom call between ~25 Swiss-based bioimage analysts.
+The *Swiss BioImage Analysts's Society* is a network for and by bioimage analysts working in Switzerland.
+Founded on *2021-01-21* in a kick-off Zoom call between 25 Swiss-based bioimage analysts.
+
+This is a community effort driven by all members, with flexible degrees of involvement: If there is something you would like to see done, the fastest way may well be to just do it.
+
+We purposefully run this as a shoe-string operation, with the declared goal of keeping adminstrative overhead minimal --- no newsletters, no board meetings, no reports.
+
+
+
+# Purpose
+- **Knowledge exchange**: Both technical and political
+- **Collaborations**: Facilitating collaborations on projects
+- **Teaching**: Sharing training material and organising events
+- **Grant writing**: Collaborate on  grant applications
+- **Visibility**: Define the role of bioimage analysts  
 
 
 ---
 
 # Knowledge Exchange Meetings
 Monthly meetings are held on the first Tuesday/Thursday of even/odd months.
+Details (Zoom links, agenda, minutes) are available to all members via SLACK. 
 
 - 2021-04-06: Zoom. Monthly meeting
 - 2021-03-03: Zoom. Monthly meeting
@@ -21,6 +35,14 @@ Monthly meetings are held on the first Tuesday/Thursday of even/odd months.
 - 2020-11-19: Zoom. imaging@EPFL, Biozentrum, IDA@ETH
 - 2020-11-12: Zoom. imaging@EPFL, Biozentrum, IDA@ETH
 - 2020-11-06: Zoom. imaging@EPFL and IDA@ETH
+
+# Map
+Where we are (last update: 2021-02-21)
+
+![map of member locations](/assets/images/map.png)
+
+
+
 
 
 <!-- duplicates information in "members"

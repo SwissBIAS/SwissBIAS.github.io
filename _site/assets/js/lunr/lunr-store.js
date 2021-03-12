@@ -60,8 +60,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Guillaume.witz",
-        "excerpt":"Microscopy Imaging Center and Science IT Support   Guillaume is a Python wizard!!!  Check NEUBIAS Academy if you don’t believe it!  ","categories": [],
-        "tags": ["fiji","python"],
+        "excerpt":"After a decade spent doing research in biophysics (PhD EPFL) and microbiology (Harvard, Biozentrum), Guillaume has been responsible since 2018 for bioimage analysis and big data support at the Microcscopy Imaging Center (MIC) and the Science IT Support (ScITS) group of Bern University. He helps scientists from the Medical, Veterinary and Science Faculties to make the best out of their microscopy imaging data by 1) providing advice on image processing software, 2) writing automation scripts for software like Fiji and 3) developing custom code in Python for advanced applications often involving Machine and Deep Learning. He also regularly gives courses mostly centered on Python and Jupyter from introductions to scientific computing (Numpy, Pandas etc.) to distributed computing (Dask, HPC) and deep learning for imaging (PyTorch).   Background: Physics, Microbiology.   Current interests: Distributed computing and Deep Learning for bioimage analysis.   Areas of expertise: Bioimage analysis, High Performance Computing, Jupyter and JupyterHubs   BIA tools: Python, Fiji, CellProfiler, ilastik, Imaris, MATLAB.   For more information, please see personal scientific homepage.  ","categories": [],
+        "tags": ["fiji","python","jupyter","ilastik","pytorch","scikit-image","dask","napari"],
         "url": "http://localhost:4000/members/guillaume.witz/",
         "teaser": null
       },{
@@ -150,8 +150,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Olivier.burri",
-        "excerpt":"BIOP: BioImaging &amp; Optics Platform   Waiting for Olivier’s input here ;-)  ","categories": [],
-        "tags": ["fiji"],
+        "excerpt":"BIOP: BioImaging &amp; Optics Platform   Oli has been working at the BIOP since 2010 after a successful Masters in Computational Biology. He is responsible, along with Romain Guiet and Nicolas Chiaruttini, for the advice and follow up of student projects involving microscopy and quantification within the faculty of Life Sciences at the Ecole Polytechnique Fédérale de Lausanne. On top of that, he is responsible for part of the group’s IT infrastructure and server maintenance and being the token bald guy of the group.   Background: Bioengineering, Computational Biology.   Current interests: Teaching bioimage analysis, using Deep Learning approaches to to bioimage analysis. Logos. Producing meaningful documentation for developers and users through C4Science   Areas of expertise: Bioimage analysis, Whole Slide Imaging, Websites, IT hardware.   Common BIA tools:* Fiji, CellProfiler, ilastik, Imaris, QuPath, OMERO.   Spoken Languages: Groovy, Java, JavaScript, MATLAB, Python, R, Ruby, PHP, French, English, Spanish.   Online presence:     Twitter   GitHub   ImageSC Forum  ","categories": [],
+        "tags": ["fiji","imagej","qupath","cellpose","imagesc","ilastik","cellprofiler"],
         "url": "http://localhost:4000/members/olivier.burri/",
         "teaser": null
       },{
