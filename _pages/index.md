@@ -16,7 +16,7 @@ Links to relevant resources.
 A list of members.  
 
 ## What this site is *not* for
-Online discussions about image analysis - pleae use the great [Scientific Community Image Forum ](https://forum.image.sc/) for that.  
+Online discussions about image analysis - please use the great [Scientific Community Image Forum ](https://forum.image.sc/) for that.  
 Finding information about imaging - rather try the [MicroForum](https://forum.microlist.org/) for that.  
 
 ## The Wiki
