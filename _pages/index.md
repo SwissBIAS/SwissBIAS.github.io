@@ -5,6 +5,10 @@ sidebar:
   nav: "side"
 ---
 
+<head>
+<meta name="google-site-verification" content="sAvNw3LhO-WsvwTa0c5VgJdhutPoDuuCl5dMph2k_4M" />
+</head>
+
 SwissBIAS: The Swiss BioImage Analysts's Society.  
 We are still building this site, so please bear with us.
 
