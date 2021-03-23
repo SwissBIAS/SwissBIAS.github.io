@@ -7,7 +7,7 @@ sidebar:
 
 
 SwissBIAS: The Swiss BioImage Analysts's Society.  
-We are still building this site, so please bear with us.
+(We are still building this site)
 
 ---
 
