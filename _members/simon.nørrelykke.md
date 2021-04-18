@@ -1,6 +1,6 @@
 ---
 first_name: Simon F.
-last_name: Noerrelykke
+last_name: Nørrelykke
 short_name: simon
 affiliation: ETH Zurich
 position: Image Analyst
