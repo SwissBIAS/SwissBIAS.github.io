@@ -26,6 +26,8 @@ We purposefully run this as a shoe-string operation, with the declared goal of k
 Monthly meetings are held on the first Tuesday/Thursday of even/odd months.
 Details (Zoom links, agenda, minutes) are available to all members via SLACK. 
 
+- 2021-06-01: Zoom. Monthly meeting
+- 2021-05-05: Zoom. Monthly meeting
 - 2021-04-06: Zoom. Monthly meeting
 - 2021-03-03: Zoom. Monthly meeting
 - 2021-02-02: Zoom. First monthly meeting
