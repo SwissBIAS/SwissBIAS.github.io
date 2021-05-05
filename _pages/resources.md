@@ -49,13 +49,15 @@ Annotated and curated list of links to forums, repositories for training materia
 
 ## Training Events, BioImage Analysis
 ### Switzerland
-- ZIDAS 2021 [TBD]
+- [ZIDAS 2020](https://2020.zidas.org/), EPFL & ETHZ, Virtual
+
 
 ### Abroad
 - [Advanced Methods in Bioimage Analysis](https://www.embl.de/training/events/2021/BIA21-01/index.html), EMBL Heidelberg, Germany [Virtual], 28 June - 2 July, 2021.
-- [Deep Learning for BioImage Analysis](https://www.embl.de/training/events/2021/MAC21-01/index.html), EMBL, Heidelberg, Germany [Virtual]. 8-12 Feb, 2021.
+
 
 ### Past Events
+- [Deep Learning for BioImage Analysis](https://www.embl.de/training/events/2021/MAC21-01/index.html), EMBL, Heidelberg, Germany [Virtual]. 8-12 Feb, 2021.
 - [ZIDAS 2020](https://2020.zidas.org/), EPFL & ETHZ, Virtual
 - [ZIDAS 2019](https://2019.zidas.org/), ETHZ, Zurich
 - [ZIDAS 2018](https://2018.zidas.org/), ETHZ, Zurich

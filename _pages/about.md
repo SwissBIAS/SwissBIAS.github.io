@@ -4,13 +4,15 @@ permalink: /about/
 ---
 
 The *Swiss BioImage Analysts's Society* is a network for and by bioimage analysts working in Switzerland.
-Founded on *2021-01-21* in a kick-off Zoom call between 25 Swiss-based bioimage analysts.
+Founded in early 2021 via Zoom, by 25 Swiss-based bioimage analysts.
 
-This is a community effort driven by all members, with flexible degrees of involvement: If there is something you would like to see done, the fastest way may well be to just do it.
+This is a community effort driven by all members, with flexible degrees of involvement: 
+If there is something you would like to see done, the fastest way may well be to just do it.
 
 We purposefully run this as a shoe-string operation, with the declared goal of keeping adminstrative overhead minimal --- no newsletters, no board meetings, no reports.
 
-
+If you want to join us as a member, just send an [email](mailto:info@swissbias.ch) and we will invite you.
+There are currently no fees or charges involved in the running or joining of SwissBIAS.
 
 # Purpose
 - **Knowledge exchange**: Both technical and political

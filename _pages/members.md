@@ -14,7 +14,7 @@ toc: false
 #show_excerpts: false # true false
 ---
 
-If you want to join, [email us](mailto:info@swissbias.ch)
+If you want to become a member, just [email us](mailto:info@swissbias.ch) saying so.
 
 
 {% assign groups = site.members |  sort: "affiliation" | group_by: "affiliation" %}
