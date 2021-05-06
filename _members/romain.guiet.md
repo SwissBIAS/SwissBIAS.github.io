@@ -2,14 +2,14 @@
 first_name: Romain
 last_name: Guiet
 
-affiliation: Ecole Polytechnique Fédérale de Lausanne (EPFL)
+affiliation: EPFL
 position: BioImage Analyst
 tags: [fiji, imagej, qupath, image.sc, ilastik, cellprofiler, cellprofiler analyst, cellpose, knime , omero, renku , imaris, icy ]
 #categories: [cat1, cat2, cat3]
 ---
 BIOP: BioImaging & Optics Platform lead by [Arne Seitz](/members/arne.seitz/)
 
-Romain has been working at the [BIOP](https://www.epfl.ch/research/facilities/ptbiop/) since 2011 after a Ph.D. in  Biology. He is responsible, along with [Olivier Burri](/members/olivier.burri/) and [Nicolas Chiaruttini](/members/nicolas.chiaruttini/), for the advice and follow up of student projects involving microscopy and quantification within the faculty of [Life Sciences at EPFL](https://www.epfl.ch/schools/sv/). His expertise with *in vitro* cell culture and imaging is also beneficial to help users with their staining strategies and experiments optimization.
+Romain has been working at the [BIOP](https://www.epfl.ch/research/facilities/ptbiop/) since 2011 after a Ph.D. in  Biology. He is responsible, along with [Olivier Burri](/members/olivier.burri/) and [Nicolas Chiaruttini](/members/nicolas.chiaruttini/), for the advice and follow up of student projects involving microscopy and quantification within the faculty of [Life Sciences at Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/schools/sv/). His expertise with *in vitro* cell culture and imaging is also beneficial to help users with their staining strategies and experiments optimization.
 
 **Background:** Bioengineering, Ph.D. Immunology & Cancer (3D cell migration , organoid , cell-cytoskeleton)
 
