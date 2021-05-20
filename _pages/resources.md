@@ -49,7 +49,7 @@ Annotated and curated list of links to forums, repositories for training materia
 
 ## Training Events, BioImage Analysis
 ### Switzerland
-- [ZIDAS 2020](https://2020.zidas.org/), EPFL & ETHZ, Virtual
+- [ZIDAS 2021](https://2021.zidas.org/), EPFL & ETHZ, Virtual
 
 
 ### Abroad
