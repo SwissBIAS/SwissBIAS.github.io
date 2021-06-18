@@ -1,7 +1,7 @@
 ---
 title: Resources
 permalink: /resources/
-toc: true
+toc: false
 toc_sticky: true
 classes: wide
 ---
@@ -9,7 +9,7 @@ classes: wide
 ## Useful links
 Annotated and curated list of links to forums, repositories for training material, etc
 
-- [image.sc](https://forum.image.sc/): Questions and answers in bioimage analysis using open-source software
+- [image.sc](https://forum.image.sc/): Job-listing, questions and answers in bioimage analysis using open-source software
 - [BIAflows](https://biaflows.neubias.org/#/): A BioImage Analysis workflows benchmarking platform
 - [Biii](http://biii.eu/): BioImage Informatics Index - annotated list of software, modules, and workflows
 
@@ -17,24 +17,6 @@ Annotated and curated list of links to forums, repositories for training materia
 - [F1000R NEUBIAS Gateway](https://f1000research.com/NEUBIAS)
 - [Frontiers in Bioinformatics, Computational BioImaging](https://www.frontiersin.org/journals/bioinformatics/sections/computational-bioimaging)
 - [Biological Imaging](https://www.frontiersin.org/journals/bioinformatics/sections/computational-bioimaging)
-
-## Open-source Software & Materials
-
-### [Fiji](https://fiji.sc) "Fiji is just ImageJ"
-- [On GitHub w. links to plugins also on Github](https://github.com/fiji)
-- [ImageJ tutorials (lists)](https://imagej.net/Tutorials)
-- [Presentation slides](http://imagej.github.io/presentations/fiji-introduction/#/)
-
-
-### [Qupath](https://qupath.github.io/): platform for whole slide image analysis.
-- [Tutorials on youTube](https://www.youtube.com/channel/UCk5fn7cjMZFsQKKdy-YWOFQ) 
-
-### [CellProfiler](https://cellprofiler.org/)
-- [Tutorials](https://cellprofiler.org/tutorials)
-
-### [Qu](https://github.com/aarpon/qu) - DeepLearning & Napari
-"Qu is an attempt to make the full deep learning workflow more interactive by providing a user interface that abstracts all steps from ground truth generation and curation to training and prediction."
-
 
 ## Educational Content
 
