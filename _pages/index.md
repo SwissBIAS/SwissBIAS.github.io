@@ -12,12 +12,7 @@ SwissBIAS: The Swiss BioImage Analysts's Society.
 
 ## What this site contains
 News about training schools, conferences, and network events.  
-Links to relevant resources.  
-A list of members.  
-
-## What this site is *not* for
-Online discussions about image analysis - please use the great [Scientific Community Image Forum ](https://forum.image.sc/) for that.  
-Finding information about imaging - rather try the [MicroForum](https://forum.microlist.org/) for that.  
+A list of members.   
 
 ## The Wiki
 The [wiki page](https://github.com/SwissBIAS/SwissBIAS.github.io/wiki) is for more technical information: 
