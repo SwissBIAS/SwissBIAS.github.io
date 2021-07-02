@@ -2,8 +2,10 @@
 Website for the SwissBIAS network: Swiss BioImage Analysts's network
 See also the associated [wiki](https://github.com/SwissBIAS/SwissBIAS.github.io/wiki)
 
-We decided to keep some control over what’s published by merging Pull Requests. So please fork, modify, PR and then we’ll merge your changes.
-If you would prefer to regenerate the website to make sure it looks exactly as you want before pushing it, you can create your locally served website. To do so, follow the instructions provided [here](https://github.com/imagej/imagej.github.io/blob/main/_pages/editing/advanced.md).
+
+## How to contribute
+We decided to keep some control over what’s published by merging Pull Requests. So ***please fork, modify, PR*** and then we’ll merge your changes. Please see this [guide to create a Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). \
+If you would prefer to generate a dummy website to make sure it looks exactly as you want before pushing it, you can create your locally served website. To do so, follow the instructions provided [here](https://github.com/imagej/imagej.github.io/blob/main/_pages/editing/advanced.md).
 
 ## Adding and editing member information
 Each member have their own markdown file, stored in the `/_members` directory.
