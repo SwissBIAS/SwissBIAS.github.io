@@ -2,6 +2,9 @@
 Website for the SwissBIAS network: Swiss BioImage Analysts's network
 See also the associated [wiki](https://github.com/SwissBIAS/SwissBIAS.github.io/wiki)
 
+We decided to keep some control over what’s published by merging Pull Requests. So please fork, modify, PR and then we’ll merge your changes.
+If you would prefer to regenerate the website to make sure it looks exactly as you want before pushing it, you can create your locally served website. To do so, follow the instructions provided [here](https://github.com/imagej/imagej.github.io/blob/main/_pages/editing/advanced.md).
+
 ## Adding and editing member information
 Each member have their own markdown file, stored in the `/_members` directory.
 It consist of a YAML frontmatter and markdown text, like this, for the file `simon.noerrelykke.md`:
