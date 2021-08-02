@@ -28,7 +28,8 @@ There are currently no fees or charges involved in the running or joining of Swi
 Monthly meetings are held on the first Tuesday/Thursday of even/odd months.
 Details (Zoom links, agenda, minutes) are available to all members via SLACK. 
 
-- 2021-08-03: Zoom. Monthly meeting
+- 2021-09-02: Zoom. Monthly meeting
+- 2021-08-03: Summer break. No meeting.
 - 2021-07-01: Zoom. Monthly meeting
 - 2021-06-24: Zoom. Renku demo, by BIOP and SDSC 
 - 2021-06-01: Zoom. Monthly meeting
