@@ -1,5 +1,5 @@
 # SwissBIAS.github.io
-Website for the SwissBIAS network: Swiss BioImage Analysts's network
+Website for the SwissBIAS network: Swiss BioImage Analysts' network
 See also the associated [wiki](https://github.com/SwissBIAS/SwissBIAS.github.io/wiki)
 
 
