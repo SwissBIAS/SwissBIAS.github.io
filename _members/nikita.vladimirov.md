@@ -1,7 +1,7 @@
 ---
 first_name: Nikita
 last_name: Vladimirov
-short_name: @nvladimus
+short_name: "@nvladimus"
 affiliation: University of Zurich
 position: Staff Scientist
 tags: [matlab]

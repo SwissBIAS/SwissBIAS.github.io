@@ -213,6 +213,8 @@ Used for trying out different layouts and learning to use <code class="language-
 
 <p>andrzej has value of dummy-tool variable: [“python”]</p>
 
+<p>@nvladimus has value of dummy-tool variable: [“matlab”]</p>
+
 <p>simon has value of dummy-tool variable: [“fiji”“matlab”“ilastik”]</p>
 
 <p>szymon has value of dummy-tool variable: [“fiji”“python”]</p>
@@ -224,16 +226,18 @@ Used for trying out different layouts and learning to use <code class="language-
 
 <p>Value of alltools in loop: ["fiji", "fiji", "[\"python\"]"]</p>
 
-<p>Value of alltools in loop: ["fiji", "fiji", "[\"python\"]", "[\"fiji\"", " \"matlab\"", " \"ilastik\"]"]</p>
+<p>Value of alltools in loop: ["fiji", "fiji", "[\"python\"]", "[\"matlab\"]"]</p>
 
-<p>Value of alltools in loop: ["fiji", "fiji", "[\"python\"]", "[\"fiji\"", " \"matlab\"", " \"ilastik\"]", "[\"fiji\"", " \"python\"]"]</p>
+<p>Value of alltools in loop: ["fiji", "fiji", "[\"python\"]", "[\"matlab\"]", "[\"fiji\"", " \"matlab\"", " \"ilastik\"]"]</p>
 
-<p>remove “\”: [“fiji”, “fiji”, “[“python”]”, “[“fiji””, “ “matlab””, “ “ilastik”]”, “[“fiji””, “ “python”]”]<br />
-remove “\”, “[”: “fiji”, “fiji”, ““python”]”, ““fiji””, “ “matlab””, “ “ilastik”]”, ““fiji””, “ “python”]”]<br />
-remove “\”, “[”, “]”: “fiji”, “fiji”, ““python””, ““fiji””, “ “matlab””, “ “ilastik””, ““fiji””, “ “python””</p>
+<p>Value of alltools in loop: ["fiji", "fiji", "[\"python\"]", "[\"matlab\"]", "[\"fiji\"", " \"matlab\"", " \"ilastik\"]", "[\"fiji\"", " \"python\"]"]</p>
 
-<p>Unique list: fiji[“python”][“fiji” “matlab” “ilastik”] “python”]<br />
-Unique list, inspected: ["fiji", "[\"python\"]", "[\"fiji\"", " \"matlab\"", " \"ilastik\"]", " \"python\"]"]</p>
+<p>remove “\”: [“fiji”, “fiji”, “[“python”]”, “[“matlab”]”, “[“fiji””, “ “matlab””, “ “ilastik”]”, “[“fiji””, “ “python”]”]<br />
+remove “\”, “[”: “fiji”, “fiji”, ““python”]”, ““matlab”]”, ““fiji””, “ “matlab””, “ “ilastik”]”, ““fiji””, “ “python”]”]<br />
+remove “\”, “[”, “]”: “fiji”, “fiji”, ““python””, ““matlab””, ““fiji””, “ “matlab””, “ “ilastik””, ““fiji””, “ “python””</p>
+
+<p>Unique list: fiji[“python”][“matlab”][“fiji” “matlab” “ilastik”] “python”]<br />
+Unique list, inspected: ["fiji", "[\"python\"]", "[\"matlab\"]", "[\"fiji\"", " \"matlab\"", " \"ilastik\"]", " \"python\"]"]</p>
 
 <p>This doens’t really work: the combination of yaml and liquid is not a happy one.</p>
 
@@ -244,6 +248,9 @@ Unique list, inspected: ["fiji", "[\"python\"]", "[\"fiji\"", " \"matlab\"", " \
 <ul>
   <li>
     <p>[“cat3” “cat4” “cat5”]</p>
+  </li>
+  <li>
+    <p>[“cat1” “cat2” “cat3”]</p>
   </li>
   <li>
     <p>[“cat1” “cat2” “cat3”]</p>
@@ -367,9 +374,9 @@ Unique list, inspected: ["fiji", "[\"python\"]", "[\"fiji\"", " \"matlab\"", " \
 	- dummy: 
 	
 
-	-  
+	- matlab 
 	
-	- dummy: 
+	- dummy: ["matlab"]
 	
 
 	-  
@@ -420,10 +427,15 @@ Unique list, inspected: ["fiji", "[\"python\"]", "[\"fiji\"", " \"matlab\"", " \
 	- fijipython 
 	
 	- dummy: ["fiji""python"]
+	
+
+	-  
+	
+	- dummy: 
 </code></pre></div></div>
 
 <p>inspect final item: nil<br />
-inspect final concat_tools: ["fiji", "fiji", "[\"python\"]", "[\"fiji\"", "\"matlab\"", "\"ilastik\"]", "[\"fiji\"", "\"python\"]"]</p>
+inspect final concat_tools: ["fiji", "fiji", "[\"python\"]", "[\"matlab\"]", "[\"fiji\"", "\"matlab\"", "\"ilastik\"]", "[\"fiji\"", "\"python\"]"]</p>
 
 <p>Doesn’t work well at all - again the issue of format of arrays - yaml and liquid not the same thing.</p>
 
@@ -436,6 +448,8 @@ inspect final concat_tools: ["fiji", "fiji", "[\"python\"]", "[\"fiji\"", "\"mat
 	<li> ["fiji", "matlab", "ilastik"] </li>
 
 	<li> ["fiji", "python"] </li>
+
+	<li> ["matlab"] </li>
 
 	<li> ["python"] </li>
  
@@ -477,6 +491,8 @@ inspect final concat_tools: ["fiji", "fiji", "[\"python\"]", "[\"fiji\"", "\"mat
 
 	<li> University Hospital Zurich </li>
 
+	<li> University Hospitals of Geneva / University of Geneva </li>
+
 	<li> University of Basel </li>
 
 	<li> University of Bern </li>
@@ -493,23 +509,35 @@ inspect final concat_tools: ["fiji", "fiji", "[\"python\"]", "[\"fiji\"", "\"mat
 
 <ul> 
 
+	<li> ["DL", "Python", "Ubuntu", "Github", "TensorFlow", "PyTorch"] </li>
+
 	<li> ["fiji"] </li>
 
 	<li> ["fiji", "Python"] </li>
 
+	<li> ["fiji", "imagej", "image.sc", "omero", "jupyter", "imaris", "arivis", "python", "git"] </li>
+
+	<li> ["fiji", "imagej", "omero", "jupyter", "imaris", "arivis", "python"] </li>
+
 	<li> ["fiji", "imagej", "qupath", "cellpose", "imagesc", "ilastik", "cellprofiler"] </li>
+
+	<li> ["fiji", "imagej", "qupath", "image.sc", "ilastik", "cellprofiler", "cellprofiler analyst", "cellpose", "knime", "omero", "renku", "imaris", "icy"] </li>
 
 	<li> ["fiji", "python", "jupyter", "ilastik", "pytorch", "scikit-image", "dask", "napari"] </li>
 
+	<li> ["matlab"] </li>
+
 	<li> ["matlab", "fiji"] </li>
 
-	<li> ["python", "fiji"] </li>
+	<li> ["microscopy", "open-access", "fair", "metadata"] </li>
 
-	<li> ["python", "fiji", "qupath"] </li>
+	<li> ["python", "fiji"] </li>
 
 	<li> ["python", "phaedra"] </li>
 
 	<li> ["qupath"] </li>
+
+	<li> ["visiopharm", "definiens", "fiji", "qupath", "multiplex", "IHC"] </li>
  
 </ul>
 

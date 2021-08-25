@@ -41,12 +41,6 @@ var store = [{
         "url": "http://localhost:4000/members/daniel.sage/",
         "teaser": null
       },{
-        "title": "Dominik.haenni",
-        "excerpt":"Center for Microscopy and Image Analysis   Waiting for Dominik’s input here ;-)  ","categories": [],
-        "tags": ["fiji"],
-        "url": "http://localhost:4000/members/dominik.haenni/",
-        "teaser": null
-      },{
         "title": "Ewelina.bartoszek",
         "excerpt":"Waiting for Ewelina’s input here ;-)  ","categories": [],
         "tags": ["fiji"],
@@ -96,8 +90,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Laurent.guerard",
-        "excerpt":"IMCF, Biozentrum   Waiting for Laurent’s input here ;-)  ","categories": [],
-        "tags": ["fiji"],
+        "excerpt":"IMCF: Imaging Core Facility lead by Oliver Biehlmaier   Laurent has been working at the IMCF since 2017 after leaving the Centre for Cellular Imaging CCI at the University of Göteborg, Sweden. He is responsible, along with Kai Schleicher, Nikolaus Ehrenfeuchter and Sébastien Herbert for the advice and follow up of any research projects involving light microscopy and image processing within the Biozentrum and occasionally other departments of the University of Basel.   He is also now trying to be more involved in the maintenance of the group’s IT infrastructure including the microscope acquisition computers, analysis workstations, HRM and OMERO servers and the Virtualized Desktop Infrastructure VAMP.   Background: Bioinformatics   Current interests:      Fixing the Lightsheet 7 support of BigStitcher   Developing Fiji scripts to bypass limitation of the OMERO server   Help the microscopy member of the facility with adapting QC scripts   Online presence:      GitHub   ImageSC Forum   Twitter   ","categories": [],
+        "tags": ["fiji","imagej","omero","jupyter","imaris","arivis","python"],
         "url": "http://localhost:4000/members/laurent.guerard/",
         "teaser": null
       },{
@@ -107,10 +101,10 @@ var store = [{
         "url": "http://localhost:4000/members/loic.sauteur/",
         "teaser": null
       },{
-        "title": "Markus.rempfler",
-        "excerpt":"FAIM   Waiting for Markus’s input here ;-)  ","categories": [],
-        "tags": ["fiji"],
-        "url": "http://localhost:4000/members/markus.rempfler/",
+        "title": "Mario.kreutzfeldt",
+        "excerpt":"Mario works at the Clinical Pathology Service of the Geneva University Hospitals. He is part of the team responsible for testing and integrating digital pathology solutions (e.g. Whole Slide Scanner, Image Analysis Software). Furthermore, he is developing image analysis solutions for clinical decision support and diverse research projects.   Background: Biology Areas of expertise: Whole slide scanners, Digital Pathology, Immunofluorescence and Immunohistochemistry, Whole Slide Image analysis BIA tools: Visiopharm, Definiens, QuPath, Fiji  ","categories": [],
+        "tags": ["visiopharm","definiens","fiji","qupath","multiplex","IHC"],
+        "url": "http://localhost:4000/members/mario.kreutzfeldt/",
         "teaser": null
       },{
         "title": "Michael.abanto",
@@ -137,15 +131,21 @@ var store = [{
         "url": "http://localhost:4000/members/nicolas.liaudet/",
         "teaser": null
       },{
+        "title": "Nikita.vladimirov",
+        "excerpt":"Nikita is part of the Helmchen Lab in the Brain Research Institute of the University of Zurich.   He is mostly active on the light-sheet microscopy building and programming side of things, but is increasingly involved in light-sheet data processing and analysis   For more info, look here: https://github.com/nvladimus  ","categories": ["cat1","cat2","cat3"],
+        "tags": ["matlab"],
+        "url": "http://localhost:4000/members/nikita.vladimirov/",
+        "teaser": null
+      },{
         "title": "Niko.ehrenfeuchter",
-        "excerpt":"Imaging Core Facility   Waiting for Niko’s input here ;-)  ","categories": [],
-        "tags": ["fiji"],
+        "excerpt":"IMCF: Imaging Core Facility lead by Oliver Biehlmaier   Niko has been working at the IMCF since 2012 after leaving the microscopy facility LIC at the University of Freiburg, Germany. He is responsible, along with Kai Schleicher, Laurent Guerard and Sébastien Herbert for the advice and follow up of any research projects involving light microscopy and image processing within the Biozentrum and occasionally other departments of the University of Basel.   On top of that, he is responsible for the group’s IT infrastructure including the microscope acquisition computers, analysis workstations, HRM and OMERO servers and the Virtualized Desktop Infrastructure VAMP. Additionally, he’s a big Linux enthusiast with more than two decades of experience on that and a strong advocate of versioning systems (he’s even having his phone’s address book in a git repo).   Background: Computer Science   Current interests:      Surviving the strong decay in available (human) resources managing our not-so-small IT infrastructure.   Pushing our Desktop Virtualization to the next generation.   Providing a facility-suitable multi-user accessible heavy-GPU compute environment (read: not a cluster but something that an average non-computer-scientist can be instructed to use easily).   Areas of expertise:      BioSample Preparation: If it can be scripted I might be of help here as well - otherwise you probably don’t want to let me near your lab bench…   BioImage Acquisition: As soon as it’s Pixels, I’m all yours. As long as it’s still Photons, Filters, Mirrors and Lenses you don’t want me to touch it…   BioImage Analysis: Stitching, Deconvolution, Time-lapse, WSI, 3D Analysis   Heavy user of: git, fish, bash, VS Code, Sublime Merge, Python, PowerShell, Grafana   Favorite BIA tools: Fiji, OMERO, Imaris, Huygens, (Jupyter) Notebooks, ZENODO   Languages:      Human: German, English, French, (Spanish, Indonesian)   Machine: Python, C#, Bash, ImageJMacro, PowerShell, Java, PHP   Online presence:      GitHub   ImageSC Forum   Zenodo   Twitter  ","categories": [],
+        "tags": ["fiji","imagej","image.sc","omero","jupyter","imaris","arivis","python","git"],
         "url": "http://localhost:4000/members/niko.ehrenfeuchter/",
         "teaser": null
       },{
         "title": "Oliver.biehlmaier",
-        "excerpt":"Imaging Core Facility, Biozentrum   Waiting for Oliver’s input here ;-)  ","categories": [],
-        "tags": ["fiji"],
+        "excerpt":"Head of the IMCF: Imaging Core Facility since 2011.   Background: Biology  ","categories": [],
+        "tags": ["microscopy","open-access","fair","metadata"],
         "url": "http://localhost:4000/members/oliver.biehlmaier/",
         "teaser": null
       },{
@@ -168,8 +168,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Romain.guiet",
-        "excerpt":"BIOP: BioImaging &amp; Optics Platform   Romain works at EPFL in BIOP.  He is a biologist by training, but has worked with image analysis since ~2010.  ","categories": [],
-        "tags": ["python","fiji","qupath"],
+        "excerpt":"BIOP: BioImaging &amp; Optics Platform lead by Arne Seitz   Romain has been working at the BIOP since 2011 after a Ph.D. in  Biology. He is responsible, along with Olivier Burri and Nicolas Chiaruttini, for the advice and follow up of student projects involving microscopy and quantification within the faculty of Life Sciences at Ecole Polytechnique Fédérale de Lausanne. His expertise with in vitro cell culture and imaging is also beneficial to help users with their staining strategies and experiments optimization.   Background: Bioengineering, Ph.D. Immunology &amp; Cancer (3D cell migration , organoid , cell-cytoskeleton)   Current interests:     Discovering new tools, using Deep Learning approaches to solve BIAs problem.   Teaching BioImage Analysis at BIOP and NEUBIAS   Creating meaningful documentation for biologist, microscope users and BIAs C4Science   Preaching for reproducible workflow (Zenodo &amp; ImageJ.JS)   Areas of expertise:     BioSample Preparation : in vitro cell, organoid, time-lapse, fixation, staining strategies, actin, mitochondria, fluorescent protein expression   BioImage Acquisition : Widefield, Confocal, Whole Slide Imaging, Super-resolution (SIM, STORM, STED), FRET, FRAP, FLIM   BioImage Analysis: Co-localization analysis,Deconvolution,   Time-lapse , Whole Slide Imaging   Favorite BIA tools: Fiji, ilastik, QuPath, Imaris, CellProfiler, OMERO, KNIME, ZENODO   Languages:     Human: French, English, (Spanish, Arabic)   Program: ImageJMacro, Groovy, Java, Python (Matlab, R)   Online presence:     GitHub   ImageSC Forum   C4Science   Zenodo   Twitter  ","categories": [],
+        "tags": ["fiji","imagej","qupath","image.sc","ilastik","cellprofiler","cellprofiler analyst","cellpose","knime","omero","renku","imaris","icy"],
         "url": "http://localhost:4000/members/romain.guiet/",
         "teaser": null
       },{
@@ -195,6 +195,12 @@ var store = [{
         "excerpt":"Szymon works at ETH Zurich in IDA - the Image and Data Analysis group inside of ScopeM.   He is also a serial-entrepreneur - ask him about it!  ","categories": ["cat2","cat3"],
         "tags": ["python","fiji"],
         "url": "http://localhost:4000/members/szymon.stoma/",
+        "teaser": null
+      },{
+        "title": "Tim Oliver.buchholz",
+        "excerpt":"FAIM: Facility for Advanced Imaging and Microscopy   Tim-Oliver has been working at the FAIM since July 2021. Before he worked at the MPI-CBG in the Jug-Lab and did research in content-aware image restoration. In the past he also worked on imagej-ops and KNIME Image Processing.   Background: Computer Vision, Deep Learning, Bio-Image Analysis, Computer Science   Current interests: Teaching and using deep learning for bio-image analysis.   Areas of expertise: Bioimage analysis, Deep learning with TensorFlow and PyTorch.   Common BIA tools: Fiji, KNIME Image Processing, PyTorch, TensorFlow, Singularity.   Spoken Languages: Java, MATLAB, Python, R, German, English.   Online presence:     GitHub   Twitter   ImageSC Forum  ","categories": [],
+        "tags": ["DL","Python","Ubuntu","Github","TensorFlow","PyTorch"],
+        "url": "http://localhost:4000/members/tim-oliver.buchholz/",
         "teaser": null
       },{
         "title": "Setting Up The Site",
