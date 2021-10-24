@@ -11,8 +11,10 @@ SwissBIAS: The Swiss BioImage Analysts's Society.
 ---
 
 ## What this site contains
-News about training schools, conferences, and network events.  
+Information about what and who SwissBIAS is.
+Dates for network events.
 A list of members.   
+*Not on this site*: lists of software, news about training schools and conferences, etc.---for that, use the [Forum]{https://forum.image.sc/}
 
 ## Who this is for and how to join
 The target group is people working in Switzerland that self-identify as bioimage analysts: This includes facility and technical staff, group leaders, postdocs, and students from universities as well as industry. 
