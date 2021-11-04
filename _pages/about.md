@@ -28,6 +28,8 @@ There are currently no fees or charges involved in the running or joining of Swi
 Monthly meetings are held on the first Tuesday/Thursday of even/odd months.
 Details (Zoom links, agenda, minutes) are available to all members via SLACK. 
 
+- 2022-01-06: Winter break. No meeting
+- 2021-12-07: Zoom. Monthly meeting + Journal Club
 - 2021-11-04: Zoom. Monthly meeting
 - 2021-10-05: Zoom. Monthly meeting
 - 2021-09-02: Zoom. Monthly meeting
