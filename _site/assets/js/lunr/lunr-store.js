@@ -1,7 +1,7 @@
 var store = [{
         "title": "Aaron.ponti",
-        "excerpt":"Single Cell Facility   Waiting for Aaron’s input here ;-)  ","categories": [],
-        "tags": ["fiji"],
+        "excerpt":"Aaron is part of the Single Cell Facility of the ETHZ in Basel, where he happily develops algorithms for microscopy image processing and analysis, works on hardware/software integration and develops solutions for data and information management. He is also the “IT guy” whenever something breaks.   ","categories": [],
+        "tags": ["python","matlab","C#","Java","fiji","napari","cellprofiler","ilastik","huygens","imaris"],
         "url": "http://localhost:4000/members/aaron.ponti/",
         "teaser": null
       },{
@@ -72,8 +72,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Joana.delgadomartins",
-        "excerpt":"ZMB, UZH   Waiting for Joana’s input here ;-)  ","categories": [],
-        "tags": ["fiji"],
+        "excerpt":"Joana works at Center for Microscopy and Image Analysis, University of Zurich ZMB since 2019. She supports users on Advanced Light Microscopy as well Image Analysis.   Background: Biochemistry/Physiology (intravital microscopy).   Areas of expertise: Multiphoton microscopy, Live-cell imaging, Bioimage analysis   BIA tools: Fiji, ilastik, Imaris, Mathematica, QuPath, Huygens.   ","categories": [],
+        "tags": ["fiji","imaris"],
         "url": "http://localhost:4000/members/joana.delgadomartins/",
         "teaser": null
       },{
@@ -105,6 +105,12 @@ var store = [{
         "excerpt":"Mario works at the Clinical Pathology Service of the Geneva University Hospitals. He is part of the team responsible for testing and integrating digital pathology solutions (e.g. Whole Slide Scanner, Image Analysis Software). Furthermore, he is developing image analysis solutions for clinical decision support and diverse research projects.   Background: Biology Areas of expertise: Whole slide scanners, Digital Pathology, Immunofluorescence and Immunohistochemistry, Whole Slide Image analysis BIA tools: Visiopharm, Definiens, QuPath, Fiji  ","categories": [],
         "tags": ["visiopharm","definiens","fiji","qupath","multiplex","IHC"],
         "url": "http://localhost:4000/members/mario.kreutzfeldt/",
+        "teaser": null
+      },{
+        "title": "Mark.ambühl",
+        "excerpt":"Quick presentation will go here  ","categories": [],
+        "tags": ["cat1","cat2"],
+        "url": "http://localhost:4000/members/mark.amb%C3%BChl/",
         "teaser": null
       },{
         "title": "Michael.abanto",
@@ -147,6 +153,12 @@ var store = [{
         "excerpt":"Head of the IMCF: Imaging Core Facility since 2011.   Background: Biology  ","categories": [],
         "tags": ["microscopy","open-access","fair","metadata"],
         "url": "http://localhost:4000/members/oliver.biehlmaier/",
+        "teaser": null
+      },{
+        "title": "Olivia.mariani",
+        "excerpt":"EPFL Center for Imaging   Waiting for Olivia’s input here ;-)  ","categories": [],
+        "tags": ["fiji","imagej"],
+        "url": "http://localhost:4000/members/olivia.mariani/",
         "teaser": null
       },{
         "title": "Olivier.burri",
@@ -201,6 +213,12 @@ var store = [{
         "excerpt":"FAIM: Facility for Advanced Imaging and Microscopy   Tim-Oliver has been working at the FAIM since July 2021. Before he worked at the MPI-CBG in the Jug-Lab and did research in content-aware image restoration. In the past he also worked on imagej-ops and KNIME Image Processing.   Background: Computer Vision, Deep Learning, Bio-Image Analysis, Computer Science   Current interests: Teaching and using deep learning for bio-image analysis.   Areas of expertise: Bioimage analysis, Deep learning with TensorFlow and PyTorch.   Common BIA tools: Fiji, KNIME Image Processing, PyTorch, TensorFlow, Singularity.   Spoken Languages: Java, MATLAB, Python, R, German, English.   Online presence:     GitHub   Twitter   ImageSC Forum  ","categories": [],
         "tags": ["DL","Python","Ubuntu","Github","TensorFlow","PyTorch"],
         "url": "http://localhost:4000/members/tim-oliver.buchholz/",
+        "teaser": null
+      },{
+        "title": "Yannick.krempp",
+        "excerpt":"About me   I work as technical manager and imaging expert at the Cellular Imaging Facility, Lausanne, Switzerland. My focus is on helping researchers to be able to analyze the data they acquire on our instruments. If you’re curious about the facility, head to the CIF website, that I’m also webmastering.   Contact   If you wish to contact me directly, here’s my info:                          Yannick Krempp                       Position       CIF technical manager and IT specialist                 Affiliation       Cellular Imaging Facility                 Adress       Rue du Bugnon 9, CH-1005, Lausanne                 Office       212                 Phone       +41 21 692 52 90                 Email       yannick.krempp@unil.ch                 Web       https://cif.unil.ch                 LinkedIn       https://www.linkedin.com/in/yannick-krempp/           ","categories": [],
+        "tags": ["cat1","cat2"],
+        "url": "http://localhost:4000/members/yannick.krempp/",
         "teaser": null
       },{
         "title": "Setting Up The Site",

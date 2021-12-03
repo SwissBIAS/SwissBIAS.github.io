@@ -8,8 +8,8 @@ main:
     url: /resources/
   - title: Members
     url: /members/
-  - title: Posts
-    url: /posts/
+#  - title: Posts
+#    url: /posts/
 
 side: 
   - title: Blame these
