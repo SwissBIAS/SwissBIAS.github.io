@@ -209,6 +209,12 @@ var store = [{
         "url": "http://localhost:4000/members/szymon.stoma/",
         "teaser": null
       },{
+        "title": "Tarun.chadha",
+        "excerpt":"Data scientist at the Scientific IT Services of ETH Zurich.   Waiting for Tarun’s input here ;-)   ","categories": [],
+        "tags": ["python"],
+        "url": "http://localhost:4000/members/tarun.chadha/",
+        "teaser": null
+      },{
         "title": "Tim Oliver.buchholz",
         "excerpt":"FAIM: Facility for Advanced Imaging and Microscopy   Tim-Oliver has been working at the FAIM since July 2021. Before he worked at the MPI-CBG in the Jug-Lab and did research in content-aware image restoration. In the past he also worked on imagej-ops and KNIME Image Processing.   Background: Computer Vision, Deep Learning, Bio-Image Analysis, Computer Science   Current interests: Teaching and using deep learning for bio-image analysis.   Areas of expertise: Bioimage analysis, Deep learning with TensorFlow and PyTorch.   Common BIA tools: Fiji, KNIME Image Processing, PyTorch, TensorFlow, Singularity.   Spoken Languages: Java, MATLAB, Python, R, German, English.   Online presence:     GitHub   Twitter   ImageSC Forum  ","categories": [],
         "tags": ["DL","Python","Ubuntu","Github","TensorFlow","PyTorch"],
