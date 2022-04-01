@@ -2,7 +2,7 @@
 first_name: Joel
 last_name: Lüthi
 short_name: Joel
-affiliation: FMI
+affiliation: FMI Basel
 position: Bio-Image Analyst
 tags: [ilastik, NAPARI, Python]
 ---
