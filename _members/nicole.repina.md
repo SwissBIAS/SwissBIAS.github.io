@@ -2,7 +2,7 @@
 first_name: Nicole 
 last_name: Repina
 short_name: Nicole
-affiliation: Friedrich Miescher Institute
+affiliation: FMI Basel
 position: PostDoc
 tags: [Napari, fiji, R, CellProfiler]
 ---
