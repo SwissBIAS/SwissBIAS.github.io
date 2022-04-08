@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## Useful links
-Annotated and curated list of links to forums, repositories for training material, etc
+A few annotated links to forums, repositories for training material, etc
 
 - [image.sc](https://forum.image.sc/): Job-listing, questions and answers in bioimage analysis using open-source software
 - [BIAflows](https://biaflows.neubias.org/#/): A BioImage Analysis workflows benchmarking platform
@@ -32,7 +32,7 @@ Annotated and curated list of links to forums, repositories for training materia
 
 
 ### Abroad
-- [Advanced Methods in Bioimage Analysis](https://www.embl.de/training/events/2021/BIA21-01/index.html), EMBL Heidelberg, Germany [Virtual], 28 June - 2 July, 2021.
+- Advanced Methods in Bioimage Analysis, EMBL Heidelberg, Germany, 2023.
 
 
 ### Past Events
