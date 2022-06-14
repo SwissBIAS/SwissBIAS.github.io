@@ -27,6 +27,12 @@ A few annotated links to forums, repositories for training material, etc
 ---
 
 ## Training Events, BioImage Analysis
+
+### SwissBIAS
+
+- First in person meeting of SwissBIAS. University of Bern, 22 June 2022, from 9am to 17pm, room 028 of Hauptgebäude, Hochschulstrasse 6.
+
+
 ### Switzerland
 - [ZIDAS 2022](https://2022.zidas.org/), EPFL, ETHZ, FMI, and Uni Basel; Lausanne
 
