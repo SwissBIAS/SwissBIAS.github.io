@@ -30,7 +30,7 @@ A few annotated links to forums, repositories for training material, etc
 
 ### SwissBIAS
 
-- First in person meeting of SwissBIAS. University of Bern, 22 June 2022, from 9am to 17pm, room 028 of Hauptgebäude, Hochschulstrasse 6.
+- First [in-person meeting of SwissBIAS](https://drive.google.com/file/d/17nLNN_YAf4BQbGtMSlezjSn1xGrzfQSr/view?usp=sharing). University of Bern, 22 June 2022, from 9am to 17pm, room 028 of Hauptgebäude, Hochschulstrasse 6.
 
 
 ### Switzerland
