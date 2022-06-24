@@ -120,8 +120,8 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@swissbias.ch"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      #- label: "Website"
+      #icon: "fas fa-fw fa-link"
       #url: "https://www.swissbias.ch"
 
 
