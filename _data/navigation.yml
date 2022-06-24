@@ -4,6 +4,8 @@ main:
     url: /
 #  - title: About
 #    url: /about/
+  - title: Events
+    url: /events/
   - title: Members
     url: /members/
   - title: Resources
