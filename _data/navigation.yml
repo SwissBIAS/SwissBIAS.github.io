@@ -2,12 +2,14 @@
 main:
   - title: Home
     url: /
-  - title: About
-    url: /about/
-  - title: Resources
-    url: /resources/
+#  - title: About
+#    url: /about/
+  - title: Events
+    url: /events/
   - title: Members
     url: /members/
+  - title: Resources
+    url: /resources/
 #  - title: Posts
 #    url: /posts/
 
@@ -22,4 +24,10 @@ side:
         url: /members/guillaume.witz/
       - title: "Simon F. Nørrelykke"
         url: /members/simon.nørrelykke/
+  - title: Contribute
+    children:
+     - title: Wiki
+       url: https://github.com/SwissBIAS/SwissBIAS.github.io/wiki
+     - title: Email
+       url: mailto:info@swissbias.ch
 

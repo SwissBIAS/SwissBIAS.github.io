@@ -7,7 +7,7 @@ position: Bioimage Analyst
 tags: [fiji, imagej, hrm, omero, python, qupath]
 #categories: [cat1, cat2, cat3]
 ---
-{{ page.first_name }} works at the University of Fribourg as microscopist and bioimage analyst for the [Bioimage Core Facility](https://unifr.ch/go/bicore) (BICORE). 
+{{ page.first_name }} works at the University of Fribourg as microscopist and bioimage analyst for the [Bioimage Core Facility](https://unifr.ch/go/bicore){:target="_blank"} (BICORE). 
 
 **Background**: Applied Physics, Computer Science
 
