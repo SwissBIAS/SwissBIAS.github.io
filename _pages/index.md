@@ -3,26 +3,27 @@ title: Welcome
 permalink: /
 ---
 
+The *Swiss BioImage Analysts Society* is a network for and by bioimage analysts working in Switzerland. It was Founded in early 2021 during a video-conference, by the initial group of 25 participants.
 
-SwissBIAS: The Swiss BioImage Analysts's Society.  
+This is a community effort driven by all members, with flexible degrees of involvement: 
+If there is something you would like to see done, the fastest way may well be to just do it.
 
----
+We purposefully run this as a shoe-string operation, with the declared goal of keeping administrative overhead minimal --- no newsletters, no board meetings, no reports.
 
-## What this site contains
-Information about what and who SwissBIAS is.
-Dates for network events.
-A list of members.   
-*Not on this site*: lists of software, news about training schools and conferences, etc.---for that, use the [Forum](https://forum.image.sc/).
+
+## Why this society exists
+Its members seek synergies on the following points:
+- **Knowledge exchange**: Both technical and political
+- **Collaborations**: Facilitating collaborations on projects
+- **Teaching**: Sharing training material and organising events
+- **Grant writing**: Collaborate on grant applications
+- **Visibility**: Define the role of bioimage analysts
+
 
 ## Who this is for and how to join
 The target group is people working in Switzerland that self-identify as bioimage analysts: This includes facility and technical staff, group leaders, postdocs, and students from universities as well as industry. 
-If you are interested, send us an [email](mailto:info@swissbias.ch) and we will invite you to join our SLACK workspace and monthly Zoom meetings.
+If you are interested, [email](mailto:info@swissbias.ch) us, and we will invite you to join our SLACK workspace and monthly Zoom meetings.
 
-
-## The Wiki
-The [wiki page](https://github.com/SwissBIAS/SwissBIAS.github.io/wiki) is for more technical information: 
-How-to pages, recommendations of software to use for specific tasks (often the result of discussions within the network). 
-Take a look and let us know if you want to contribute something - by [email](mailto:info@swissbias.ch) or as a [pull request](https://github.com/SwissBIAS/SwissBIAS.github.io/pulls).
-
-## Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=0ehba6ebqgebeuk2soq527l4bg%40group.calendar.google.com&ctz=Europe%2FZurich" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+> New to this field? Looking for a forum, lists of software, info about  training schools and conferences, etc.?<br/>
+Some key resources for Bioimage Analysis can be found under [resources](resources/).
+{:.notice--primary}

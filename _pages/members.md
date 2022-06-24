@@ -14,7 +14,11 @@ toc: false
 #show_excerpts: false # true false
 ---
 
-If you want to become a member, just [email us](mailto:info@swissbias.ch) saying so.
+
+
+![map of member locations](/assets/images/map.png)
+
+
 
 
 {% assign groups = site.members |  sort: "affiliation" | group_by: "affiliation" %}
@@ -30,7 +34,6 @@ If you want to become a member, just [email us](mailto:info@swissbias.ch) saying
 			</ol>
 {% endfor %} 
 </ul>
-
 
 
 
