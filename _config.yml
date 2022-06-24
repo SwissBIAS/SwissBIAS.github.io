@@ -275,6 +275,8 @@ defaults:
     values:
       layout: single
       #author_profile: true # influences appearance of "Follow" box in some page views
+      sidebar:
+        nav: "side"
   # _members (anything in this folder gets this formatting)
   # This is the layout for individual member pages, not the member overview page
   - scope:

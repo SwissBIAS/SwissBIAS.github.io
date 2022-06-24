@@ -1,8 +1,6 @@
 ---
 title: Welcome
 permalink: /
-sidebar:
-  nav: "side"
 ---
 
 
