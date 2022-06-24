@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Swiss BioImage Analysts' Society"
 title_separator          : "-"
-subtitle                 : Swiss BioImage Analysts' Society # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "SwissBIAS"
 description              : "A nascent community of image analysts"
 url                      : https://swissbias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
