@@ -16,6 +16,8 @@ main:
 side: 
   - title: Blame these
     children:
+      - title: "Felix Meyenhofer"
+        url: /members/felix.meyenhofer/
       - title: "Romain Guiet"
         url: /members/romain.guiet/
       - title: "Sebastien Herbert"
