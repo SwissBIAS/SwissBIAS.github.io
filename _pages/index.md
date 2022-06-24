@@ -3,7 +3,7 @@ title: Welcome
 permalink: /
 ---
 
-The *Swiss BioImage Analysts Society* is a network for and by bioimage analysts working in Switzerland. It was Founded in early 2021 during a video-conference, by the initial group of 25 participants.
+The *Swiss BioImage Analysts' Society* is a network for and by bioimage analysts working in Switzerland. It was founded in early 2021 during a video-conference, by an initial group of 25 participants.
 
 This is a community effort driven by all members, with flexible degrees of involvement: 
 If there is something you would like to see done, the fastest way may well be to just do it.
