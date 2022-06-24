@@ -28,7 +28,11 @@ There are currently no fees or charges involved in the running or joining of Swi
 Monthly meetings are held on the first Tuesday/Thursday of even/odd months.
 Details (Zoom links, agenda, minutes) are available to all members via SLACK. 
 
-- 2022-06-07: Zoom. Monthly meeting 
+- 2022-09-01: Zoom. Monthly meeting
+- 2022-08-02: Summer break. No meeting
+- 2022-07-07: Summer break. No meeting
+- 2022-06-22: In-person meeting in Berne 
+- 2022-06-14: Zoom. Monthly meeting 
 - 2022-05-05: Zoom. Monthly meeting + Journal Club
 - 2022-04-05: Zoom. Monthly meeting 
 - 2022-03-03: Zoom. Monthly meeting 
@@ -38,7 +42,7 @@ Details (Zoom links, agenda, minutes) are available to all members via SLACK.
 - 2021-11-04: Zoom. Monthly meeting
 - 2021-10-05: Zoom. Monthly meeting
 - 2021-09-02: Zoom. Monthly meeting
-- 2021-08-03: Summer break. No meeting.
+- 2021-08-03: Summer break. No meeting
 - 2021-07-01: Zoom. Monthly meeting
 - 2021-06-24: Zoom. Renku demo, by BIOP and SDSC 
 - 2021-06-01: Zoom. Monthly meeting
