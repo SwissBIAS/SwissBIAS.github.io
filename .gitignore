@@ -1,2 +1,5 @@
 # Ignore emacs automatic backup files
 *~
+# Ignore IntelliJ project files
+*.iml
+.idea
