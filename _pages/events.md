@@ -5,8 +5,7 @@ permalink: /events/
 
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=0ehba6ebqgebeuk2soq527l4bg%40group.calendar.google.com&ctz=Europe%2FZurich" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?src=0ehba6ebqgebeuk2soq527l4bg%40group.calendar.google.com&ctz=Europe%2FZurich&showPrint=0&hl=en_GB&showCalendars=0&showTitle=0&showTabs=1&" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 
 ## BioImage Analysis Training and Conferences
