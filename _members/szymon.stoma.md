@@ -2,6 +2,7 @@
 first_name: Szymon
 last_name: Stoma
 short_name: szymon
+city: Zurich
 affiliation: ETH Zurich
 position: Image Analyst
 tags: [python, fiji]

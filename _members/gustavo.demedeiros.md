@@ -2,6 +2,7 @@
 first_name: Gustavo
 last_name: de Medeiros
 short_name: Gustavo
+city: Basel
 affiliation: FMI Basel
 position: Research staff
 tools: [fiji, ilastik, NAPARI, Huygens]

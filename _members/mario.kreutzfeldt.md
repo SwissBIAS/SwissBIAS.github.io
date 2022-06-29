@@ -2,6 +2,7 @@
 first_name: Mario
 last_name: Kreutzfeldt
 short_name: mario
+city: Geneva
 affiliation: University Hospitals of Geneva / University of Geneva
 position: Biologist
 tags: [visiopharm, definiens, fiji, qupath, multiplex, IHC]

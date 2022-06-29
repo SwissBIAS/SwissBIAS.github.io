@@ -2,6 +2,7 @@
 first_name: Inge
 last_name: Herrmann
 short_name: inge
+city: Zurich
 affiliation: ETH Zurich
 position: Bioimage Analyst
 tags: [fiji]

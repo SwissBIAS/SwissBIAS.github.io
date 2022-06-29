@@ -2,6 +2,7 @@
 first_name: Kevin
 last_name: Yamauchi
 short_name: kevin
+city: Basel
 affiliation: ETHZ Basel
 position: Bioimage Analyst
 tags: [fiji]

@@ -2,6 +2,7 @@
 first_name: Simon F.
 last_name: Nørrelykke
 short_name: simon
+city: Zurich
 affiliation: ETH Zurich
 position: Image Analyst
 tags: [matlab, fiji]

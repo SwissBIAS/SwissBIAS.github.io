@@ -2,6 +2,7 @@
 first_name: Andrzej
 last_name: Rzepiela
 short_name: andrzej
+city: Zurich
 affiliation: ETH Zurich
 position: Data Analyst
 tags: [python, phaedra]

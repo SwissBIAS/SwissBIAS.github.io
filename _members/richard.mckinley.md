@@ -2,6 +2,7 @@
 first_name: Richard
 last_name: McKinley
 short_name: richard
+city: Bern
 affiliation: Inselgruppe AG
 position: Bioimage Analyst
 tags: [fiji]

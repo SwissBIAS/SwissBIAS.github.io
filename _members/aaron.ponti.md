@@ -2,6 +2,7 @@
 first_name: Aaron
 last_name: Ponti
 short_name: aaron
+city: Basel
 affiliation: ETHZ Basel
 position: Bioimage Analyst, Software Engineer
 tags: [python, matlab, C#, Java, fiji, napari, cellprofiler, ilastik, huygens, imaris]

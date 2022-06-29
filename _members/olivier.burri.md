@@ -2,6 +2,7 @@
 first_name: Olivier
 last_name: Burri
 short_name: oli
+city: Lausanne
 affiliation: EPFL
 position: Bioimage Analyst
 tags: [fiji, imagej, qupath, cellpose, imagesc, ilastik, cellprofiler]

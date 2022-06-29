@@ -2,6 +2,7 @@
 first_name: Alvaro
 last_name: Gomariz
 short_name: alvaro
+city: 
 affiliation: Roche
 position: Postdoc in Computer Vision
 tags: [Python,TensorFlow]

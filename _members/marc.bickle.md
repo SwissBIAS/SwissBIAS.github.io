@@ -2,6 +2,7 @@
 first_name: Marc
 last_name: Bickle
 short_name: Marc
+city:
 affiliation: Roche
 position: Group leader
 tags: [fiji, CellProfiler, NAPARI, KNIME]

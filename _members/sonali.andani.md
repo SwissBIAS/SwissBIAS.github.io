@@ -2,6 +2,7 @@
 first_name: Sonali
 last_name: Andani
 short_name: sonali
+city: Zurich
 affiliation: ETH Zurich
 position: Bioimage Analyst
 tags: [fiji]

@@ -1,7 +1,7 @@
 ---
 first_name: Olivia
 last_name: Mariani
-
+city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst
 tags: [fiji, imagej ]

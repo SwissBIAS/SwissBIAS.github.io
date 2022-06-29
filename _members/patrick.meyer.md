@@ -2,6 +2,7 @@
 first_name: Patrick
 last_name: Meyer
 short_name: patrick
+city: 
 affiliation: Fenaco
 position: Bioimage Analyst
 tags: [fiji]

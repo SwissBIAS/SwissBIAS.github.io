@@ -2,6 +2,7 @@
 first_name: Niko
 last_name: Ehrenfeuchter
 short_name: Niko
+city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst
 tags: [fiji, imagej, image.sc, omero, jupyter, imaris, arivis, python, git]

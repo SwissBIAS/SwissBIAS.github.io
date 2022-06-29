@@ -2,6 +2,7 @@
 first_name: Guillaume
 last_name: Witz
 short_name: witz
+city: Bern
 affiliation: University of Bern
 position: Bioimage Analyst
 tags: [fiji, python, jupyter, ilastik, pytorch, scikit-image, dask, napari]

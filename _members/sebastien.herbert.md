@@ -2,6 +2,7 @@
 first_name: Sebastien
 last_name: Herbert
 short_name: seb
+city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst
 tags: [fiji, Python]

@@ -2,6 +2,7 @@
 first_name: Joana
 last_name: Delgado Martins
 short_name: Joana
+city: Zurich
 affiliation: University of Zurich
 position: Staff Scientist
 tags: [fiji, imaris]

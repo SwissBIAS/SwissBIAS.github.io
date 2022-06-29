@@ -2,6 +2,7 @@
 first_name: Michael
 last_name: Abanto
 short_name: 
+city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst
 tags: [fiji]

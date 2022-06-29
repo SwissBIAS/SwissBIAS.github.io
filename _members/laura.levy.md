@@ -2,6 +2,7 @@
 first_name: Laura
 last_name: Levy
 short_name: Laura
+city: Geneva
 affiliation: Hôpitaux Universitaires Genève
 position: Bio-Image Analyst
 tags: [Python, Qt, Matlab, C++, Qupath]

@@ -1,6 +1,7 @@
 ---
 first_name: Romain
 last_name: Guiet
+city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst
 tags: [fiji, imagej, qupath, image.sc, ilastik, cellprofiler, cellprofiler analyst, cellpose, knime , omero, renku , imaris, icy ]

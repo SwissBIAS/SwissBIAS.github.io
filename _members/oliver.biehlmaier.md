@@ -2,6 +2,7 @@
 first_name: Oliver
 last_name: Biehlmaier
 short_name: biehli
+city: Basel
 affiliation: University of Basel
 position: Facility Head
 tags: [microscopy, open-access, fair, metadata]

@@ -1,7 +1,8 @@
 ---
 first_name: Mark
 last_name: Ambühl
-short_name: 
+short_name:
+city: 
 affiliation: Nestlé Research Microscopy Facility
 position: Functional Leader of the Microscopy & Imaging Team
 tags: [cat1, cat2]

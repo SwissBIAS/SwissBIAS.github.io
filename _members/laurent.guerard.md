@@ -2,6 +2,7 @@
 first_name: Laurent
 last_name: Guerard
 short_name: laurent
+city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst
 tags: [fiji, imagej, omero, jupyter, imaris, arivis, python]

@@ -2,6 +2,7 @@
 first_name: Andrew
 last_name: Janowczyk
 short_name: andrew
+city: Lausanne
 affiliation: Lausanne University Hospital
 position: Bioimage Analyst
 tags: [qupath]
