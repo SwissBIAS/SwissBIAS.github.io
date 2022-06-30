@@ -3,7 +3,7 @@ first_name: Mario
 last_name: Kreutzfeldt
 short_name: mario
 city: Geneva
-affiliation: University Hospitals of Geneva / University of Geneva
+affiliation: Hôpitaux Universitaires Genève
 position: Biologist
 tags: [visiopharm, definiens, fiji, qupath, multiplex, IHC]
 homepage: https://www.hug.ch/pathologie-clinique/plateforme-danalyse-dimage

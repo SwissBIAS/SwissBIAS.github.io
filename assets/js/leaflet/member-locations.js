@@ -51,8 +51,7 @@ return {
     ],
     "affiliations": [
       "Hôpitaux Universitaires Genève",
-      "University of Geneva",
-      "University Hospitals of Geneva / University of Geneva"
+      "University of Geneva"
     ]
   },
   "Bern": {
