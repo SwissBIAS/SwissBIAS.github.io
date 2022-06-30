@@ -3,3 +3,10 @@
 # Ignore IntelliJ project files
 *.iml
 .idea
+# Jekyll recommendations
+**_site/
+.jekyll-cache/
+# macOS
+*.DS_Store
+# rbenv
+*.ruby-version
