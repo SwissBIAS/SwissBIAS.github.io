@@ -1,4 +1,4 @@
-function swissbiasmap(center, locations) {
+function members_map(center, locations) {
     let map = L.map('map').setView(center, 7);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
