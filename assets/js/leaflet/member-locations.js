@@ -66,8 +66,8 @@ return {
   },
   "Fribourg": {
     "coordinates": [
-      46.6789116,
-      7.1027113
+      46.8056,
+      7.16113
     ],
     "affiliations": [
       "University of Fribourg"

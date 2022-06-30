@@ -14,10 +14,11 @@ toc: false
 #show_excerpts: false # true false
 ---
 
-A click on the marked cities on the map bellow reveal the institutions and companies at this particular location. The popup allows to quickly navigate to the members with a given affiliation.
+A click on the marked cities on the map bellow, reveals the institutions and companies at this particular location. The popup allows to quickly navigate to the members with a given affiliation.
 
 <link rel="stylesheet" href="/assets/js/leaflet/leaflet.css"/>
 <script src="/assets/js/leaflet/leaflet.js"></script>
+<script src="/assets/js/leaflet/Leaflet.TileLayer.Swiss.umd.js" ></script>
 <script src="/assets/js/leaflet/member-locations.js"></script>
 <script src="/assets/js/leaflet/members-map.js"></script>
 
