@@ -1,4 +1,3 @@
-@@ -0,0 +1,16 @@
 ---
 first_name: Jaap
 last_name: van Krugten
@@ -11,4 +10,4 @@ tools: [ImageJ / Fiji, NAPARI]
 homepage: https://biomedizin.unibas.ch/en/core-facilities/microscopy/
 ---
 
-Waiting for {{ page.first_name }}'s further input here ;-)
+Waiting for Jaap's further input here ;-)
