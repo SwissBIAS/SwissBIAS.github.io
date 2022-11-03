@@ -11,7 +11,7 @@ tools: [fiji, matlab, ilastik]
 homepage: https://norsimon.github.io/
 ---
 
-Simon works at ETH Zurich where he heads [IDA](http://let-your-data-speak.com/) - the Image and Data Analysis group inside of [ScopeM](https://scopem.ethz.ch/).  
+Simon worked at ETH Zurich between 2012-2022 where he founded [IDA](http://let-your-data-speak.com/) - the Image and Data Analysis group inside of [ScopeM](https://scopem.ethz.ch/). Currently Simon moved to Boston to build a new group there [HMS](https://hms.harvard.edu/).
 
 *Background*: Physics.  
 *Current interests*: Deep Learning applied to bioimage analysis.  
