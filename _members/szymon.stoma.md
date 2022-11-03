@@ -4,7 +4,7 @@ last_name: Stoma
 short_name: sstoma
 city: Zurich
 affiliation: ETH Zurich
-position: Senior Scientific Staff & Lead Image Analsis
+position: Senior Scientific Staff & Lead Image Analysis
 tags: [python, fiji]
 categories: [cat2, cat3]
 tools: [fiji, python]
