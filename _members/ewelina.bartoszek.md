@@ -9,4 +9,10 @@ tags: [fiji]
 #categories: [cat1, cat2, cat3]
 ---
 
-Waiting for {{ page.first_name }}'s input here ;-)
+Ewelina works at the Microscopy Core Facility at the Department of Biomedicine at the University of Basel.
+
+Ewelina works at the interface of basic and clinical resaearch. 
+
+
+She did her PhD in Neuroscience imaging calcium activity in the brain of transparent zebrafish using 2-photon microscopy.
+
