@@ -1,6 +1,6 @@
 ---
-first_name: nima
-last_name: mojtahedi
+first_name: Nima
+last_name: Mojtahedi
 short_name: nima
 city: Geneva
 affiliation: Wyss Center for Bio and Neuroengineering 
