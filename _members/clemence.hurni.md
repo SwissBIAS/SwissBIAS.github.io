@@ -1,6 +1,6 @@
 ---
-first_name: clemence
-last_name: hurni
+first_name: Clémence
+last_name: Hurni
 short_name: clemence
 city: Geneva
 affiliation: Wyss Center
@@ -10,4 +10,4 @@ tags: [ImageJ / Fiji, NAPARI, Imaris, R]
 tools:
 ---
 
-I work at the Wyss Center for Neuroengineering in Geneva
+I work at the Wyss Center for Neuroengineering in Geneva.
