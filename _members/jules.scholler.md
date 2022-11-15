@@ -1,6 +1,6 @@
 ---
-first_name: jules
-last_name: scholler
+first_name: Jules
+last_name: Scholler
 short_name: jules
 city: Geneva
 affiliation: Wyss Center
@@ -10,4 +10,4 @@ tags: []
 tools:
 ---
 
-I am working as a software engineer at the Wyss Center and mainly work on 3D fluorescence data
+I am working as a software engineer at the Wyss Center and mainly work on 3D fluorescence data.
