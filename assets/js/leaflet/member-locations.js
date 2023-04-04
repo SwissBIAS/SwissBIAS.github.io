@@ -1,4 +1,4 @@
-// Generated with member-cities.rb.
+// Generated with ./member-cities.rb.
 function get_member_locations() {
 return {
   "Lausanne": {
@@ -9,7 +9,20 @@ return {
     "affiliations": [
       "Lausanne University Hospital",
       "EPFL",
-      "University of Lausanne"
+      "University of Lausanne",
+      "Nestlé Research Microscopy Facility"
+    ]
+  },
+  "Basel": {
+    "coordinates": [
+      47.5581077,
+      7.5878261
+    ],
+    "affiliations": [
+      "FMI Basel",
+      "Roche",
+      "University of Basel",
+      "ETHZ Basel"
     ]
   },
   "Zurich": {
@@ -23,27 +36,6 @@ return {
       "University Hospital Zurich"
     ]
   },
-  "Unknown": {
-    "coordinates": [
-
-    ],
-    "affiliations": [
-      "Roche",
-      "Fenaco",
-      "Nestlé Research Microscopy Facility"
-    ]
-  },
-  "Basel": {
-    "coordinates": [
-      47.5581077,
-      7.5878261
-    ],
-    "affiliations": [
-      "University of Basel",
-      "FMI Basel",
-      "ETHZ Basel"
-    ]
-  },
   "Geneva": {
     "coordinates": [
       46.2017559,
@@ -51,7 +43,8 @@ return {
     ],
     "affiliations": [
       "Hôpitaux Universitaires Genève",
-      "University of Geneva"
+      "University of Geneva",
+      "Wyss Center"
     ]
   },
   "Bern": {
@@ -64,10 +57,19 @@ return {
       "University of Bern"
     ]
   },
+  "Unknown": {
+    "coordinates": [
+
+    ],
+    "affiliations": [
+      "X-members",
+      "Fenaco"
+    ]
+  },
   "Fribourg": {
     "coordinates": [
-      46.8056,
-      7.16113
+      46.6789116,
+      7.1027113
     ],
     "affiliations": [
       "University of Fribourg"
