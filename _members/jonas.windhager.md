@@ -3,7 +3,7 @@ first_name: Jonas
 last_name: Windhager
 short_name: Jonas
 city: Zurich
-affiliation: University of Zurich & ETH Zurich
+affiliation: University of Zurich
 position: PostDoc
 tags: [ImageJ / Fiji, CellProfiler, ilastik, NAPARI]
 tools:
