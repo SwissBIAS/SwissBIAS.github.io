@@ -10,7 +10,7 @@ tags: [fiji, cellprofiler, ilastik, napari, KNIME, python, R, Shiny]
 tools:
 ---
 
-Maciej has been working at the [Cellular Dynamics Lab](https://www.pertzlab.net) at the Intitute of Cell Biology at the University of Bern, since June 2016, where he has built an HPC cluster and implemented a software stack to analyse images from time lapse microscopy experiments. He builds custom R pipelines to identify features in single-cell time series and builds R/Shiny apps to visualise the data.
+Maciej has been working at the [Cellular Dynamics Lab](https://www.pertzlab.net) at the Institute of Cell Biology at the University of Bern since June 2016, where he has built an HPC cluster and implemented a software stack to analyse images from time-lapse microscopy experiments. He builds custom R pipelines to identify features in single-cell time series and builds R/Shiny apps to visualise the data.
 
 
 **Developed software**
