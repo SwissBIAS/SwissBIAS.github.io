@@ -33,9 +33,12 @@ Monthly meetings are held on the first Tuesday/Thursday of even/odd months.
 Details (Zoom links, agenda, minutes) are available to all members via SLACK. 
 
 ### Upcoming
-- 2023-05-04: Zoom. Monthly meeting
+- 2023-07-06: Zoom. Monthly meeting
 
 ### Past
+- 2023-06-21: SwissBIAS association founding meeting, Bern
+- 2023-06-06: Zoom. Monthly meeting
+- 2023-05-04: Zoom. Monthly meeting
 - 2023-04-04: Zoom. Monthly meeting
 - 2023-03-02: Zoom. Monthly meeting
 - 2023-02-07: Zoom. Monthly meeting
