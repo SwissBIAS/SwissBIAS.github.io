@@ -11,4 +11,5 @@ tags: [Napari, Fiji, Julia, R, Python, Scikit-image, Linux]
 
 
 Background: Physics, Computational Biology. 
+Work: Multiplexed image processing workflows, spatiotemporal modeling.
 Interests: Mechanobiology, regeneration, artificial neural networks.
