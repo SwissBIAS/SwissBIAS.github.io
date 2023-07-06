@@ -4,11 +4,11 @@ last_name: Meer
 short_name: marco
 city: Bern
 affiliation: University of Bern
-position: PostDoc
-tags: [napari]
+position: Early postdoc
+tags: [Napari, Fiji, Julia, R, Python, Scikit-image, Linux]
 #categories: [cat1, cat2, cat3]
 ---
 
 
-
-Waiting for Marco’s input here ;-)
+Background: Physics, Computational Biology. 
+Interests: Mechanobiology, regeneration, artificial neural networks.
