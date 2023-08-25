@@ -13,12 +13,16 @@ SwissBIAS welcomes people working in Switzerland that self-identify as bioimage 
 Eager to keep the welcoming and inclusive nature that defines our community, most activities are open to everyone. By becoming a SwissBIAS member you help the association to cover the basic costs of the association. As a member, you get discounted access to Workshops and you can vote during the Annual General Assembly(see table below).
 
 
-|  | Community ||
-| Activities | Non-member  | Member |
-|------------- | ------------- | ------------- |
+|            | Community                       ||
+| Activities | Non-member  | Member             |
+|------------- | ------------- | -------------  |
 | Being invited on Slack | Included  | Included |
 | Follow Monthly meeting | Included  | Included |
-| Participate to Workshops| Full Price  | Discount on Price + Priority Access |
+| Participate to Workshops | Full Price  | Discount on Price + Priority Access |
 | Yearly in-person meeting | Full Price  | Discount on Price |
 | Being listed on the website | Not included  | Included |
 | General Assembly | Not included  | Included |
+
+> New to this field? Looking for a forum, lists of software, info about  training schools and conferences, etc.?<br/>
+Some key resources for Bioimage Analysis can be found under [resources](resources/).
+{:.notice--primary}
