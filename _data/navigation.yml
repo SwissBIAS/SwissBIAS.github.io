@@ -14,18 +14,27 @@ main:
 #    url: /posts/
 
 side: 
-  - title: Blame these
+  - title: Board members
     children:
-      - title: "Felix Meyenhofer"
-        url: /members/felix.meyenhofer/
-      - title: "Romain Guiet"
+      - title: "President: Romain Guiet"
         url: /members/romain.guiet/
-      - title: "Sebastien Herbert"
-        url: /members/sebastien.herbert/
-      - title: "Guillaume Witz"
+      - title: "Vice-President: Guillaume Witz"
         url: /members/guillaume.witz/
-      - title: "Simon F. Nørrelykke"
-        url: /members/simon.nørrelykke/
+      - title: "Treasurer: Mykhailo Vladymyrov"
+        url: /members/mykhailo.vladymyrov/
+      - title: "Vice-Treasurer: Joel Luthi"
+        url: /members/joel.luthi/
+      - title: "Secretary: Sebastien Herbert"
+        url: /members/sebastien.herbert/
+      - title: "Vice-Secretary: Ewelina Bartoszek"
+        url: /members/ewelina.bartoszek/
+      - title: "Seminar & Workshops: Ana Stojiljkovic"
+        url: /members/ana.stojiljkovic/
+      - title: "Seminar & Workshops: Andrzej Rzepiela"
+        url: /merbers/andrzej.rzepiela/
+      - title: "Communication: Guillaume Witz"
+        url: /members/guillaume.witz/              
+      
   - title: Contribute
     children:
      - title: Wiki
