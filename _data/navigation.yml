@@ -2,8 +2,8 @@
 main:
   - title: Home
     url: /
-#  - title: About
-#    url: /about/
+  - title: Activities
+    url: /activities/
   - title: Events
     url: /events/
   - title: Members
