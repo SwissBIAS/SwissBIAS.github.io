@@ -10,7 +10,7 @@ permalink: /events/
 ## SwissBIAS Seminars
 Join us to talk with the developers of new bioimage analysis tools.
 
-- 2023-09-08 Julián Mejía Morales & Rocco D'Antuono present **napari-superres**
+- 2023-09-08 Julián Mejía Morales & Rocco D'Antuono present [**napari-superres**](https://drive.google.com/file/d/1fnDnEatNMLHpN2xx0CwvR1KDTIZ8IpnE/view?usp=sharing)
 
 ## BioImage Analysis Training and Conferences
 These are events (co-)organized by SwissBIAS members.
