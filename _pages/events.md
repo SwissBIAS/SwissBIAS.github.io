@@ -17,9 +17,10 @@ These are events (co-)organized by SwissBIAS members.
 Other global events can be found on [the image.sc forum](https://forum.image.sc/t/upcoming-image-analysis-events/60018).
 
 ### Upcoming
-- [Advanced Methods in Bioimage Analysis](https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/), EMBL Heidelberg, Germany, 2023.
+- [Next generation bioimage analysis workflows hackathon](https://www.ema.uzh.ch/en/register/biovisioncenter-hackathon.html), University of Zurich, Irchel Campus, Switzerland, 6-8 November 2023.
 
 ### Past
+- [Advanced Methods in Bioimage Analysis](https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/), EMBL Heidelberg, Germany, 2023.
 - [ZIDAS 2023](https://www.zidas.org/), EPFL, ETHZ, FMI, and Uni Basel; Lausanne
 - [ZIDAS 2022](https://2022.zidas.org/), EPFL, ETHZ, FMI, and Uni Basel; Lausanne
 - [Deep Learning for BioImage Analysis](https://www.embl.org/about/info/course-and-conference-office/events/mac22-01/), EMBL, Heidelberg, Germany [Virtual]. 17-21 Jan, 2022.
