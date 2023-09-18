@@ -17,6 +17,7 @@ These are events (co-)organized by SwissBIAS members.
 Other global events can be found on [the image.sc forum](https://forum.image.sc/t/upcoming-image-analysis-events/60018).
 
 ### Upcoming
+- [Building Napari Widgets and Plugins](https://memento.epfl.ch/event/workshop-building-napari-widgets-and-plugins/), EPFL Lausanne, Switzerland, 19 October 2023
 - [Next generation bioimage analysis workflows hackathon](https://www.ema.uzh.ch/en/register/biovisioncenter-hackathon.html), University of Zurich, Irchel Campus, Switzerland, 6-8 November 2023.
 
 ### Past
