@@ -1,0 +1,11 @@
+---
+first_name: Virginie
+last_name: Uhlmann
+short_name: 
+city: Zürich
+affiliation: BioVisionCenter
+position: Managing Director
+tags: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, ICY, NAPARI, Omero, KNIME]
+#categories: [cat1, cat2, cat3]
+tools:
+---
