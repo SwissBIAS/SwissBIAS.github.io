@@ -2,7 +2,7 @@
 first_name: Joel
 last_name: Lüthi
 short_name: Joel
-city: Zürich
+city: Zurich
 affiliation: BioVision Center
 position: Bio-Image Analyst
 tags: [ilastik, NAPARI, Python]
