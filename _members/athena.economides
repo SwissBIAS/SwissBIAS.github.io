@@ -1,0 +1,11 @@
+---
+first_name: Athena 
+last_name: Economides
+short_name: 
+city: Zurich
+affiliation: University of  Zurich
+position: Bioimage analyst in Aguzzi's lab
+tags: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, ICY, NAPARI, Imaris]
+#categories: [cat1, cat2, cat3]
+tools:
+---
