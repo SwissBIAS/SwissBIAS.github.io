@@ -15,7 +15,7 @@ Follow the #monthly-meeting channel on slack for updates and details.
 
 The annual meeting is open to everyone. It is the time of the year to make veterans meet new members, discuss to foster feedback on existing activities and promote new initiatives. The meeting includes various interactive formats such as presentation, an Open Source Software Lounge (OsSL), hackathons, round-tables etc. to discover, present and discuss bioimage analysis tools. The meeting ends with an hour-long General Assembly reserved to SwissBIAS members only.
 
-Every year in Bern, one day in the 3rd week of June.
+Every year in Bern, one or two day(s) in the 3rd week of June.
 
 ## Workshops
 
