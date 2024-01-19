@@ -11,11 +11,12 @@ Since 21.06.2023 SwissBIAS is also a non-profit Association with 8 board members
 # Want to join us?
 SwissBIAS welcomes people working in Switzerland that self-identify as bioimage analysts: This includes facility and technical staff, group leaders, postdocs, and students from universities as well as industry. 
 
-If you are interested, simply email us at **info@swissbias.ch**, and we will invite you to join our SLACK workspace and monthly knowledge sharing Zoom meetings.
+If you have any question, please let us know at **info@swissbias.ch**. If you are ready to join us, fill out [this google form](https://forms.gle/euXVmTocfeDzgEPv9) and we will invite you to join our SLACK workspace and monthly knowledge sharing Zoom meetings.
 
 # What does membership bring?
-Eager to keep the welcoming and inclusive nature that defines our community, most activities are open to everyone. By becoming a SwissBIAS member you help the association to cover the basic costs of the association. As a member, you get discounted access to Workshops and you can vote during the Annual General Assembly(see table below).
 
+In order to cover the association expenses and develop new activities, we are introducing in 2024 a nominal membership fee of 50 CHF (25 CHF for PhD Students). However, eager to maintain the welcoming and inclusive nature that defines our community, most activities will remain open to everyone.
+By becoming a SwissBIAS member, you will contribute to covering the basic costs of the association, enjoy discounted access to workshops and an annual meeting with registration priority, and gain the privilege to vote during the Annual General Assembly (see table below).
 
 |            | Community                       ||
 | Activities | Non-member  | Member             |
