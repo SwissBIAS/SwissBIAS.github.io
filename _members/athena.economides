@@ -3,7 +3,7 @@ first_name: Athena
 last_name: Economides
 short_name: 
 city: Zurich
-affiliation: University of  Zurich
+affiliation: University of Zurich
 position: Postdoc in Computational Science and Engineering
 tags: [tensorflow/keras, scikit-image, OpenCV, Ilastik, ImageJ/Fiji, NAPARI, CellProfiler]
 #categories: [cat1, cat2, cat3]
