@@ -5,10 +5,9 @@ short_name:
 city: Zurich
 affiliation: University of  Zurich
 position: Postdoc in Computational Science and Engineering
-
-Currently focusing on software development for 2D/3D bio-image segmentation and analysis.
-
 tags: [tensorflow/keras, scikit-image, OpenCV, Ilastik, ImageJ/Fiji, NAPARI, CellProfiler]
 #categories: [cat1, cat2, cat3]
 tools:
 ---
+
+Currently focusing on software development for 2D/3D bio-image segmentation and analysis.
