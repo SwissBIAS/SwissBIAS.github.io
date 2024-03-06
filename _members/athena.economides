@@ -4,8 +4,11 @@ last_name: Economides
 short_name: 
 city: Zurich
 affiliation: University of  Zurich
-position: Bioimage analyst in Aguzzi's lab
-tags: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, ICY, NAPARI, Imaris]
+position: Postdoc in Computational Science and Engineering
+
+Currently focusing on software development for 2D/3D bio-image segmentation and analysis.
+
+tags: [tensorflow/keras, scikit-image, OpenCV, Ilastik, ImageJ/Fiji, NAPARI, CellProfiler]
 #categories: [cat1, cat2, cat3]
 tools:
 ---
