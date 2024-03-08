@@ -8,7 +8,7 @@ position: Bioimage Analyst
 tags: [fiji, qupath, stardist, cellpose, imagesc, ilastik]
 #categories: [cat1, cat2, cat3]
 ---
-Microscopy Core Facility at the Department of Biomedicine
+Microscopy Core Facility, Department of Biomedicine
 
 Loïc works at the [Microscopy Core Facility at the Department of Biomedicine](https://biomedizin.unibas.ch/en/core-facilities/microscopy/), University of Basel and University Hospital Basel.
 
