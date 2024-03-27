@@ -1,0 +1,11 @@
+---
+first_name: Tood
+last_name: Shelter
+short_name:
+city: Switzerland
+affiliation: unaffiliated
+position: 
+tags: [CellProfiler, QuPath, Omero, KNIME, Imaris, R]
+#categories: [cat1, cat2, cat3]
+tools:
+---
