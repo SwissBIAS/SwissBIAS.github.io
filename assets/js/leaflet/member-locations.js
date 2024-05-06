@@ -33,7 +33,8 @@ return {
     "affiliations": [
       "University of Zurich",
       "ETH Zurich",
-      "University Hospital Zurich"
+      "University Hospital Zurich",
+      "BioVision Center"
     ]
   },
   "Geneva": {
@@ -63,7 +64,8 @@ return {
     ],
     "affiliations": [
       "X-members",
-      "Fenaco"
+      "Fenaco",
+      "Regeneron Pharmaceuticals"
     ]
   },
   "Fribourg": {
@@ -83,5 +85,14 @@ return {
     "affiliations": [
       "IDIAP Martigny"
     ]
-  }
+  },
+  "Zizers": {
+    "coordinates": [
+      46.9367945,
+      9.5658429
+    ],
+    "affiliations": [
+      "Unaffiliated"
+    ]
+  },
 };}
