@@ -10,17 +10,17 @@ permalink: /events/
 ## SwissBIAS Seminars
 Join us to talk with the developers of new bioimage analysis tools.
 
-- 2023-09-08 Julián Mejía Morales & Rocco D'Antuono present [**napari-superres**](https://drive.google.com/file/d/1fnDnEatNMLHpN2xx0CwvR1KDTIZ8IpnE/view?usp=sharing)
-
 ## BioImage Analysis Training and Conferences
 These are events (co-)organized by SwissBIAS members.
 Other global events can be found on [the image.sc forum](https://forum.image.sc/t/upcoming-image-analysis-events/60018).
 
 ### Upcoming
-- [Building Napari Widgets and Plugins](https://memento.epfl.ch/event/workshop-building-napari-widgets-and-plugins/), EPFL Lausanne, Switzerland, 19 October 2023
-- [Next generation bioimage analysis workflows hackathon](https://www.ema.uzh.ch/en/register/biovisioncenter-hackathon.html), University of Zurich, Irchel Campus, Switzerland, 6-8 November 2023.
+TBD
 
 ### Past
+- [Next generation bioimage analysis workflows hackathon](https://www.ema.uzh.ch/en/register/biovisioncenter-hackathon.html), University of Zurich, Irchel Campus, Switzerland, 6-8 November 2023.
+- [Building Napari Widgets and Plugins](https://memento.epfl.ch/event/workshop-building-napari-widgets-and-plugins/), EPFL Lausanne, Switzerland, 19 October 2023
+- Julián Mejía Morales & Rocco D'Antuono present [**napari-superres**](https://drive.google.com/file/d/1fnDnEatNMLHpN2xx0CwvR1KDTIZ8IpnE/view?usp=sharing), 8 September 2023 
 - [Advanced Methods in Bioimage Analysis](https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/), EMBL Heidelberg, Germany, 2023.
 - [ZIDAS 2023](https://www.zidas.org/), EPFL, ETHZ, FMI, and Uni Basel; Lausanne
 - [ZIDAS 2022](https://2022.zidas.org/), EPFL, ETHZ, FMI, and Uni Basel; Lausanne
