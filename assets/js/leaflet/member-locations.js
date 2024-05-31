@@ -95,4 +95,13 @@ return {
       "Unaffiliated"
     ]
   },
+    "Bellinzona": {
+    "coordinates": [
+      46.1957589, 
+      9.02152528
+    ],
+    "affiliations": [
+      "Institute for Research in Biomedicine"
+    ]
+  },
 };}
