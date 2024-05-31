@@ -3,7 +3,7 @@ first_name: Li-Ling
 last_name: Yang
 short_name: Li-Ling
 city: Basel
-affiliation: Institute of Human Biology / Roche Pharma Research & Early Development
+affiliation: Roche
 position: Senior Scientist / Light Microscopy Expert
 tags: [ImageJ / Fiji, NAPARI, Omero, Arivis]
 #categories: [cat1, cat2, cat3]
