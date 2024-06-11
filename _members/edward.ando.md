@@ -2,7 +2,7 @@
 first_name: Edward
 last_name: Andò
 short_name: 
-city: Laussane
+city: Lausanne
 affiliation: EPFL
 position: Bioimage analyst at EPFL Center for Imaging
 tags: [ImageJ / Fiji, QuPath, ilastik, NAPARI, Omero]
