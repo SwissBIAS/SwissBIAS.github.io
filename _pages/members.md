@@ -48,7 +48,7 @@ Please go back to homepage and the **join us** section
     };
     */
 
-    // Double check the data: Create json from member page front matter using liquid template.
+    // Double-check the data: Create json from member page front matter using liquid template.
     // (As long as no new city will appear in the member pages, this will do the trick)
     {% assign cities = site.members | map: "city" %}
     {% assign affiliations = site.members | map: "affiliation" %}
@@ -57,8 +57,12 @@ Please go back to homepage and the **join us** section
     
     cities.forEach((city, index) => {
         city = city ? city : "Unknown";
-        if (!locations[city]['affiliations'].includes(affiliations[index])) {
-            locations[city]['affiliations'].push(affiliations[index]);
+        if (!(city in locations)) {
+            console.warn(`City '${city}' is not among known locations.\nCheck 'assets/js/leaflet/member-locations.js' and pages in '_members/'`);
+        } else {
+            if (!locations[city]['affiliations'].includes(affiliations[index])) {
+                locations[city]['affiliations'].push(affiliations[index]);
+            }
         }
     });
 

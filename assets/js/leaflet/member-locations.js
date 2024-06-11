@@ -95,9 +95,9 @@ return {
       "Unaffiliated"
     ]
   },
-    "Bellinzona": {
+  "Bellinzona": {
     "coordinates": [
-      46.1957589, 
+      46.1957589,
       9.02152528
     ],
     "affiliations": [
