@@ -5,12 +5,11 @@ permalink: /events/
 
 ---
 
+The schedule of annual and monthly meetings, as well as the seminars and workshops are published in the calendar bellow. The detailed description of our activities can be found [here](https://swissbias.github.io/activities/).
+
 <iframe src="https://calendar.google.com/calendar/embed?src=0ehba6ebqgebeuk2soq527l4bg%40group.calendar.google.com&ctz=Europe%2FZurich&showPrint=0&hl=en_GB&showCalendars=0&showTitle=0&showTabs=1&" style="border: 0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
-## SwissBIAS Seminars
-Join us to talk with the developers of new bioimage analysis tools.
-
-## BioImage Analysis Training and Conferences
+## BioImage Analysis Trainings and Conferences
 These are events (co-)organized by SwissBIAS members.
 Other global events can be found on [the image.sc forum](https://forum.image.sc/t/upcoming-image-analysis-events/60018).
 
@@ -36,10 +35,3 @@ Other global events can be found on [the image.sc forum](https://forum.image.sc/
 - [ZIDAS 2019](https://2019.zidas.org/), ETHZ; Zurich
 - [ZIDAS 2018](https://2018.zidas.org/), ETHZ; Zurich
 - [ZIDAS 2017](https://2017.zidas.org/), ETHZ; Zurich
-
-## SwissBIAS Monthly Meetings
-Since 2021, SwissBIAS has been organizing monthly meetings. These take place on the first Tuesday/Thursday of even/odd months and are held online.
-The Monthly Meetings are open to the entire SwissBIAS community. These friendly gatherings aim to update the community about new tools, discuss common bioimage analysis problems and solutions, and share tips and tricks about working in imaging facilities.
-
-Upcoming and past events can be found in the Google calendar above.
-Zoom links, agenda, and minutes are available on the SwissBIAS SLACK channel. Please contact us using the EMAIL address listed here to join the SwissBIAS community and get access to it.
