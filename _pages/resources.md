@@ -6,6 +6,8 @@ toc_sticky: true
 classes: wide
 ---
 
+This page is a collection of useful web-resources, curated by SwissBIAS members.
+
 ## Useful links
 A few annotated links to forums, repositories for training material, etc
 
