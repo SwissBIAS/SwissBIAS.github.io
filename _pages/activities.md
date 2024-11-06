@@ -3,7 +3,7 @@ title: Activities
 permalink: /activities/
 ---
 
-SwissBIAS organizes monthly meetings, an Annual Meeting, and a couple of seminars and workshops per year.
+SwissBIAS organizes monthly meetings, an Annual Meeting, and a couple of seminars and workshops per year. While the different activities are described in detail on this page, the actual schedule of our activities is published in the calendar on the [events page](https://swissbias.github.io/events/). 
 
 ## Monthly meetings
 
