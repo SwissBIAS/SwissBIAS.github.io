@@ -17,7 +17,7 @@ Other global events can be found on [the image.sc forum](https://forum.image.sc/
 ### Upcoming
 
 ### Past
-- - **2024 SwissBIAS Annual meeting & General assembly in Bern**: 
+- **2024 SwissBIAS Annual meeting & General assembly in Bern**: 
     Find here the program of NormConf talk, Lightning talk or OSSL slot: [Form link](https://docs.google.com/spreadsheets/d/1-Qjk-R_ajpzYfxGqcYa_9MZYNqH4W5z_P6mKYiu9Jr8/))
      <u> Workshops were : </u>
     - Non linear registration using BigWarp, Warpy and python (by Nicolas C.)
