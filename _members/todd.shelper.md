@@ -1,6 +1,6 @@
 ---
 first_name: Tood
-last_name: Shelter
+last_name: Shelper
 short_name:
 city: Zizers
 affiliation: unaffiliated
