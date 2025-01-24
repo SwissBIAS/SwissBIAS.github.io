@@ -2,8 +2,8 @@
 first_name: Mike
 last_name: Abanto
 short_name: 
-city: Community members
-affiliation: 
+city: 
+affiliation: Community members 
 position: 
 tags: []
 #categories: [cat1, cat2, cat3]
