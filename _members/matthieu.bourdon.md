@@ -3,7 +3,7 @@ first_name: Matthieu
 last_name: Bourdon
 short_name: mbourdon
 city: Basel
-affiliation: FMI Basel
+affiliation: XCommunity members
 position: Scientist
 tags: [imagej, fiji, imaris, Python, R]
 #categories: [cat6]
