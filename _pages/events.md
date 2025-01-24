@@ -14,6 +14,7 @@ These are events (co-)organized by SwissBIAS members.
 Other global events can be found on [the image.sc forum](https://forum.image.sc/t/upcoming-image-analysis-events/60018).
 
 ### Upcoming
+- [ZIDAS 2025](https://www.zidas.org/), EPFL, ETHZ, and Uni Basel; Basel
 
 ### Past
 - **2024 SwissBIAS Annual meeting & General assembly in Bern**: 
