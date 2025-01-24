@@ -3,7 +3,7 @@ first_name: Clémence
 last_name: Hurni
 short_name: clemence
 city: Geneva
-affiliation: Wyss Center
+affiliation: XCommunity members
 position: software engineer
 tags: [ImageJ / Fiji, NAPARI, Imaris, R]
 #categories: [cat1, cat2, cat3]
