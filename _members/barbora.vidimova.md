@@ -3,7 +3,7 @@ first_name: Barbora
 last_name: Vidimova
 short_name: barbora
 city: Lausanne
-affiliation: University of Lausanne
+affiliation: XCommunity members
 position: Bioimage Analyst
 tags: [ImageJ / Fiji, CellProfiler, QuPath, NAPARI, Huygens, Imaris]
 ---
