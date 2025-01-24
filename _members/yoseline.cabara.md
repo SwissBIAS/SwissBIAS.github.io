@@ -3,7 +3,7 @@ first_name: Yoseline
 last_name: Cabara
 short_name: yoseline
 city: Geneva
-affiliation: Wyss Center
+affiliation: XCommunity members
 position: Image Analyst
 tags: [Python, Matlab, C, C++, C#, Julia]
 tools: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, ICY, NAPARI, Omero, KNIME, Huygens, Imaris, Arivis]
