@@ -3,7 +3,7 @@ first_name: Nicole
 last_name: Repina
 short_name: Nicole
 city: Basel
-affiliation: FMI Basel
+affiliation: XCommunity members
 position: PostDoc
 tags: [Napari, fiji, R, CellProfiler]
 ---
