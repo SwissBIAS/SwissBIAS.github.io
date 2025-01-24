@@ -2,8 +2,8 @@
 first_name: Kai
 last_name: Schleicher
 short_name: kai
-city: Basel
-affiliation: University of Basel
+city: 
+affiliation: XCommunity members
 position: Bioimage Analyst
 tags: [fiji]
 #categories: [cat1, cat2, cat3]
