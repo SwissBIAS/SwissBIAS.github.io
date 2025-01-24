@@ -3,7 +3,7 @@ first_name: Arne
 last_name: Seitz
 short_name: arne
 city: Lausanne
-affiliation: EPFL
+affiliation: XCommunity members
 position: Bioimage Analyst
 tags: [fiji]
 #categories: [cat1, cat2, cat3]
