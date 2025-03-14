@@ -14,6 +14,7 @@ These are events (co-)organized by SwissBIAS members.
 Other global events can be found on [the image.sc forum](https://forum.image.sc/t/upcoming-image-analysis-events/60018).
 
 ### Upcoming
+- [SwissBIAS Annual Meeting](https://www.eventbrite.ch/e/swissbias-annual-meeting-2025-tickets-1230003998069?aff=oddtdtcreator) June 18th (and June 19th for workshops)
 - [ZIDAS 2025](https://www.zidas.org/), EPFL, ETHZ, and Uni Basel; Basel
 
 ### Past
