@@ -29,3 +29,9 @@ A few annotated links to forums, repositories for training material, etc
 - [NEUBIAS Image Analysis Training Resources](https://neubias.github.io/training-resources/all-modules/): Online material
 - [Robert Haase's youtube channel and personal list](https://www.youtube.com/playlist?list=PL5ESQNfM5lc7SAMstEu082ivW4BDMvd0U): General introduction to BioImage analysis. Robert also maintains a [very thorough list of online resources](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html#written-resources).
 - [Introduction book to Bioimage Analysis](https://bioimagebook.github.io./README.html): Pete Bankhead is the head of the BioImage Analysis and Digital Pathology group in Edinburgh and the original developer of QuPath
+
+## MicroscopyDB powered training materials
+<iframe class="airtable-embed" src="https://airtable.com/embed/appOYzLa3IMl5Vrr7/shrSfqKMABuSK5NPd?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="633" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## MicroscopyDB powered tools
+<iframe class="airtable-embed" src="https://airtable.com/embed/appDBvAnGKHnxnqjL/shrRZGZU92VhtyTdt?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="633" style="background: transparent; border: 1px solid #ccc;"></iframe>
