@@ -10,6 +10,8 @@ main:
     url: /members/
   - title: Resources
     url: /resources/
+  - title: Jobs
+    url: /jobs/
 #  - title: Posts
 #    url: /posts/
 
