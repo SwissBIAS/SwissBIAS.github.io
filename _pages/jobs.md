@@ -1,6 +1,6 @@
 ---
-title: Events
-permalink: /events/
+title: Jobs
+permalink: /jobs/
 ---
 
 ## MicroscopyDB powered international open positions
