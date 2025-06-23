@@ -15,7 +15,7 @@ leaving the Centre for Cellular Imaging
 [CCI](https://www.gu.se/en/core-facilities/centre-for-cellular-imaging) at
 the University of Göteborg, Sweden. He is responsible, along with [Kai
 Schleicher](/members/kai.schleicher/), [Nikolaus Ehrenfeuchter](/members/niko.ehrenfeuchter/) and
-[Sébastien Herbert](/members/sebastien.herbert/) for the advice and follow up of any
+Rohan Girish for the advice and follow up of any
 research projects involving light microscopy and image processing within the
 [Biozentrum](https://biozentrum.unibas.ch/) and occasionally other departments of the
 University of Basel.
@@ -38,4 +38,3 @@ Virtualized Desktop Infrastructure *VAMP*.
 - [GitHub](https://github.com/lguerard)
 - [ImageSC Forum](https://forum.image.sc/u/lguerard/activity)
 - [Twitter](https://twitter.com/lguerard42)
-
