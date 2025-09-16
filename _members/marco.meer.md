@@ -3,13 +3,11 @@ first_name: Marco
 last_name: Meer
 short_name: marco
 city: Bern
-affiliation: University of Bern
-position: Early postdoc
-tags: [Napari, Fiji, Julia, R, Python, Scikit-image, Linux]
+affiliation: Institute of Anatomy, University of Bern
+position: Postdoc
+tags: [Python,Napari,NGFF,FAIR]
 #categories: [cat1, cat2, cat3]
 ---
 
-
-Background: Physics, Computational Biology. 
-Work: Multiplexed image processing workflows, spatiotemporal modeling.
-Interests: Mechanobiology, regeneration, artificial neural networks.
+Work: Live Imaging, Cell Behavior, Tissue Regeneration, Image Analysis
+Homepage: [https://macromeer.github.io/](https://macromeer.github.io/)
