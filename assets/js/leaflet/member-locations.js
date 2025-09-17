@@ -104,4 +104,13 @@ return {
       "Institute for Research in Biomedicine"
     ]
   },
+  "Mendrisio": {
+    "coordinates": [
+      45.8716193,
+      8.9830319
+    ],
+    "affiliations": [
+      "SUPSI"
+    ]
+  },
 };}
