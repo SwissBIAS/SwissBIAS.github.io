@@ -3,7 +3,7 @@ first_name: Pauline
 last_name: Mermillod
 short_name: 
 city: Lausanne
-affiliation: BIOP
+affiliation: EPFL
 position: 
 tags: []
 #categories: [cat1, cat2, cat3]
