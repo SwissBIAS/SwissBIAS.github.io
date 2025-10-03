@@ -18,7 +18,7 @@ Other global events can be found on [the image.sc forum](https://forum.image.sc/
 
 
 ### Past
-- Cameron Shand presents [**Automating and Simplifying Napari Plugin Development**]()https://drive.google.com/file/d/1aVNp9dxn_YbnTdMPfKbT20f1oVD9p5td/view), 23 september 2025
+- Cameron Shand presents [**Automating and Simplifying Napari Plugin Development**](https://drive.google.com/file/d/1aVNp9dxn_YbnTdMPfKbT20f1oVD9p5td/view), 23 september 2025
 - [SwissBIAS Annual Meeting 2025](https://www.eventbrite.ch/e/swissbias-annual-meeting-2025-tickets-1230003998069?aff=oddtdtcreator) June 18th (and June 19th for workshops)
 - [ZIDAS 2025](https://www.zidas.org/), EPFL, ETHZ, and Uni Basel; Basel
 - **2024 SwissBIAS Annual meeting & General assembly in Bern**: 
