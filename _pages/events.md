@@ -14,10 +14,12 @@ These are events (co-)organized by SwissBIAS members.
 Other global events can be found on [the image.sc forum](https://forum.image.sc/t/upcoming-image-analysis-events/60018).
 
 ### Upcoming
-- [SwissBIAS Annual Meeting 2025](https://www.eventbrite.ch/e/swissbias-annual-meeting-2025-tickets-1230003998069?aff=oddtdtcreator) June 18th (and June 19th for workshops)
-- [ZIDAS 2025](https://www.zidas.org/), EPFL, ETHZ, and Uni Basel; Basel
+
+
 
 ### Past
+- [SwissBIAS Annual Meeting 2025](https://www.eventbrite.ch/e/swissbias-annual-meeting-2025-tickets-1230003998069?aff=oddtdtcreator) June 18th (and June 19th for workshops)
+- [ZIDAS 2025](https://www.zidas.org/), EPFL, ETHZ, and Uni Basel; Basel
 - **2024 SwissBIAS Annual meeting & General assembly in Bern**: 
     Find here the program of NormConf talk, Lightning talk or OSSL slot: [Form link](https://docs.google.com/spreadsheets/d/1-Qjk-R_ajpzYfxGqcYa_9MZYNqH4W5z_P6mKYiu9Jr8/))
      <u> Workshops were : </u>
