@@ -1,4 +1,4 @@
-# [swissbias.org](https://www.swissbias.ch)
+# [swissbias.ch](https://swissbias.ch)
 Website for the SwissBIAS network: Swiss BioImage Analysts' network.   
 
 > To keep this document compact, the bulk of the documentation is on our [wiki](https://github.com/SwissBIAS/SwissBIAS.github.io/wiki).
