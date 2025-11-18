@@ -15,7 +15,7 @@ Other global events can be found on [the image.sc forum](https://forum.image.sc/
 
 ### Upcoming
 
-- Nicolas Chiarrutini presents [**QuPath Image Registration Workshop**], 26 November 2025 1-3pm
+- Nicolas Chiarrutini presents **QuPath Image Registration Workshop**, 26 November 2025 1-3pm
 
 ### Past
 - Cameron Shand presents [**Automating and Simplifying Napari Plugin Development**](https://drive.google.com/file/d/1aVNp9dxn_YbnTdMPfKbT20f1oVD9p5td/view), 23 september 2025
