@@ -15,8 +15,8 @@ Other global events can be found on [the image.sc forum](https://forum.image.sc/
 
 ### Upcoming
 
-- Nicolas Chiarrutini presents [**QuPath Image Registration Workshop***](https://docs.google.com/forms/d/e/1FAIpQLSdEVfB_cPPIomMDFVJ2zj9CMMYITIqPvfjgMjvppCxGTzI5EQ/viewform), 26 November 2025 1-3pm
-- Roman Schwob presents **convpaint**, 10 December 2025 10-11am
+- Nicolas Chiarrutini presents [**QuPath Image Registration Workshop**](https://docs.google.com/forms/d/e/1FAIpQLSdEVfB_cPPIomMDFVJ2zj9CMMYITIqPvfjgMjvppCxGTzI5EQ/viewform), 26 November 2025 1-3pm
+- Roman Schwob presents [**convpaint**](https://drive.google.com/file/d/1smkpJRygnMU9h2FcrZVTHy5j8AhhXA6w/view?usp=sharing), 10 December 2025 10-11am
 
 ### Past
 - [**OME-NGFF Symposium and Hackaton**](https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html), 10-14 November 2025
