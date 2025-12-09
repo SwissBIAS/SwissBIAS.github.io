@@ -2,8 +2,9 @@
 first_name: Nikita
 last_name: Vladimirov
 short_name: "@nvladimus"
+membership: yes
 city: Zurich
-affiliation: XCommunity members
+affiliation: University of Zurich
 position: Staff Scientist
 tags: [matlab]
 categories: [cat1, cat2, cat3]
