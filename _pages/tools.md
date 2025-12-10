@@ -17,7 +17,7 @@ toc: false
 <ul>
        {% for member in fullmembers %}
            {% if member.tools contains tool %}
-<li><a href="/members/{{ member.first_name | slugify | downcase }}.{{ member.last_name | slugify | downcase }}"> {{ member.first_name }} {{ member.last_name }}</a></li>
+<li><a href="{{ member.url }}"> {{ member.first_name }} {{ member.last_name }}</a></li>
            {% endif %}
        {% endfor %}
 </ul>
