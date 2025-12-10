@@ -35,3 +35,6 @@ A few annotated links to forums, repositories for training material, etc
 
 ## MicroscopyDB powered tools
 <iframe class="airtable-embed" src="https://airtable.com/embed/appDBvAnGKHnxnqjL/shrRZGZU92VhtyTdt?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="633" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## MicroscopyDB powered international open positions
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr7lEmWiJgDT3R7a?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="633" style="background: transparent; border: 1px solid #ccc;"></iframe>
