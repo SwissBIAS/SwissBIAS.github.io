@@ -6,6 +6,7 @@ membership: false
 city: Martigny
 affiliation: IDIAP Martigny
 position: Professor
+date: 2022-06-30
 tools: [ImageJ / Fiji]
 ---
 

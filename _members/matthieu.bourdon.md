@@ -6,6 +6,7 @@ membership: false
 city: Basel
 affiliation: FMI Basel
 position: Scientist
+date: 2025-06-18
 tools: [ImageJ / Fiji, Imaris, Python, R]
 ---
 

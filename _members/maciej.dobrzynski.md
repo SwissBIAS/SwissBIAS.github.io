@@ -6,6 +6,7 @@ membership: true
 city: Bern
 affiliation: University of Bern
 position: Senior Research Assistant
+date: 2023-06-04
 tools: [ImageJ / Fiji, CellProfiler, ilastik, NAPARI, KNIME, Python, R, Shiny]
 ---
 

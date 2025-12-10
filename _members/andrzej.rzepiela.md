@@ -6,6 +6,7 @@ membership: true
 city: Zurich
 affiliation: ETH Zurich
 position: Data Analyst
+date: 2022-06-30
 tools: [Python, phaedra]
 ---
 

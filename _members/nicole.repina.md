@@ -6,6 +6,7 @@ membership: false
 city: Basel
 affiliation: XCommunity members
 position: PostDoc
+date: 2025-06-18
 tools: [NAPARI, ImageJ / Fiji, R, CellProfiler]
 ---
 

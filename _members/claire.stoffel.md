@@ -6,6 +6,7 @@ affiliation: EPFL
 membership: true
 city: Lausanne
 position: Bioimage Analyst
+date: 2022-06-30
 tools: [ImageJ / Fiji]
 ---
 BIOP

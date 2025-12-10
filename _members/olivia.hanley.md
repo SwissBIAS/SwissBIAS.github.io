@@ -6,6 +6,7 @@ membership: false
 city: Zurich
 affiliation: XCommunity members
 position: Research Associate
+date: 2025-06-18
 tools: [ImageJ / Fiji, Imaris]
 ---
 

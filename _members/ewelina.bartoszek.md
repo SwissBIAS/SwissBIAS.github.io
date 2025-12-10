@@ -6,6 +6,7 @@ membership: true
 city: Basel
 affiliation: University of Basel
 position: Image Analyst
+date: 2022-11-07
 tools: [ImageJ / Fiji]
 ---
 

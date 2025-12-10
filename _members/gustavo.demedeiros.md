@@ -6,6 +6,7 @@ membership: false
 city: Basel
 affiliation: XCommunity members
 position: Research staff
+date: 2025-06-18
 tools: [ImageJ / Fiji, ilastik, NAPARI, Huygens]
 homepage: liberalilab.org
 ---

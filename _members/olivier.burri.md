@@ -6,6 +6,7 @@ membership: false
 city: Lausanne
 affiliation: EPFL
 position: Bioimage Analyst
+date: 2022-06-30
 tools: [ImageJ / Fiji, QuPath, Cellpose, ilastik, Cellprofiler]
 ---
 BIOP: BioImaging & Optics Platform
@@ -18,6 +19,7 @@ Oli has been working at the [BIOP](https://www.epfl.ch/research/facilities/ptbio
 
 *Areas of expertise:* Bioimage analysis, Whole Slide Imaging, Websites, IT hardware.
 
+date: 2022-06-30
 Common BIA tools:* Fiji, CellProfiler, ilastik, Imaris, QuPath, OMERO.
 
 *Spoken Languages:* Groovy, Java, JavaScript, MATLAB, Python, R, Ruby, PHP, French, English, Spanish.

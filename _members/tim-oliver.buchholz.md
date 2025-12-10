@@ -6,6 +6,7 @@ membership: false
 city: Basel
 affiliation: FMI Basel
 position: Machine Learning Expert
+date: 2022-06-30
 tools: [DL, Python, Ubuntu, Github, TensorFlow, pytorch]
 ---
 FAIM: Facility for Advanced Imaging and Microscopy

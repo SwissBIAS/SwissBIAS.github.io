@@ -6,5 +6,6 @@ membership: false
 city: Bern
 affiliation: XCommunity members
 position: Staff Scientist
+date: 2025-06-18
 tools: [ImageJ / Fiji, NAPARI, R, python]
 ---

@@ -6,6 +6,7 @@ membership: true
 city: Basel
 affiliation: ETHZ Basel
 position: Bioimage Analyst, Software Engineer
+date: 2022-06-30
 tools: [Python, MATLAB, C#, Java, ImageJ / Fiji, NAPARI, CellProfiler, ilastik, Huygens, Imaris]
 ---
 

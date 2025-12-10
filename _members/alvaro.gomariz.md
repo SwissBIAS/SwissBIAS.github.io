@@ -6,6 +6,7 @@ membership: false
 city: Basel
 affiliation: XCommunity members
 position: Postdoc in Computer Vision
+date: 2025-06-18
 tools: [Python, TensorFlow]
 ---
 

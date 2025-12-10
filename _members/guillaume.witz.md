@@ -6,6 +6,7 @@ membership: true
 city: Bern
 affiliation: University of Bern
 position: Bioimage Analyst
+date: 2022-06-30
 tools: [ImageJ / Fiji, Python, Jupyter, ilastik, pytorch, scikit-image, dask, NAPARI]
 ---
 
@@ -17,6 +18,7 @@ Current interests: Distributed computing and Deep Learning for bioimage analysis
 
 Areas of expertise: Bioimage analysis, High Performance Computing, Jupyter and JupyterHubs
 
+date: 2022-06-30
 BIA tools: Python, Fiji, CellProfiler, ilastik, Imaris, MATLAB.
 
 For more information, please see personal scientific homepage.

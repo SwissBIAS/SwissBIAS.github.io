@@ -6,5 +6,6 @@ membership: false
 city: Bellinzona
 affiliation: Institute for Research in Biomedicine
 position: Group leader
+date: 2025-09-17
 tools: [ImageJ / Fiji, Imaris]
 ---

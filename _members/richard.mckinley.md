@@ -6,6 +6,7 @@ membership: false
 city: 
 affiliation: XCommunity members
 position: Bioimage Analyst
+date: 2025-06-18
 tools: [ImageJ / Fiji]
 ---
 Support Centre for Advanced Neuroimaging

@@ -6,6 +6,7 @@ membership: false
 city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst
+date: 2025-06-23
 tools: [ImageJ / Fiji, Omero, Jupyter, Imaris, Python, uv, Pixi, Poetry, git]
 ---
 
@@ -47,6 +48,7 @@ systems (he's even having his phone's address book in a git repo).
 
 **Heavy user of:** git, fish, bash, VS Code, Sublime Merge, Python, Ansible, PowerShell, Grafana
 
+date: 2025-06-23
 **Favorite BIA tools:** Fiji, OMERO, Imaris, Huygens, (Jupyter) Notebooks, ZENODO
 
 **Languages:**

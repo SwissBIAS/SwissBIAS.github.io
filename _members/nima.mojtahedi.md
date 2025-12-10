@@ -6,6 +6,7 @@ membership: false
 city: Geneva
 affiliation: XCommunity members 
 position: 
+date: 2025-06-18
 tools: [ImageJ / Fiji, ilastik, NAPARI, Imaris, Arivis, R]
 ---
 

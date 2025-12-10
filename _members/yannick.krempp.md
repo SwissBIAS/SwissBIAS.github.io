@@ -6,6 +6,7 @@ membership: false
 city: Lausanne
 affiliation: University of Lausanne
 position: Technical Manager, Bioimaging and IT
+date: 2022-06-30
 tools: []
 ---
 

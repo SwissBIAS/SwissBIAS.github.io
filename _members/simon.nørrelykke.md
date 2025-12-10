@@ -6,6 +6,7 @@ membership: false
 city:
 affiliation: X-members
 position: Image Analyst
+date: 2023-04-04
 tools: [MATLAB, ImageJ / Fiji, ilastik]
 homepage: https://norsimon.github.io/
 ---
@@ -21,6 +22,7 @@ Simon moved to Boston in September 2022 to build a new group there, see [Image A
 
 *Heavy user of*: [org-mode](https://orgmode.org/) in [Emacs](https://www.gnu.org/software/emacs/).  
 
+date: 2023-04-04
 *BIA tools*: Fiji, CellProfiler, ilastik, Imaris, MATLAB, Python.
 
 For more information, please see [personal scientific homepage](https://norsimon.github.io/). 

@@ -6,6 +6,7 @@ membership: true
 city: Bern
 affiliation: University of Bern
 position: Postdoc
+date: 2025-04-16
 tools: [Python,NAPARI,NGFF,FAIR]
 ---
 

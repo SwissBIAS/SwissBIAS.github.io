@@ -6,6 +6,7 @@ membership: true
 city: Zurich
 affiliation: University of Zurich
 position: PostDoc
+date: 2023-04-04
 tools: [ImageJ / Fiji, CellProfiler, ilastik, NAPARI]
 ---
 

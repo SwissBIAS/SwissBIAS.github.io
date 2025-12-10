@@ -6,5 +6,6 @@ membership: true
 city: Lausanne
 affiliation: EPFL
 position: 
+date: 2025-09-17
 tools: []
 ---

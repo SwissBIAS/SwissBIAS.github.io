@@ -6,5 +6,6 @@ membership: false
 city: Lausanne
 affiliation: EPFL
 position: 
+date: 
 tools: [ImageJ / Fiji, QuPath, ilastik, Imaris, Arivis]
 ---

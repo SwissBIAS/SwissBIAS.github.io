@@ -6,6 +6,7 @@ membership: false
 city: Bern
 affiliation: University of Bern
 position: 
+date: 
 tools: [ImageJ / Fiji, ilastik, Imaris, R]
 ---
 

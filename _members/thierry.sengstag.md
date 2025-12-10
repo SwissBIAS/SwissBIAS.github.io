@@ -6,5 +6,6 @@ membership: false
 city: Basel
 affiliation: University of Basel
 position: 
+date: 
 tools: [Omero, KNIME, R, LabKey and scientific data management tools in general]
 ---

@@ -6,5 +6,6 @@ membership: false
 city: Zurich
 affiliation: BioVision Center
 position: Managing Director
+date: 2024-05-08
 tools: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, ICY, NAPARI, Omero, KNIME]
 ---

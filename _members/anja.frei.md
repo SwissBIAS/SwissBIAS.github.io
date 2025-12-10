@@ -6,6 +6,7 @@ affiliation: University Hospital Zurich
 membership: false
 city: Zurich
 position: Bioimage Analyst
+date: 2022-06-30
 tools: [ImageJ / Fiji]
 ---
 Koelzer Lab

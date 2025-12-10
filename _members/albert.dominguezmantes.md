@@ -6,5 +6,6 @@ membership: false
 city: Lausanne
 affiliation: EPFL
 position: PhD student Weigert group, La Manno group
+date: 2024-05-31
 tools: []
 ---

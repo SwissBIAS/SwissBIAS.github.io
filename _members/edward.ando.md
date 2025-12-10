@@ -6,6 +6,7 @@ membership: false
 city: Lausanne
 affiliation: EPFL
 position: Image analyst at EPFL Center for Imaging
+date: 2024-07-02
 tools: [ImageJ / Fiji, QuPath, ilastik, NAPARI, Omero]
 ---
 

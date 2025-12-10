@@ -6,6 +6,7 @@ membership: true
 city: Basel
 affiliation: FMI Basel
 position: Bioimage Analyst
+date: 2022-06-30
 tools: [ImageJ / Fiji]
 ---
 

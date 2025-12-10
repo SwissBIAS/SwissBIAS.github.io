@@ -6,6 +6,7 @@ membership: false
 city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst
+date: 2025-06-23
 tools: [ImageJ / Fiji, Omero, Jupyter, Imaris, Arivis, Python]
 ---
 IMCF: Imaging Core Facility lead by [Oliver Biehlmaier](/members/oliver.biehlmaier/)

@@ -6,5 +6,6 @@ membership: true
 city: Geneva
 affiliation: bonej.org
 position: 
+date: 2025-09-17
 tools: [ImageJ / Fiji, NAPARI, R]
 ---

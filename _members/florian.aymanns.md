@@ -6,6 +6,7 @@ membership: true
 city: Lausanne
 affiliation: EPFL
 position: Image Analyst
+date: 2023-04-04
 tools: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, ICY, NAPARI, Omero, KNIME, Huygens, Imaris, Arivis, R]
 ---
 

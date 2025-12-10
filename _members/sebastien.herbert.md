@@ -6,6 +6,7 @@ membership: false
 city: Strasbourg, France
 affiliation: IGBMC
 position: Bioimage Analyst
+date: 2025-06-23
 tools: [ImageJ / Fiji, Python]
 ---
 

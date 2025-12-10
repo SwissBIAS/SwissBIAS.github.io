@@ -6,6 +6,7 @@ membership: false
 city: Basel
 affiliation: XCommunity members
 position: Bioimage Analyst and Advanced Microscopy Specialist
+date: 2025-06-18
 tools: [ImageJ / Fiji]
 ---
 IMCF, Biozentrum, University of Basel

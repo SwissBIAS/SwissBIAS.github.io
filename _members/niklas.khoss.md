@@ -6,5 +6,6 @@ membership: false
 city: Basel
 affiliation: FMI Basel
 position: 
+date: 2025-10-07
 tools: [CellProfiler, QuPath, ilastik, NAPARI]
 ---

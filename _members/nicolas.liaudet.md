@@ -6,6 +6,7 @@ membership: true
 city: Geneva
 affiliation: University of Geneva
 position: Bioimage Analyst
+date: 2022-06-30
 tools: [ImageJ / Fiji]
 ---
 Bioimaging Core Facility

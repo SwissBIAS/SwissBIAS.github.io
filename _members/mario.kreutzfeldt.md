@@ -6,6 +6,7 @@ membership: true
 city: Geneva
 affiliation: Hôpitaux Universitaires Genève
 position: Biologist
+date: 2022-06-30
 tools: [Visiopharm, Definiens, ImageJ / Fiji, QuPath, Multiplex, IHC]
 homepage: https://www.hug.ch/pathologie-clinique/plateforme-danalyse-dimage
 ---
@@ -16,4 +17,5 @@ Furthermore, he is developing image analysis solutions for clinical decision sup
 
 *Background*: Biology
 *Areas of expertise*: Whole slide scanners, Digital Pathology, Immunofluorescence and Immunohistochemistry, Whole Slide Image analysis
+date: 2022-06-30
 *BIA tools*: Visiopharm, Definiens, QuPath, Fiji

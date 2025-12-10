@@ -6,6 +6,7 @@ membership: true
 city: Zurich
 affiliation: BioVision Center
 position: Bio-Image Analyst
+date: 2023-11-14
 tools: [ilastik, NAPARI, Python]
 ---
 

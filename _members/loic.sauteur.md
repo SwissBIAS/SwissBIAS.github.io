@@ -6,6 +6,7 @@ membership: true
 city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst
+date: 2024-03-08
 tools: [ImageJ / Fiji, QuPath, Stardist, Cellpose, ilastik]
 ---
 Microscopy Core Facility, Department of Biomedicine

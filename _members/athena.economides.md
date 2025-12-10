@@ -6,6 +6,7 @@ membership: false
 city: Zurich
 affiliation: University of Zurich
 position: Postdoc in Computational Science and Engineering
+date: 2024-05-08
 tools: [TensorFlow, scikit-image, OpenCV, ilastik, ImageJ / Fiji, NAPARI, CellProfiler]
 ---
 

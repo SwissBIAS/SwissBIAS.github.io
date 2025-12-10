@@ -6,6 +6,7 @@ membership: true
 city: Zurich
 affiliation: ETH Zurich
 position: Senior Scientific Staff & Lead Image Analysis
+date: 2022-11-03
 tools: [Python, ImageJ / Fiji]
 ---
 

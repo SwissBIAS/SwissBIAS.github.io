@@ -6,6 +6,7 @@ membership: false
 city: Lausanne
 affiliation: XCommunity members
 position: Functional Leader of the Microscopy & Imaging Team
+date: 2025-06-18
 tools: []
 ---
 

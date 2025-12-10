@@ -6,5 +6,6 @@ membership: false
 city: Mendrisio
 affiliation: SUPSI
 position: Research scientist in environmental microbiology, Head of the Environmental Biotechnology sector (BET)
+date: 2025-09-17
 tools: [ImageJ / Fiji, CellProfiler, R]
 ---
