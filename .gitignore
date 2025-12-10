@@ -10,3 +10,5 @@
 *.DS_Store
 # rbenv
 *.ruby-version
+# jekyll
+Gemfile.lock
