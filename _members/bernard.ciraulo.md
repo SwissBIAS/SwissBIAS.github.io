@@ -2,12 +2,10 @@
 first_name: Bernard 
 last_name: Ciraulo
 short_name: 
-membership: no
+membership: false
 city: Zurich
 affiliation: University of Zurich
 position: 
-tags: [ImageJ / Fiji, NAPARI, Imaris]
-#categories: [cat1, cat2, cat3]
-tools:
+tools: [ImageJ / Fiji, NAPARI, Imaris]
 ---
 

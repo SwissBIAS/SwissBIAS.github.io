@@ -1,11 +1,11 @@
 ---
 first_name: Romain
 last_name: Guiet
-membership: yes
+membership: true
 city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst
-tags: [fiji, imagej, qupath, image.sc, ilastik, cellprofiler, cellprofiler analyst, cellpose, knime , omero, renku , imaris, icy ]
+tools: [ImageJ / Fiji, QuPath, ilastik, CellProfiler, CellProfiler Analyst, Cellpose, KNIME , Omero, Renku , Imaris, ICY ]
 ---
 BIOP: BioImaging & Optics Platform lead by [Arne Seitz](/members/arne.seitz/)
 

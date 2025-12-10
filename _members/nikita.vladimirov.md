@@ -2,13 +2,11 @@
 first_name: Nikita
 last_name: Vladimirov
 short_name: "@nvladimus"
-membership: yes
+membership: true
 city: Zurich
 affiliation: University of Zurich
 position: Staff Scientist
-tags: [matlab]
-categories: [cat1, cat2, cat3]
-tools: [matlab]
+tools: [MATLAB]
 homepage: https://github.com/nvladimus
 ---
 

@@ -2,10 +2,9 @@
 first_name: Niklas
 last_name: Khoss
 short_name: 
-membership: no
+membership: false
 city: Basel
 affiliation: FMI Basel
 position: 
-tags: [CellProfiler, QuPath, ilastik, NAPARI]
-#categories: [cat6]
+tools: [CellProfiler, QuPath, ilastik, NAPARI]
 ---

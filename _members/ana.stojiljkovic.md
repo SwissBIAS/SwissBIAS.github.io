@@ -2,11 +2,9 @@
 first_name: Ana
 last_name: Stojiljkovic
 short_name: astojiljkovic
-membership: yes
+membership: true
 city: Bern
 affiliation: University of Bern
 position: Bioimage analyst
-tags: [fiji, cellprofiler, qupath, ilastik, napari, KNIME, imaris, R, python]
-#categories: [cat1, cat2, cat3]
-tools:
+tools: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, NAPARI, KNIME, Imaris, R, Python]
 ---

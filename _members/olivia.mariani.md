@@ -1,12 +1,11 @@
 ---
 first_name: Olivia
 last_name: Mariani
-membership: yes
+membership: true
 city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst
-tags: [fiji, imagej ]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji ]
 ---
 [EPFL Center for Imaging](https://www.epfl.ch/research/domains/imaging/)
 

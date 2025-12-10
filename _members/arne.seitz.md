@@ -2,12 +2,11 @@
 first_name: Arne
 last_name: Seitz
 short_name: arne
-membership: no
+membership: false
 city: Lausanne
 affiliation: XCommunity members
 position: Bioimage Analyst
-tags: [fiji]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji]
 ---
 BIOP
 

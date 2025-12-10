@@ -2,12 +2,11 @@
 first_name: Tarun
 last_name: Chadha
 short_name: tarun
-membership: yes
+membership: true
 city: Zurich
 affiliation: ETH Zurich
 position: Data Scientist
-tags: [python]
-#categories: [cat1, cat2, cat3]
+tools: [Python]
 ---
 
 Data scientist at the Scientific IT Services of ETH Zurich.

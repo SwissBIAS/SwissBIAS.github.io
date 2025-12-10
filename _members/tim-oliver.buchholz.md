@@ -2,12 +2,11 @@
 first_name: Tim-Oliver
 last_name: Buchholz
 short_name: Tim
-membership: no
+membership: false
 city: Basel
 affiliation: FMI Basel
 position: Machine Learning Expert
-tags: [DL,Python,Ubuntu,Github,TensorFlow,PyTorch]
-#categories: [cat1, cat2, cat3]
+tools: [DL, Python, Ubuntu, Github, TensorFlow, pytorch]
 ---
 FAIM: Facility for Advanced Imaging and Microscopy
 
@@ -21,7 +20,7 @@ _Current interests:_ Teaching and using deep learning for bio-image analysis.
 
 _Areas of expertise:_ Bioimage analysis, Deep learning with TensorFlow and PyTorch.
 
-_Common BIA tools:_ Fiji, KNIME Image Processing, PyTorch, TensorFlow, Singularity.
+_Common BIA _ Fiji, KNIME Image Processing, PyTorch, TensorFlow, Singularity.
 
 _Spoken Languages:_ Java, MATLAB, Python, R, German, English.
 

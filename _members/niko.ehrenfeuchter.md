@@ -2,12 +2,11 @@
 first_name: Niko
 last_name: Ehrenfeuchter
 short_name: Niko
-membership: no
+membership: false
 city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst
-tags: [fiji, imagej, image.sc, omero, jupyter, imaris, python, uv, pixi, poetry, git]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji, Omero, Jupyter, Imaris, Python, uv, Pixi, Poetry, git]
 ---
 
 IMCF: Imaging Core Facility lead by [Oliver Biehlmaier](/members/oliver.biehlmaier/)

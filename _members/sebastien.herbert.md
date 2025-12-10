@@ -2,12 +2,11 @@
 first_name: Sebastien
 last_name: Herbert
 short_name: seb
-membership: no
+membership: false
 city: Strasbourg, France
 affiliation: IGBMC
 position: Bioimage Analyst
-tags: [fiji, Python]
-#categories: [cat1, cat5]
+tools: [ImageJ / Fiji, Python]
 ---
 
 Seb had been employed at the Imaging Core Facility of the Biozentrum, University of

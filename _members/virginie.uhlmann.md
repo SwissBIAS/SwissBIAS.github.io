@@ -2,11 +2,9 @@
 first_name: Virginie
 last_name: Uhlmann
 short_name:
-membership: no
+membership: false
 city: Zurich
 affiliation: BioVision Center
 position: Managing Director
-tags: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, ICY, NAPARI, Omero, KNIME]
-#categories: [cat1, cat2, cat3]
-tools:
+tools: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, ICY, NAPARI, Omero, KNIME]
 ---

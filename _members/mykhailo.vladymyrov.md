@@ -2,11 +2,9 @@
 first_name: Mykhailo
 last_name: Vladymyrov
 short_name: mvladymyrov
-membership: yes
+membership: true
 city: Bern
 affiliation: University of Bern
 position: Senior Scientist
-tags: [python, C++, CUDA, TensorFlow, Torch, fiji, ilastik, napari, imaris]
-#categories: [cat1, cat2, cat3]
-#tools:
+tools: [Python, C++, CUDA, TensorFlow, pytorch, ImageJ / Fiji, ilastik, NAPARI, Imaris]
 ---

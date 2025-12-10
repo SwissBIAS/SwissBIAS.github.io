@@ -2,11 +2,11 @@
 first_name: Alvaro
 last_name: Gomariz
 short_name: alvaro
-membership: no
+membership: false
 city: Basel
 affiliation: XCommunity members
 position: Postdoc in Computer Vision
-tags: [Python,TensorFlow]
+tools: [Python, TensorFlow]
 ---
 
 Alvaro works at Roche in [pRED](https://www.roche.com/innovation/structure/pred/).

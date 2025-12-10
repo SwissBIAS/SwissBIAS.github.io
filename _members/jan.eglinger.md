@@ -2,12 +2,11 @@
 first_name: Jan
 last_name: Eglinger
 short_name: jan
-membership: yes
+membership: true
 city: Basel
 affiliation: FMI Basel
 position: Bioimage Analyst
-tags: [fiji]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji]
 ---
 
 Facility for Advanced Imaging and Microscopy (FAIM)

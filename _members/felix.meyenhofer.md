@@ -2,12 +2,11 @@
 first_name: Felix
 last_name: Meyenhofer
 short_name: felix
-membership: yes
+membership: true
 city: Fribourg
 affiliation: University of Fribourg
 position: Bioimage Analyst
-tags: [fiji, imagej, hrm, omero, python, qupath]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji, Huygens, Omero, Python, QuPath]
 ---
 {{ page.first_name }} works at the University of Fribourg as microscopist and bioimage analyst for the [Bioimage Core Facility](https://unifr.ch/go/bicore){:target="_blank"} (BICORE). 
 

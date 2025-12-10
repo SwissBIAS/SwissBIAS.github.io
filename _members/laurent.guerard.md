@@ -2,12 +2,11 @@
 first_name: Laurent
 last_name: Guerard
 short_name: laurent
-membership: no
+membership: false
 city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst
-tags: [fiji, imagej, omero, jupyter, imaris, arivis, python]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji, Omero, Jupyter, Imaris, Arivis, Python]
 ---
 IMCF: Imaging Core Facility lead by [Oliver Biehlmaier](/members/oliver.biehlmaier/)
 

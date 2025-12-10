@@ -2,12 +2,11 @@
 first_name: Matthieu
 last_name: Bourdon
 short_name: mbourdon
-membership: no
+membership: false
 city: Basel
-affiliation: XCommunity members
+affiliation: FMI Basel
 position: Scientist
-tags: [imagej, fiji, imaris, Python, R]
-#categories: [cat6]
+tools: [ImageJ / Fiji, Imaris, Python, R]
 ---
 
 I am working at the Friedrich Miescher Institute in the facility for advanced imaging and microscopy and the functional genomics facility.

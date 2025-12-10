@@ -2,12 +2,11 @@
 first_name: Kevin
 last_name: Yamauchi
 short_name: kevin
-membership: yes
+membership: true
 city: Basel
 affiliation: ETHZ Basel
 position: Bioimage Analyst
-tags: [fiji]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji]
 ---
 Iber Lab
 

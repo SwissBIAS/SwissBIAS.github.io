@@ -2,13 +2,11 @@
 first_name: Simon F.
 last_name: Nørrelykke
 short_name: simon
-membership: no
+membership: false
 city:
 affiliation: X-members
 position: Image Analyst
-tags: [matlab, fiji]
-categories: [cat1, cat2, cat3]
-tools: [fiji, matlab, ilastik]
+tools: [MATLAB, ImageJ / Fiji, ilastik]
 homepage: https://norsimon.github.io/
 ---
 

@@ -2,12 +2,11 @@
 first_name: Nicolas
 last_name: Chiaruttini
 short_name: nico
-membership: yes
+membership: true
 city: Lausanne
 affiliation: EPFL
 position: Bioimage Analyst
-tags: [fiji]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji]
 ---
 BIOP: BioImaging & Optics Platform
 

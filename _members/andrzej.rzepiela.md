@@ -2,13 +2,11 @@
 first_name: Andrzej
 last_name: Rzepiela
 short_name: andrzej
-membership: yes
+membership: true
 city: Zurich
 affiliation: ETH Zurich
 position: Data Analyst
-tags: [python, phaedra]
-categories: [cat3, cat4, cat5]
-tools: [python]
+tools: [Python, phaedra]
 ---
 
 Andrzej works at ETH Zurich in [IDA](http://let-your-data-speak.com/) - the Image and Data Analysis group inside of ScopeM.

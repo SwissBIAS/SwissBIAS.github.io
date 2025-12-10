@@ -2,12 +2,11 @@
 first_name: Nicolas
 last_name: Liaudet
 short_name: 
-membership: yes
+membership: true
 city: Geneva
 affiliation: University of Geneva
 position: Bioimage Analyst
-tags: [fiji]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji]
 ---
 Bioimaging Core Facility
 

@@ -2,12 +2,11 @@
 first_name: Arianna
 last_name: Ravera
 short_name: aravera
-membership: yes
+membership: true
 city: Lausanne
 affiliation: University of Lausanne
 position: Bioimage Analyst
-tags: [imagej, fiji, ilastik, cellpose, napari, python, matlab, java]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji, ilastik, Cellpose, NAPARI, Python, MATLAB, Java]
 ---
 
 

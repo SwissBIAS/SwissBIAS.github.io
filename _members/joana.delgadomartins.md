@@ -2,12 +2,11 @@
 first_name: Joana
 last_name: Delgado Martins
 short_name: Joana
-membership: yes
+membership: true
 city: Zurich
 affiliation: University of Zurich
 position: Staff Scientist
-tags: [fiji, imaris]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji, Imaris]
 ---
 Joana works at Center for Microscopy and Image Analysis, University of Zurich [ZMB](https://www.zmb.uzh.ch) since 2019. She supports users on Advanced Light Microscopy as well [Image Analysis](https://www.zmb.uzh.ch/en/ImageAnalysis.html).  
 

@@ -48,7 +48,7 @@ The following companies or institutions cannot be found on the map:
 </script>
 
 
-{% assign groups = site.members | where: "membership", "true" | sort: "affiliation" | group_by: "affiliation"  %}
+{% assign groups = site.members | where: "membership","true" | sort: "affiliation" | group_by: "affiliation"  %}
 
 <div> 
 {% for group in groups %}
@@ -65,7 +65,7 @@ The following companies or institutions cannot be found on the map:
 
 ## Community members
 
-{% assign community = site.members | where: "membership", "false" | sort: "last_name" %}
+{% assign community = site.members | where: "membership","false" | sort: "last_name" %}
 
 <div> 
    <ul> 

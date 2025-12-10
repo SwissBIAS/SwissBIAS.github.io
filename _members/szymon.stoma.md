@@ -2,13 +2,11 @@
 first_name: Szymon
 last_name: Stoma
 short_name: sstoma
-membership: yes
+membership: true
 city: Zurich
 affiliation: ETH Zurich
 position: Senior Scientific Staff & Lead Image Analysis
-tags: [python, fiji]
-categories: [cat2, cat3]
-tools: [fiji, python]
+tools: [Python, ImageJ / Fiji]
 ---
 
 Scientist, Entrepreneur & Angel Investor specializing in IT companies and startups applying Computer Vision, Machine Learning in Pharma, Microscopy, and Robotics. 

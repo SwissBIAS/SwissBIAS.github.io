@@ -2,13 +2,11 @@
 first_name: Clémence
 last_name: Hurni
 short_name: clemence
-membership: no
+membership: false
 city: Geneva
 affiliation: XCommunity members
 position: software engineer
-tags: [ImageJ / Fiji, NAPARI, Imaris, R]
-#categories: [cat1, cat2, cat3]
-tools:
+tools: [ImageJ / Fiji, NAPARI, Imaris, R]
 ---
 
 I work at the Wyss Center for Neuroengineering in Geneva.

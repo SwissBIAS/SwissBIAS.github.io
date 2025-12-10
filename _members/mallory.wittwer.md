@@ -2,11 +2,11 @@
 first_name: Mallory
 last_name: Wittwer
 short_name: Mallory
-membership: yes
+membership: true
 city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst
-tags: [ImageJ / Fiji, QuPath, NAPARI, Omero, Python]
+tools: [ImageJ / Fiji, QuPath, NAPARI, Omero, Python]
 ---
 [EPFL Center for Imaging](https://www.epfl.ch/research/domains/imaging/)
 

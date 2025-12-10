@@ -2,12 +2,11 @@
 first_name: Sonali
 last_name: Andani
 short_name: sonali
-membership: no
+membership: false
 city: 
 affiliation: XCommunity members
 position: Bioimage Analyst
-tags: [fiji]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji]
 ---
 Biomedical Informatics, D-INFK, ETH Zurich
 

@@ -2,12 +2,11 @@
 first_name: Loïc
 last_name: Sauteur
 short_name: loic
-membership: yes
+membership: true
 city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst
-tags: [fiji, qupath, stardist, cellpose, imagesc, ilastik]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji, QuPath, Stardist, Cellpose, ilastik]
 ---
 Microscopy Core Facility, Department of Biomedicine
 
@@ -20,7 +19,7 @@ Together with [Ewelina Bartoszek](/members/ewelina.bartoszek/), he is responsibl
 
 *Background*: He did his Ph.D. in Developmental Biology, imaging zebrafish angiogenesis.
 
-*Common BIA tools:* Fiji, OMERO, QuPath, napari, ilastik, Imaris.
+*Common BIA * Fiji, OMERO, QuPath, NAPARI, ilastik, Imaris.
 
 *Spoken Languages:* Groovy, Java, Python, English, German, French, and a little Italian.
 

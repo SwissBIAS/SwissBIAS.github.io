@@ -2,13 +2,11 @@
 first_name: Maciej
 last_name: Dobrzynski
 short_name: mdobrzynski
-membership: yes
+membership: true
 city: Bern
 affiliation: University of Bern
 position: Senior Research Assistant
-tags: [fiji, cellprofiler, ilastik, napari, KNIME, python, R, Shiny]
-#categories: [cat1, cat2, cat3]
-tools:
+tools: [ImageJ / Fiji, CellProfiler, ilastik, NAPARI, KNIME, Python, R, Shiny]
 ---
 
 Maciej has been working at the [Cellular Dynamics Lab](https://www.pertzlab.net) at the Institute of Cell Biology at the University of Bern since June 2016, where he has built an HPC cluster and implemented a software stack to analyse images from time-lapse microscopy experiments. He builds custom R pipelines to identify features in single-cell time series and builds R/Shiny apps to visualise the data.

@@ -2,12 +2,11 @@
 first_name: Patrick
 last_name: Meyer
 short_name: patrick
-membership: yes
+membership: true
 city: Winterthur
 affiliation: Fenaco
 position: Bioimage Analyst
-tags: [fiji]
-#categories: [cat1, cat2, cat3]
+tools: [ImageJ / Fiji]
 ---
 [Agroline Service & Bioprotect](https://www.agroline.ch/de/innovationen)
 
