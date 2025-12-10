@@ -5,7 +5,7 @@ toc: false
 ---
 
 {% assign membertools = "" %}
-{% assign fullmembers = site.members | where: "membership","true" %}
+{% assign fullmembers = site.members | where: "membership","true" | sort: "last_name" %}
 {% for member in fullmembers %}
     {% assign membertools = membertools | concat: member.tools | uniq | sort %}
 {% endfor %}
