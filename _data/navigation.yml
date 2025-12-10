@@ -10,8 +10,8 @@ main:
     url: /members/
   - title: Resources
     url: /resources/
-  - title: Jobs
-    url: /jobs/
+#  - title: Jobs
+#    url: /jobs/
 #  - title: Posts
 #    url: /posts/
 
@@ -39,8 +39,12 @@ side:
       
   - title: Contribute
     children:
-     - title: Wiki
+     - title: Join as full member
+       url: /#want-to-join-us
+     - title: Donate
+       url: 
+     - title: Contribute to this website
        url: https://github.com/SwissBIAS/SwissBIAS.github.io/wiki
-     - title: Email
+     - title: Get in touch
        url: mailto:info@swissbias.ch
 

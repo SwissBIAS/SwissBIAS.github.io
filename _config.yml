@@ -83,37 +83,37 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-# Analytics
-analytics:
-  provider               : "google-gtag"  # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-87M9EW0Q7D"
-    anonymize_ip         : false # true, false (default)
+# # Analytics
+# analytics:
+#   provider               : "google-gtag"  # false (default), "google", "google-universal", "google-gtag", "custom"
+#   google:
+#     tracking_id          : "G-87M9EW0Q7D"
+#     anonymize_ip         : false # true, false (default)
 
 
-# Site Author
-#author: # outcomment to remove from sidebar
-  name             : #"Simon (blame me for now)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"We are **amazing** people."
-  location         : #"Switzerland"
-  email            : #info@swissbias.ch
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:norsimon@ethz.ch"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://sites.google.com/view/swissbias/home"
+# # Site Author
+# #author: # outcomment to remove from sidebar
+#   name             : #"Simon (blame me for now)"
+#   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#   bio              : #"We are **amazing** people."
+#   location         : #"Switzerland"
+#   email            : #info@swissbias.ch
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       # url: "mailto:norsimon@ethz.ch"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       # url: "https://sites.google.com/view/swissbias/home"
 
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SwissBIAS"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/SwissBIAS"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SwissBIAS"
