@@ -6,6 +6,6 @@ membership: false
 city: Luzern
 affiliation: Hochschule Luzen
 position: 
-date: 
+date: 2025-12-10 
 tools: [ImageJ / Fiji, QuPath, NAPARI, R]
 ---
