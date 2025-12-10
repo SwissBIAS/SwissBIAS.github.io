@@ -2,6 +2,7 @@
 first_name: Marvin
 last_name: Albert
 short_name: 
+membership: no
 city: Zurich
 affiliation: ETH Zurich
 position: 

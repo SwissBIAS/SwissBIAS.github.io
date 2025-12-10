@@ -2,6 +2,7 @@
 first_name: Frédéric
 last_name: Pili
 short_name:
+membership: yes
 city: Lausanne
 affiliation: EPFL
 position: 

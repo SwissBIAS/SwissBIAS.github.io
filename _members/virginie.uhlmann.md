@@ -2,6 +2,7 @@
 first_name: Virginie
 last_name: Uhlmann
 short_name:
+membership: no
 city: Zurich
 affiliation: BioVision Center
 position: Managing Director

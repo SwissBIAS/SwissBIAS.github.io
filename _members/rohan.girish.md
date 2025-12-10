@@ -2,6 +2,7 @@
 first_name: Rohan
 last_name: Girish
 short_name: 
+membership: no
 city: Basel
 affiliation: University of Basel
 position: 

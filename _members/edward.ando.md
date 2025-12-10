@@ -2,6 +2,7 @@
 first_name: Edward
 last_name: Andò
 short_name: 
+membership: no
 city: Lausanne
 affiliation: EPFL
 position: Image analyst at EPFL Center for Imaging

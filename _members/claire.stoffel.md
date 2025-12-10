@@ -3,6 +3,7 @@ first_name: Claire
 last_name: Stoffel
 short_name: claire
 affiliation: EPFL
+membership: yes
 city: Lausanne
 position: Bioimage Analyst
 tags: [fiji]

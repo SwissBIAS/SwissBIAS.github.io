@@ -1,6 +1,7 @@
 ---
 first_name: Romain
 last_name: Guiet
+membership: yes
 city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst

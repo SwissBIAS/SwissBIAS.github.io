@@ -2,6 +2,7 @@
 first_name: Athena 
 last_name: Economides
 short_name: 
+membership: no
 city: Zurich
 affiliation: University of Zurich
 position: Postdoc in Computational Science and Engineering

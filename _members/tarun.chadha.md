@@ -2,6 +2,7 @@
 first_name: Tarun
 last_name: Chadha
 short_name: tarun
+membership: yes
 city: Zurich
 affiliation: ETH Zurich
 position: Data Scientist

@@ -2,6 +2,7 @@
 first_name: Nicolas
 last_name: Chiaruttini
 short_name: nico
+membership: yes
 city: Lausanne
 affiliation: EPFL
 position: Bioimage Analyst

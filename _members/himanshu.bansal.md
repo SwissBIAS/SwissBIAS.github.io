@@ -2,6 +2,7 @@
 first_name: Himanshu
 last_name: Bansal
 short_name: 
+membership: no
 city: Bellinzona
 affiliation: Institute for Research in Biomedicine
 position: 

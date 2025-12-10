@@ -2,6 +2,7 @@
 first_name: Guillaume
 last_name: Witz
 short_name: witz
+membership: yes
 city: Bern
 affiliation: University of Bern
 position: Bioimage Analyst

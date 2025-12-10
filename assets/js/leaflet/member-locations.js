@@ -7,10 +7,8 @@ return {
       6.6327025
     ],
     "affiliations": [
-      "Lausanne University Hospital",
       "EPFL",
-      "University of Lausanne",
-      "Nestlé Research Microscopy Facility"
+      "University of Lausanne"
     ]
   },
   "Basel": {
@@ -22,7 +20,8 @@ return {
       "FMI Basel",
       "Roche",
       "University of Basel",
-      "ETHZ Basel"
+      "ETHZ Basel",
+      "Regeneron Pharmaceuticals"
     ]
   },
   "Zurich": {
@@ -33,7 +32,6 @@ return {
     "affiliations": [
       "University of Zurich",
       "ETH Zurich",
-      "University Hospital Zurich",
       "BioVision Center"
     ]
   },
@@ -44,8 +42,7 @@ return {
     ],
     "affiliations": [
       "Hôpitaux Universitaires Genève",
-      "University of Geneva",
-      "Wyss Center"
+      "University of Geneva"
     ]
   },
   "Bern": {
@@ -54,18 +51,16 @@ return {
       7.4514512
     ],
     "affiliations": [
-      "Inselgruppe AG",
       "University of Bern"
     ]
   },
-  "Unknown": {
+  "Winterthur": {
     "coordinates": [
-
+      47.50564,
+      8.72413
     ],
     "affiliations": [
-      "X-members",
-      "Fenaco",
-      "Regeneron Pharmaceuticals"
+      "Fenaco"
     ]
   },
   "Fribourg": {
@@ -77,24 +72,6 @@ return {
       "University of Fribourg"
     ]
   },
-  "Martigny": {
-    "coordinates": [
-      46.103115,
-      7.0727354
-    ],
-    "affiliations": [
-      "IDIAP Martigny"
-    ]
-  },
-  "Zizers": {
-    "coordinates": [
-      46.9367945,
-      9.5658429
-    ],
-    "affiliations": [
-      "Unaffiliated"
-    ]
-  },
   "Bellinzona": {
     "coordinates": [
       46.1957589,
@@ -103,14 +80,5 @@ return {
     "affiliations": [
       "Institute for Research in Biomedicine"
     ]
-  },
-  "Mendrisio": {
-    "coordinates": [
-      45.8716193,
-      8.9830319
-    ],
-    "affiliations": [
-      "SUPSI"
-    ]
-  },
+  }
 };}

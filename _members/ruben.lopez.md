@@ -2,6 +2,7 @@
 first_name: Ruben Jose
 last_name: Lopez Dicuru
 short_name: 
+membership: yes
 city: Bern
 affiliation: University of Bern
 position: Bioimage analyst

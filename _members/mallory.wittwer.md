@@ -2,6 +2,7 @@
 first_name: Mallory
 last_name: Wittwer
 short_name: Mallory
+membership: yes
 city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst

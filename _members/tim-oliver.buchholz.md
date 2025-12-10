@@ -2,6 +2,7 @@
 first_name: Tim-Oliver
 last_name: Buchholz
 short_name: Tim
+membership: no
 city: Basel
 affiliation: FMI Basel
 position: Machine Learning Expert

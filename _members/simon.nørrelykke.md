@@ -2,6 +2,7 @@
 first_name: Simon F.
 last_name: Nørrelykke
 short_name: simon
+membership: no
 city:
 affiliation: X-members
 position: Image Analyst

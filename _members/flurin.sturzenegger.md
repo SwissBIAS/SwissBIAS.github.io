@@ -2,6 +2,7 @@
 first_name: Flurin
 last_name: Sturzenegger
 short_name: fsturzenegger
+membership: yes
 city: Zurich
 affiliation: University of Zurich
 position: Bioimage analyst

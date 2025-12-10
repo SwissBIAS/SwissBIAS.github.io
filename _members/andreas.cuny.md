@@ -2,6 +2,7 @@
 first_name: Andreas 
 last_name: Cuny
 short_name: 
+membership: no
 city: Zurich
 affiliation: ETH Zurich
 position: Computational System Biology (CSB)

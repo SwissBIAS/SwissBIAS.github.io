@@ -3,6 +3,7 @@ first_name: Anja
 last_name: Frei
 short_name: anja
 affiliation: University Hospital Zurich
+membership: no
 city: Zurich
 position: Bioimage Analyst
 tags: [fiji]

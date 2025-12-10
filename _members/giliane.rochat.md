@@ -2,6 +2,7 @@
 first_name: Giliane
 last_name: Rochat
 short_name:
+membership: yes
 city: Zurich
 affiliation: University of Zurich
 position: 

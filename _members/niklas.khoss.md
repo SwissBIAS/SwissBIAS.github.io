@@ -2,6 +2,7 @@
 first_name: Niklas
 last_name: Khoss
 short_name: 
+membership: no
 city: Basel
 affiliation: FMI Basel
 position: 

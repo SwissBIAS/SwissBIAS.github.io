@@ -2,6 +2,7 @@
 first_name: Olivier
 last_name: Burri
 short_name: oli
+membership: no
 city: Lausanne
 affiliation: EPFL
 position: Bioimage Analyst

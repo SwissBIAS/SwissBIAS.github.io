@@ -2,6 +2,7 @@
 first_name: Michael
 last_name: Liebling
 short_name: michael
+membership: no
 city: Martigny
 affiliation: IDIAP Martigny
 position: Professor

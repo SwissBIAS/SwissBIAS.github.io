@@ -1,6 +1,7 @@
 ---
 first_name: Rémy
 last_name: Dornier
+membership: yes
 city: Lausanne
 affiliation: EPFL
 position: Scientific Assistant

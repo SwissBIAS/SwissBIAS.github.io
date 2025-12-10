@@ -3,6 +3,7 @@ first_name: Daniel
 last_name: Sage
 short_name: daniel
 affiliation: EPFL
+membership: yes
 city: Lausanne
 position: Bioimage Analyst
 tags: [fiji]

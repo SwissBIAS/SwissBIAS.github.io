@@ -2,6 +2,7 @@
 first_name: Eleonora
 last_name: Perego
 short_name: 
+membership: no
 city: Lausanne
 affiliation: University of Lausanne
 position: 

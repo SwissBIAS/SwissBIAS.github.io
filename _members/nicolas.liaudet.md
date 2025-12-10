@@ -2,6 +2,7 @@
 first_name: Nicolas
 last_name: Liaudet
 short_name: 
+membership: yes
 city: Geneva
 affiliation: University of Geneva
 position: Bioimage Analyst

@@ -2,6 +2,7 @@
 first_name: Szymon
 last_name: Stoma
 short_name: sstoma
+membership: yes
 city: Zurich
 affiliation: ETH Zurich
 position: Senior Scientific Staff & Lead Image Analysis

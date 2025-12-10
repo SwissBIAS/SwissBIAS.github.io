@@ -2,6 +2,7 @@
 first_name: Benjamin
 last_name: Graedel
 short_name:
+membership: no
 city: Bern
 affiliation: University of Bern
 position: PhD student at Pertz Group

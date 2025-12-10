@@ -2,6 +2,7 @@
 first_name: Yannick
 last_name: Krempp
 short_name: UniversalBuilder
+membership: no
 city: Lausanne
 affiliation: University of Lausanne
 position: Technical Manager, Bioimaging and IT

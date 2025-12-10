@@ -2,21 +2,11 @@
 title: Members
 permalink: /members/
 toc: false
-
-#layout: category
-#taxonomy: members
-#--- collection is an alternative to the for-loop below,
-#layout: collection 
-#collection: members
-#entries_layout: grid # list
-#sort_by: affiliation
-#sort_order: reverse # forward
-#show_excerpts: false # true false
 ---
 
-Potential new members find all the information to join the society [here](https://swissbias.github.io/#want-to-join-us). 
+Potential new members find all the information to join the society [here](https://swissbias.github.io/#want-to-join-us).
 
-## Current members
+## Full members
 A click on the marked cities on the map bellow, reveals the institutions and companies at this particular location. The popup allows to quickly navigate to the members with a given affiliation.
 
 <link rel="stylesheet" href="/assets/js/leaflet/leaflet.css"/>
@@ -35,25 +25,13 @@ The following companies or institutions cannot be found on the map:
     // (Needs to be executed on a local machine after changes of the member pages.
     const locations = get_member_locations();
     
-    // Bellow the alternative: hard code the cities and their coordinates (somewhere)
-    /*
-    const locations = {
-        'Basel':    {'coordinates': [47.55810, 7.58782], 'affiliations': []},
-        'Bern':     {'coordinates': [46.95027, 7.43777], 'affiliations': []},
-        'Fribourg': {'coordinates': [46.79388, 7.15526], 'affiliations': []},
-        'Geneva':   {'coordinates': [46.19904, 6.14456], 'affiliations': []},
-        'Lausanne': {'coordinates': [46.52051, 6.56632], 'affiliations': []},
-        'Martigny': {'coordinates': [46.10923, 7.08447], 'affiliations': []},
-        'Zurich':   {'coordinates': [47.37404, 8.55097], 'affiliations': []}
-    };
-    */
-
     // Double-check the data: Create json from member page front matter using liquid template.
     // (As long as no new city will appear in the member pages, this will do the trick)
-    {% assign cities = site.members | map: "city" %}
-    {% assign affiliations = site.members | map: "affiliation" %}
+    {% assign cities = site.members | where: "membership", "true" | map: "city" %}
+    {% assign affiliations = site.members | where: "membership", "true" | map: "affiliation" %}
     const cities = {{ cities | jsonify }}
     const affiliations = {{ affiliations | jsonify }}
+
     
     cities.forEach((city, index) => {
         city = city ? city : "Unknown";
@@ -70,16 +48,29 @@ The following companies or institutions cannot be found on the map:
 </script>
 
 
-{% assign groups = site.members |  sort: "affiliation" | group_by: "affiliation" %}
+{% assign groups = site.members | where: "membership", "true" | sort: "affiliation" | group_by: "affiliation"  %}
 
 <div> 
 {% for group in groups %}
-	<h3 id="{{group.name}}"> {{ group.name }} </h3>
-			<ol> 
-			{% for member in group.items %}
-				<li> <a href="{{ member.url }}"> 
-				{{ member.first_name }} {{ member.last_name }}</a> </li>
-			{% endfor %} 
-			</ol>
+   <h3 id="{{ group.name }}"> {{ group.name }} </h3>
+   <ol>
+   {% assign institute = group.items | sort: "last_name" %}
+   {% for member in institute %}
+       	<li> <a href="{{ member.url }}"> 
+         {{ member.first_name }} {{ member.last_name }} </a> </li>
+   {% endfor %} 
+   </ol>
 {% endfor %} 
+</div>
+
+## Community members
+
+{% assign community = site.members | where: "membership", "false" | sort: "last_name" %}
+
+<div> 
+   <ul> 
+   {% for member in community %}
+       <li> {{ member.first_name }} {{ member.last_name }} </li>
+   {% endfor %} 
+   </ul>
 </div>

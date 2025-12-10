@@ -2,7 +2,8 @@
 first_name: Patrick
 last_name: Meyer
 short_name: patrick
-city: 
+membership: yes
+city: Winterthur
 affiliation: Fenaco
 position: Bioimage Analyst
 tags: [fiji]

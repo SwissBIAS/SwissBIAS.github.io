@@ -2,6 +2,7 @@
 first_name: Niko
 last_name: Ehrenfeuchter
 short_name: Niko
+membership: no
 city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst

@@ -2,6 +2,7 @@
 first_name: Jonas 
 last_name: Windhager
 short_name: Jonas
+membership: yes
 city: Zurich
 affiliation: University of Zurich
 position: PostDoc

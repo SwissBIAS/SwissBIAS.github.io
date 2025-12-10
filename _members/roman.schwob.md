@@ -2,6 +2,7 @@
 first_name: Roman
 last_name: Schwob
 short_name: 
+membership: yes
 city: Bern
 affiliation: University of Bern
 position: 

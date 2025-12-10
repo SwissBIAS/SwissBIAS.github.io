@@ -2,6 +2,7 @@
 first_name: Aaron
 last_name: Ponti
 short_name: aaron
+membership: yes
 city: Basel
 affiliation: ETHZ Basel
 position: Bioimage Analyst, Software Engineer

@@ -2,6 +2,7 @@
 first_name: Li-Ling
 last_name: Yang
 short_name: Li-Ling
+membership: no
 city: Basel
 affiliation: XCommunity members
 position: Senior Scientist / Light Microscopy Expert

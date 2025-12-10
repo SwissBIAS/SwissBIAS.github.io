@@ -2,6 +2,7 @@
 first_name: Maciej
 last_name: Dobrzynski
 short_name: mdobrzynski
+membership: yes
 city: Bern
 affiliation: University of Bern
 position: Senior Research Assistant

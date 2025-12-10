@@ -2,6 +2,7 @@
 first_name: Daniela
 last_name: Correa Orozco
 short_name:
+membership: yes
 city: Lausanne
 affiliation: EPFL
 position: 
