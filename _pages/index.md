@@ -25,7 +25,7 @@ By becoming a SwissBIAS member, you will contribute to covering the basic costs 
 | Follow Monthly meeting | Included  | Included |
 | Participate to Workshops | Full Price  | Discount on Price + Priority Access |
 | Yearly in-person meeting | Full Price  | Discount on Price |
-| Being listed on the website | Not included  | Included |
+| Being listed on the website | Community section  | Personal page |
 | General Assembly | Not included  | Included |
 
 > New to this field? Looking for a forum, lists of software, info about  training schools and conferences, etc.?<br/>
