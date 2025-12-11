@@ -1,5 +1,5 @@
 ---
-first_name: Morgan
+first_name: Morgane
 last_name: Storey
 short_name: 
 city: Lausanne
