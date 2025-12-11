@@ -14,7 +14,7 @@ toc: false
 {% assign membertools = "" %}
 {% assign fullmembers = site.members | sort: "last_name" %}
 {% for member in fullmembers %}
-    {% assign membertools = membertools | concat: member.tools | uniq | sort %}
+    {% assign membertools = membertools | concat: member.tools | uniq | sort_natural %}
 {% endfor %}
 
 <p>
