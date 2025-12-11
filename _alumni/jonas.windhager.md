@@ -1,0 +1,12 @@
+---
+first_name: Jonas 
+last_name: Windhager
+short_name: Jonas
+city: Zurich
+affiliation: University of Zurich
+position: PostDoc
+date: 2023-04-04
+tools: [ImageJ / Fiji, CellProfiler, ilastik, NAPARI]
+---
+
+I am Jonas, a former-PhD-now-PostDoc in the Bodenmiller Lab @UZH working on multiplexed tissue image processing & analysis.

@@ -287,7 +287,7 @@ defaults:
       #author_profile: true
   - scope:
       path: ""
-      type: alumni
+      type: community
     values:
       layout: member
       
@@ -295,7 +295,7 @@ defaults:
 collections:
   members:
     output: true
-  alumni:
+  community:
     output: true
     
 #    sort_by: last_name #doesn't seem to have any effect

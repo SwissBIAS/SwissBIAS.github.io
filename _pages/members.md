@@ -69,7 +69,7 @@ The following companies or institutions cannot be found on the map:
 
 ## Community members
 
-{% assign community = site.alumni | sort: "last_name" %}
+{% assign community = site.community | sort: "last_name" %}
 
 <div> 
    <ul> 
