@@ -16,7 +16,7 @@ A click on the marked cities on the map bellow, reveals the institutions and com
 <script src="/assets/js/leaflet/members-map.js"></script>
 
 <div id="map" style="width: 100%; height: 400px"></div>
-<div  style="width: 100%; height: auto; font-size: smaller"><p id="caption">
+<div  style="width: 100%; height: auto; font-size: smaller"><p id="caption" hidden>
 The following companies or institutions cannot be found on the map:
 </p></div>
 
@@ -32,11 +32,12 @@ The following companies or institutions cannot be found on the map:
     const cities = {{ cities | jsonify }}
     const affiliations = {{ affiliations | jsonify }}
 
-    
+    const display = false;
     cities.forEach((city, index) => {
         city = city ? city : "Unknown";
         if (!(city in locations)) {
             console.warn(`City '${city}' is not among known locations.\nCheck 'assets/js/leaflet/member-locations.js' and pages in '_members/'`);
+            display = true;
         } else {
             if (!locations[city]['affiliations'].includes(affiliations[index])) {
                 locations[city]['affiliations'].push(affiliations[index]);
@@ -44,6 +45,9 @@ The following companies or institutions cannot be found on the map:
         }
     });
 
+    if (display) {
+         document.getElementById('caption').style.vibility ='visible';
+    }
     members_map([46.650, 8.335], locations)
 </script>
 
