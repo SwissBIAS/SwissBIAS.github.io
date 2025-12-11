@@ -19,7 +19,7 @@ toc: false
 
 <p>
 List of tools used by our members:
-{%- for tool in membertools | sort -%}
+{%- for tool in membertools -%}
 &ensp;<a href="{{ tool | slugify | prepend: path_type | prepend: site.tool_archive.path | relative_url }}">{{ tool }}</a>
 {%- endfor -%}
 </p>
