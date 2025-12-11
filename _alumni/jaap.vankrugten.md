@@ -3,7 +3,7 @@ first_name: Jaap
 last_name: van Krugten
 short_name: Jaap
 city: Basel
-affiliation: XCommunity members
+affiliation: DBM Universitatsspital
 position: Image Analyst
 date: 2025-06-18
 tools: [Python, ImageJ / Fiji, NAPARI]

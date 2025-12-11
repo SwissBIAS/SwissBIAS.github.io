@@ -3,7 +3,7 @@ first_name: Sonali
 last_name: Andani
 short_name: sonali
 city: 
-affiliation: XCommunity members
+affiliation: ETH Zurich
 position: Bioimage Analyst
 date: 2025-06-18
 tools: [ImageJ / Fiji]

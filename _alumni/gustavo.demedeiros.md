@@ -3,7 +3,7 @@ first_name: Gustavo
 last_name: de Medeiros
 short_name: Gustavo
 city: Basel
-affiliation: XCommunity members
+affiliation: FMI Basel
 position: Research staff
 date: 2025-06-18
 tools: [ImageJ / Fiji, ilastik, NAPARI, Huygens]

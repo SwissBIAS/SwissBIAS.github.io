@@ -3,7 +3,7 @@ first_name: Oliver
 last_name: Biehlmaier
 short_name: biehli
 city: Basel
-affiliation: XCommunity members
+affiliation: University of Basel
 position: Facility Head
 date: 2025-06-18
 tools: [microscopy, open-access, FAIR, metadata]

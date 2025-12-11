@@ -3,7 +3,7 @@ first_name: Andrew
 last_name: Janowczyk
 short_name: andrew
 city: 
-affiliation: XCommunity members
+affiliation: CHUV
 position: Bioimage Analyst
 date: 2025-06-18
 tools: [QuPath]

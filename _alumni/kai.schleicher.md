@@ -3,7 +3,7 @@ first_name: Kai
 last_name: Schleicher
 short_name: kai
 city: Basel
-affiliation: XCommunity members
+affiliation: University of Basel
 position: Bioimage Analyst and Advanced Microscopy Specialist
 date: 2025-06-18
 tools: [ImageJ / Fiji]

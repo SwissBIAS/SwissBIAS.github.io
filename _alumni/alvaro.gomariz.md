@@ -3,7 +3,7 @@ first_name: Alvaro
 last_name: Gomariz
 short_name: alvaro
 city: Basel
-affiliation: XCommunity members
+affiliation: Roche
 position: Postdoc in Computer Vision
 date: 2025-06-18
 tools: [Python, TensorFlow]

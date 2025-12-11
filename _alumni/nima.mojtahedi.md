@@ -3,7 +3,7 @@ first_name: Nima
 last_name: Mojtahedi
 short_name: nima
 city: Geneva
-affiliation: XCommunity members 
+affiliation: Wyss Center
 position: 
 date: 2025-06-18
 tools: [ImageJ / Fiji, ilastik, NAPARI, Imaris, Arivis, R]

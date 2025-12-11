@@ -3,7 +3,7 @@ first_name: Olivia
 last_name: Hanley
 short_name: ohanley
 city: Zurich
-affiliation: XCommunity members
+affiliation: University of Zurich
 position: Research Associate
 date: 2025-06-18
 tools: [ImageJ / Fiji, Imaris]

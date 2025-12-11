@@ -3,7 +3,7 @@ first_name: Richard
 last_name: McKinley
 short_name: richard
 city: 
-affiliation: XCommunity members
+affiliation: Inselgruppe, Bern
 position: Bioimage Analyst
 date: 2025-06-18
 tools: [ImageJ / Fiji]

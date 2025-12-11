@@ -3,7 +3,7 @@ first_name: Jules
 last_name: Scholler
 short_name: jules
 city: Geneva
-affiliation: XCommunity members
+affiliation: Wyss Center
 position: software engineer
 date: 2025-06-18
 tools: []
