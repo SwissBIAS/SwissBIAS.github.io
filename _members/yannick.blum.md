@@ -6,5 +6,5 @@ city: Basel
 affiliation: University of Basel
 position: 
 date: 2025-12-09
-tools: [ImageJ / Fiji, CellProfiler, NAPARI]
+tools: [ImageJ / Fiji, CellProfiler, NAPARI, Python]
 ---

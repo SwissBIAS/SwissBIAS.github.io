@@ -6,5 +6,5 @@ city: Basel
 affiliation: Roche
 position: Bioimage analyst at Institute of Human Biology (IHB)
 date: 2024-05-16
-tools: [ImageJ / Fiji, CellProfiler, NAPARI, Omero, KNIME, Imaris]
+tools: [ImageJ / Fiji, CellProfiler, NAPARI, Omero, KNIME, Imaris, Java, Python, C, C++, C#, Groovy, Mojo]
 ---

@@ -6,7 +6,7 @@ city: Zurich
 affiliation: University of Zurich
 position: Staff Scientist
 date: 2022-06-30
-tools: [ImageJ / Fiji, Imaris]
+tools: [ImageJ / Fiji, Imaris, Matlab]
 ---
 Joana works at Center for Microscopy and Image Analysis, University of Zurich [ZMB](https://www.zmb.uzh.ch) since 2019. She supports users on Advanced Light Microscopy as well [Image Analysis](https://www.zmb.uzh.ch/en/ImageAnalysis.html).  
 

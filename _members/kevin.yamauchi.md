@@ -6,7 +6,7 @@ city: Basel
 affiliation: ETHZ Basel
 position: Bioimage Analyst
 date: 2022-06-30
-tools: [ImageJ / Fiji]
+tools: [QuPath, ilastik, NAPARI, Huygens, Imaris, Python, Matlab]
 ---
 Iber Lab
 

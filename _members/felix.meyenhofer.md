@@ -6,7 +6,7 @@ city: Fribourg
 affiliation: University of Fribourg
 position: Bioimage Analyst
 date: 2022-06-30
-tools: [ImageJ / Fiji, Huygens, Omero, Python, QuPath]
+tools: [ImageJ / Fiji, Huygens, Omero, Python, QuPath, Java, Python, bash]
 ---
 {{ page.first_name }} works at the University of Fribourg as microscopist and bioimage analyst for the [Bioimage Core Facility](https://unifr.ch/go/bicore){:target="_blank"} (BICORE). 
 

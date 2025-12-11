@@ -6,7 +6,7 @@ city: Basel
 affiliation: University of Basel
 position: Image Analyst
 date: 2022-11-07
-tools: [ImageJ / Fiji]
+tools: [ImageJ / Fiji, QuPath, ilastik, Omero, Python, Matlab, Groovy]
 ---
 
 Ewelina works at the Microscopy Core Facility at the Department of Biomedicine at the University of Basel.

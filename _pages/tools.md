@@ -3,7 +3,13 @@ title: Tools
 permalink: /tools/
 toc: false
 ---
-List of members, grouped by the tools they are using.
+
+{% case site.tool_archive.type %}
+  {% when "liquid" %}
+    {% assign path_type = "tools/#" %}
+  {% when "jekyll-archives" %}
+    {% assign path_type = nil %}
+{% endcase %}
 
 {% assign membertools = "" %}
 {% assign fullmembers = site.members | sort: "last_name" %}
@@ -11,6 +17,14 @@ List of members, grouped by the tools they are using.
     {% assign membertools = membertools | concat: member.tools | uniq | sort %}
 {% endfor %}
 
+<p>
+List of tools used by our members:
+{%- for tool in membertools | sort -%}
+&ensp;<a href="{{ tool | slugify | prepend: path_type | prepend: site.tool_archive.path | relative_url }}">{{ tool }}</a>
+{%- endfor -%}
+</p>
+
+List of members, grouped by the tools they are using
 
 {% for tool in membertools %}
    {% if tool != "" %}

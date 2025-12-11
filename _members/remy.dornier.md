@@ -5,7 +5,7 @@ city: Lausanne
 affiliation: EPFL
 position: Scientific Assistant
 date: 2022-06-30
-tools: [ImageJ / Fiji, Omero]
+tools: [ImageJ / Fiji, Omero, QuPath, Java]
 ---
 Working at [BIOP](https://www.epfl.ch/research/facilities/ptbiop/)
 

@@ -6,5 +6,5 @@ city: Zurich
 affiliation: BioVision Center
 position: 
 date: 2025-09-17
-tools: [ilastik, NAPARI]
+tools: [ilastik, NAPARI, Python, Rust]
 ---

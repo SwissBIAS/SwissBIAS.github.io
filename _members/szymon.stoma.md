@@ -6,7 +6,7 @@ city: Zurich
 affiliation: ETH Zurich
 position: Senior Scientific Staff & Lead Image Analysis
 date: 2022-11-03
-tools: [Python, ImageJ / Fiji]
+tools: [Python, ImageJ / Fiji, CellProfiler, QuPath, ilastik, Imaris]
 ---
 
 Scientist, Entrepreneur & Angel Investor specializing in IT companies and startups applying Computer Vision, Machine Learning in Pharma, Microscopy, and Robotics. 
