@@ -1,11 +1,12 @@
 ---
-title: List of tools
+title: Tools
 permalink: /tools/
 toc: false
 ---
+List of members, grouped by the tools they are using.
 
 {% assign membertools = "" %}
-{% assign fullmembers = site.members | where: "membership","true" | sort: "last_name" %}
+{% assign fullmembers = site.members | sort: "last_name" %}
 {% for member in fullmembers %}
     {% assign membertools = membertools | concat: member.tools | uniq | sort %}
 {% endfor %}

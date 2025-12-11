@@ -2,7 +2,6 @@
 first_name: Ana
 last_name: Stojiljkovic
 short_name: astojiljkovic
-membership: true
 city: Bern
 affiliation: University of Bern
 position: Bioimage analyst

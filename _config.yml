@@ -192,8 +192,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -285,9 +285,17 @@ defaults:
     values:
       layout: member
       #author_profile: true
-
+  - scope:
+      path: ""
+      type: alumni
+    values:
+      layout: member
+      
 # collections: similar to posts, but content doesn't have to be grouped by date
 collections:
   members:
     output: true
+  alumni:
+    output: true
+    
 #    sort_by: last_name #doesn't seem to have any effect

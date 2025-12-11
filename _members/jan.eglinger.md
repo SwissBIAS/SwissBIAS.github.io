@@ -2,7 +2,6 @@
 first_name: Jan
 last_name: Eglinger
 short_name: jan
-membership: true
 city: Basel
 affiliation: FMI Basel
 position: Bioimage Analyst

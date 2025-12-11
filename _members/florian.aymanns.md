@@ -2,7 +2,6 @@
 first_name: Florian 
 last_name: Aymanns
 short_name: Florian
-membership: true
 city: Lausanne
 affiliation: EPFL
 position: Image Analyst

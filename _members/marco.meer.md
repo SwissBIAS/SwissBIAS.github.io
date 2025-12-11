@@ -2,7 +2,6 @@
 first_name: Marco
 last_name: Meer
 short_name: marco
-membership: true
 city: Bern
 affiliation: University of Bern
 position: Postdoc

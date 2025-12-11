@@ -2,7 +2,6 @@
 first_name: Loïc
 last_name: Sauteur
 short_name: loic
-membership: true
 city: Basel
 affiliation: University of Basel
 position: Bioimage Analyst

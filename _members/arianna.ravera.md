@@ -2,7 +2,6 @@
 first_name: Arianna
 last_name: Ravera
 short_name: aravera
-membership: true
 city: Lausanne
 affiliation: University of Lausanne
 position: Bioimage Analyst

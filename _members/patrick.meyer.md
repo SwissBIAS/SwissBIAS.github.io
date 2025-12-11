@@ -2,7 +2,6 @@
 first_name: Patrick
 last_name: Meyer
 short_name: patrick
-membership: true
 city: Winterthur
 affiliation: Fenaco
 position: Bioimage Analyst

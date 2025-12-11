@@ -1,7 +1,6 @@
 ---
 first_name: Romain
 last_name: Guiet
-membership: true
 city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst
@@ -14,8 +13,7 @@ Romain has been working at the [BIOP](https://www.epfl.ch/research/facilities/pt
 
 **Background:** Bioengineering, Ph.D. Immunology & Cancer (3D cell migration , organoid , cell-cytoskeleton)
 
-**Current interests:** 
-date: 2022-06-30
+**Current interests:**
 - Discovering new tools, using Deep Learning approaches to solve BIAs problem. 
 - Teaching BioImage Analysis at [BIOP](https://www.epfl.ch/research/facilities/ptbiop/teaching/) and [NEUBIAS](http://eubias.org/NEUBIAS/training-schools/)
 - Creating meaningful documentation for biologist, microscope users and BIAs [C4Science](https://c4science.ch/w/bioimaging_and_optics_platform_biop/)

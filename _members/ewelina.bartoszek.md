@@ -2,7 +2,6 @@
 first_name: Ewelina
 last_name: Bartoszek
 short_name: ewelina
-membership: true
 city: Basel
 affiliation: University of Basel
 position: Image Analyst

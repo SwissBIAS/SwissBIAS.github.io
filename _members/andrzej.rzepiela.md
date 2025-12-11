@@ -2,7 +2,6 @@
 first_name: Andrzej
 last_name: Rzepiela
 short_name: andrzej
-membership: true
 city: Zurich
 affiliation: ETH Zurich
 position: Data Analyst

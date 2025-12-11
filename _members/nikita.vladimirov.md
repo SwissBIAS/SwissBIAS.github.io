@@ -2,7 +2,6 @@
 first_name: Nikita
 last_name: Vladimirov
 short_name: "@nvladimus"
-membership: true
 city: Zurich
 affiliation: University of Zurich
 position: Staff Scientist

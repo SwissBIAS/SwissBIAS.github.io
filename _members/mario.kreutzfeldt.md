@@ -2,7 +2,6 @@
 first_name: Mario
 last_name: Kreutzfeldt
 short_name: mario
-membership: true
 city: Geneva
 affiliation: Hôpitaux Universitaires Genève
 position: Biologist

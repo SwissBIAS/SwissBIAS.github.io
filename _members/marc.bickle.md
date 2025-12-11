@@ -2,7 +2,6 @@
 first_name: Marc
 last_name: Bickle
 short_name: Marc
-membership: true
 city: Basel
 affiliation: Roche
 position: Group leader

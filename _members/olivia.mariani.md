@@ -1,7 +1,6 @@
 ---
 first_name: Olivia
 last_name: Mariani
-membership: true
 city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst

@@ -2,7 +2,6 @@
 first_name: Joel
 last_name: Lüthi
 short_name: Joel
-membership: true
 city: Zurich
 affiliation: BioVision Center
 position: Bio-Image Analyst

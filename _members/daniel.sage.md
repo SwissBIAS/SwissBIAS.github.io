@@ -3,7 +3,6 @@ first_name: Daniel
 last_name: Sage
 short_name: daniel
 affiliation: EPFL
-membership: true
 city: Lausanne
 position: Bioimage Analyst
 date: 2022-06-30

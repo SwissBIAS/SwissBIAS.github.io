@@ -2,7 +2,6 @@
 first_name: Adrian 
 last_name: Tschan
 short_name: 
-membership: true
 city: Zurich
 affiliation: Apricot Therapeutics AG
 position: 
