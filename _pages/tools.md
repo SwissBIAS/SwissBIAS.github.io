@@ -18,7 +18,7 @@ toc: false
 {% endfor %}
 {% assign membertools = toollist | uniq | sort_natural %}
 
-A tool cloud illustrates the most common tools among our members, and the list of members using each tool
+A tool cloud illustrates the popularity of all tools used by our members. A click on the tool name scrolls down to the list of members using it.
 
 <p>
 {%- for tool in membertools -%}
