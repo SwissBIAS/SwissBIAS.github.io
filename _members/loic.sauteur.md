@@ -19,7 +19,7 @@ Together with [Ewelina Bartoszek](/members/ewelina.bartoszek/), he is responsibl
 
 *Background*: He did his Ph.D. in Developmental Biology, imaging zebrafish angiogenesis.
 
-*Common BIA * Fiji, OMERO, QuPath, NAPARI, ilastik, Imaris.
+*Common BIA * Fiji, OMERO, QuPath, napari, ilastik, Imaris.
 
 *Spoken Languages:* Groovy, Java, Python, English, German, French, and a little Italian.
 

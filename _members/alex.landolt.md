@@ -6,5 +6,5 @@ city: Bern
 affiliation: University of Bern
 position: 
 date: 2025-09-17
-tools: [NAPARI, Python, C, C++, C#]
+tools: [napari, Python, C, C++, C#]
 ---

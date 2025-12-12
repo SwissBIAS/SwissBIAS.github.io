@@ -6,7 +6,7 @@ city: Basel
 affiliation: FMI Basel
 position: Bioimage Analyst
 date: 2022-06-30
-tools: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, ICY, NAPARI, Omero, KNIME, Huygens, Imaris, Arivis, Java, Python, Julia, Groovy, R]
+tools: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, Icy, napari, Omero, KNIME, Huygens, Imaris, Arivis, Java, Python, Julia, Groovy, R]
 ---
 
 Facility for Advanced Imaging and Microscopy (FAIM)

@@ -6,7 +6,7 @@ city: Bern
 affiliation: University of Bern
 position: Senior Research Assistant
 date: 2023-06-04
-tools: [ImageJ / Fiji, CellProfiler, ilastik, NAPARI, KNIME, Python, R, Shiny]
+tools: [ImageJ / Fiji, CellProfiler, ilastik, napari, KNIME, Python, R, Shiny]
 ---
 
 Maciej has been working at the [Cellular Dynamics Lab](https://www.pertzlab.net) at the Institute of Cell Biology at the University of Bern since June 2016, where he has built an HPC cluster and implemented a software stack to analyse images from time-lapse microscopy experiments. He builds custom R pipelines to identify features in single-cell time series and builds R/Shiny apps to visualise the data.

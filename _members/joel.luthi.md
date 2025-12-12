@@ -6,7 +6,7 @@ city: Zurich
 affiliation: BioVision Center
 position: Bio-Image Analyst
 date: 2023-11-14
-tools: [ilastik, NAPARI, Python]
+tools: [ilastik, napari, Python]
 ---
 
 I have just finished my PhD in the Pelkmans lab at the University of Zurich and will start working at the FMI Basel in May 2022 in the lab of Prisca Liberali as an image analysis specialist. 

@@ -6,5 +6,5 @@ city: Zurich
 affiliation: University of Zurich
 position: 
 date: 2025-09-17
-tools: [QuPath, NAPARI, Omero, Python, R]
+tools: [QuPath, napari, Omero, Python, R]
 ---

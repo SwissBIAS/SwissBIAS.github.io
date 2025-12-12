@@ -6,7 +6,7 @@ city: Zurich
 affiliation: University of Zurich
 position: Staff Scientist
 date: 2025-12-09
-tools: [MATLAB]
+tools: [Matlab]
 homepage: https://github.com/nvladimus
 ---
 

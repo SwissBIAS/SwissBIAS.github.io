@@ -14,6 +14,5 @@ Joana works at Center for Microscopy and Image Analysis, University of Zurich [Z
 
 *Areas of expertise*: Multiphoton microscopy, Live-cell imaging, Bioimage analysis   
 
-date: 2022-06-30
 *BIA tools*: Fiji, ilastik, Imaris, Mathematica, QuPath, Huygens.
  

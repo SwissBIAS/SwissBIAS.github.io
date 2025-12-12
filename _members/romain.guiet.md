@@ -5,7 +5,7 @@ city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst
 date: 2022-06-30
-tools: [ImageJ / Fiji, QuPath, ilastik, CellProfiler, CellProfiler Analyst, Cellpose, KNIME , Omero, Renku , Imaris, ICY ]
+tools: [ImageJ / Fiji, QuPath, ilastik, CellProfiler, CellProfiler Analyst, Cellpose, KNIME , Omero, Renku , Imaris, Icy ]
 ---
 BIOP: BioImaging & Optics Platform lead by [Arne Seitz](/members/arne.seitz/)
 
@@ -24,7 +24,6 @@ Romain has been working at the [BIOP](https://www.epfl.ch/research/facilities/pt
 - BioImage Acquisition : Widefield, Confocal, Whole Slide Imaging, Super-resolution (SIM, STORM, STED), FRET, FRAP, FLIM
 - BioImage Analysis: [Co-localization analysis](https://c4science.ch/w/bioimaging_and_optics_platform_biop/image-processing/colocalization/),[Deconvolution](https://c4science.ch/w/bioimaging_and_optics_platform_biop/image-processing/deconvolution/),   Time-lapse , Whole Slide Imaging
 
-date: 2022-06-30
 **Favorite BIA tools:** Fiji, ilastik, QuPath, Imaris, CellProfiler, OMERO, KNIME, ZENODO
 
 **Languages:**

@@ -12,6 +12,5 @@ tools: [ImageJ / Fiji, Huygens, Omero, Python, QuPath, Java, Python, bash]
 
 **Background**: Applied Physics, Computer Science
 
-date: 2022-06-30
 **BIA tools**: Fiji, Huygens Remote Manager (HRM), OMERO, Python, QuPath
 

@@ -6,7 +6,7 @@ city: Lausanne
 affiliation: University of Lausanne
 position: Bioimage Analyst
 date: 2023-05-30
-tools: [ImageJ / Fiji, ilastik, Cellpose, NAPARI, Python, MATLAB, Java]
+tools: [ImageJ / Fiji, ilastik, Cellpose, napari, Python, Matlab, Java]
 ---
 
 

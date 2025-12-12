@@ -6,7 +6,7 @@ city: Lausanne
 affiliation: EPFL
 position: BioImage Analyst
 date: 2022-06-30
-tools: [ImageJ / Fiji, QuPath, NAPARI, Omero, Python]
+tools: [ImageJ / Fiji, QuPath, napari, Omero, Python]
 ---
 [EPFL Center for Imaging](https://www.epfl.ch/research/domains/imaging/)
 
