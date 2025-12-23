@@ -34,12 +34,12 @@ A tool cloud illustrates the popularity of all tools used by our members. A clic
 {%- endfor -%}
 </p>
 
-
+{% assign members_by_lastname = site.members | sort: "last_name" %}
 {% for tool in membertools %}
    {% if tool != "" %}
 <h3 id="{{ tool | slugify | downcase  }}"> {{ tool }} </h3>
 <ul>
-       {% for member in site.members %}
+       {% for member in members_by_lastname %}
            {% if member.tools contains tool %}
 <li><a href="{{ member.url }}"> {{ member.first_name }} {{ member.last_name }}</a></li>
            {% endif %}
