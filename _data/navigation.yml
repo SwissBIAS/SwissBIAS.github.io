@@ -42,7 +42,7 @@ side:
   - title: Contribute
     children:
      - title: Join as full member
-       url: /#want-to-join-us
+       url: https://forms.gle/euXVmTocfeDzgEPv9
      - title: Contribute to this website
        url: https://github.com/SwissBIAS/SwissBIAS.github.io/wiki
      - title: Get in touch
