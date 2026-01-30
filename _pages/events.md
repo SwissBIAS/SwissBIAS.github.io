@@ -14,9 +14,12 @@ These are events (co-)organized by SwissBIAS members.
 Other global events can be found on [the image.sc forum](https://forum.image.sc/t/upcoming-image-analysis-events/60018).
 
 ### Upcoming
-- Roman Schwob presents [**convpaint**](https://drive.google.com/file/d/1smkpJRygnMU9h2FcrZVTHy5j8AhhXA6w/view?usp=sharing), 11 December 2025 10-11am
+
+- Save the date! **SwissBIAS Annual Meeting 2026**, June 3rd 2026
+
 
 ### Past
+- Roman Schwob presents [**convpaint**](https://drive.google.com/file/d/1smkpJRygnMU9h2FcrZVTHy5j8AhhXA6w/view?usp=sharing), 11 December 2025 10-11am
 - Nicolas Chiarrutini presents [**QuPath Image Registration Workshop**](https://docs.google.com/forms/d/e/1FAIpQLSdEVfB_cPPIomMDFVJ2zj9CMMYITIqPvfjgMjvppCxGTzI5EQ/viewform), 26 November 2025 1-3pm
 - [**OME-NGFF Symposium and Hackaton**](https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html), 10-14 November 2025
 - Cameron Shand presents [**Automating and Simplifying Napari Plugin Development**](https://drive.google.com/file/d/1aVNp9dxn_YbnTdMPfKbT20f1oVD9p5td/view), 23 september 2025
