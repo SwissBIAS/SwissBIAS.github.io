@@ -15,6 +15,9 @@ Other global events can be found on [the image.sc forum](https://forum.image.sc/
 
 ### Upcoming
 
+- Fabian Isensee presents
+  [**nnInteractive**](https://swissbias.slack.com/files/U075S10EK8W/F0AKDMV1E2D/swissbias_seminar_march_2026.pdf),
+  19 March 10-11am
 - Save the date! **SwissBIAS Annual Meeting 2026**, June 3rd 2026
 
 
