@@ -78,7 +78,16 @@ return {
       9.02152528
     ],
     "affiliations": [
-      "Institute for Research in Biomedicine"
+      "Università della Svizzera Italiana"
+    ]
+  },
+  "Lugano": {
+    "coordinates": [
+      46.01008,
+      8.96004
+    ],
+    "affiliations": [
+      "Università della Svizzera Italiana"
     ]
   }
 };}

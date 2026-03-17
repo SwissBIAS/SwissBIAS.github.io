@@ -2,7 +2,7 @@
 first_name: Diego
 last_name: Morone
 city: Bellinzona
-affiliation: Institute for Research in Biomedicine
+affiliation: Università della Svizzera Italiana
 position: Microscopy Facility staff
 date: 2025-12-17
 tools: [ImageJ / Fiji, CellProfiler, CellProfiler Analyst, QuPath, napari, Imaris, Arivis, Java, Groovy, Python, C, Matlab]
