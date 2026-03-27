@@ -2,26 +2,21 @@
 first_name: Simon F.
 last_name: Nørrelykke
 short_name: simon
-city:
+city: Lausanne
 affiliation: EPFL
-position: Operational Director, Center for Imaging
-date: 2026-03-26
+position: Director, IMAGING@EPFL
+date: 2026-03-27
 tools: []
 homepage:
 ---
 
-Simon worked at ETH Zurich between 2012-2022 where he founded [IDA](http://let-your-data-speak.com/) - the Image and Data Analysis group inside of [ScopeM](https://scopem.ethz.ch/), and cofounded [ZIDAS](https://www.zidas.org/) & [SwissBIAS](https://swissbias.github.io/). 
+Simon is Director of [IMAGING@EPFL](https://imaging.epfl.ch), a cross-disciplinary initiative supporting all five EPFL schools with expertise in image analysis and computational methods. The platform advises on the full imaging pipeline—from acquisition strategies and appropriate technologies to data analysis—and collaborates with industry and academic partners.
 
-Simon moved to Boston in September 2022 to build a new group there, see [Image Analysis Collaboratory](https://iac.hms.harvard.edu/).
+He previously worked at Harvard Medical School (2022–2025), where he founded the Image Analysis Collaboratory ([IAC](https://iac.hms.harvard.edu)). 
+Prior to that, he was at ETH Zurich (2012–2022), where he founded the Image and Data Analysis ([IDA](http://let-your-data-speak.com/)) group within [ScopeM](https://scopem.ethz.ch/), co-founded  [ZIDAS](https://www.zidas.org/), and founded [SwissBIAS](https://swissbias.ch).
 
-*Background*: Physics.  
-*Current interests*: Deep Learning applied to bioimage analysis.  
+*Background*: Physics, with work in econophysics (MSc) and single-molecule biophysics (PhD). 
+See [ORCiD](https://orcid.org/0000-0001-8302-526X) for more details.
 
-*Areas of expertise*: Bioimage analysis, high-content screening analysis, time-series anaysis,  mathematical modeling of stochastic processes.  
+*Areas of expertise*: image analysis, time-series analysis, stochastic modeling, and probability & statistics. 
 
-*Heavy user of*: [org-mode](https://orgmode.org/) in [Emacs](https://www.gnu.org/software/emacs/).  
-
-date: 2023-04-04
-*BIA tools*: Fiji, CellProfiler, ilastik, Imaris, MATLAB, Python.
-
-For more information, please see [personal scientific homepage](https://norsimon.github.io/). 
