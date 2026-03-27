@@ -4,7 +4,7 @@ last_name: Nørrelykke
 short_name: simon
 city: Lausanne
 affiliation: EPFL
-position: Director, IMAGING@EPFL
+position: Director, IMAGING
 date: 2026-03-27
 tools: []
 homepage:
