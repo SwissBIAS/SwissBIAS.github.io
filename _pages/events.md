@@ -15,7 +15,9 @@ Other global events can be found on [the image.sc forum](https://forum.image.sc/
 
 ### Upcoming
 
-- Save the date! **SwissBIAS Annual Meeting 2026**, June 3rd 2026
+- Subscribe to [**SwissBIAS Annual Meeting
+  2026**](https://www.eventbrite.ch/e/swissbias-annual-meeting-2026-tickets-1984124721453?aff=oddtdtcreator),
+  June 3rd 2026
 
 
 ### Past
