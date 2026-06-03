@@ -5,6 +5,6 @@ short_name:
 city: Zurich
 affiliation: BioVisionCenter
 position: 
-date: 2025-09-17
+date: 2026-06-03
 tools: [OME-Zarr, Fractal, ngio, ilastik, napari, Python, Rust]
 ---
