@@ -6,7 +6,7 @@ city: Bellinzona
 affiliation: Università della Svizzera Italiana
 position: 
 date: 2026-06-03
-tools: [ImageJ / Fiji, CellProfiler, CellPose ,QuPath, NAPARI, Java, Python, C, C++, C#]
+tools: [ImageJ / Fiji, CellProfiler, Cellpose ,QuPath, NAPARI, Java, Python, C, C++, C#]
 ---
 
 **Giuseppe Ricciardi** is a PhD fellow at the Institute for Research in Biomedicine (IRB) in the Infection and Immunity group led by Prof. Santiago Gonzalez. His research focuses on the development of computational tools and modeling approaches to investigate tumor and CAR-T cell interactions for intravital imaging, with the aim of improving the understanding of immunological mechanisms and supporting innovative therapeutic strategies. His project is part of the European Marie Skłodowska-Curie network *T-RAFIC*.
