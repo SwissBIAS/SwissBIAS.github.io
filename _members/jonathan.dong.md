@@ -6,5 +6,5 @@ city: Lausanne
 affiliation: EPFL
 position: 
 date: 2026-05-28
-tools: [ImageJ / Fiji, NAPARI, Python, Julia]
+tools: [ImageJ / Fiji, napari, Python, Julia]
 ---

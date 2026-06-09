@@ -6,5 +6,5 @@ city: Lausanne
 affiliation: University of Lausanne
 position: 
 date: 2026-05-28
-tools: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, NAPARI, Python]
+tools: [ImageJ / Fiji, CellProfiler, QuPath, ilastik, napari, Python]
 ---
