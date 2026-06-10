@@ -305,5 +305,6 @@ collections:
     output: true
   annual_meetings:
     output: true
+    permalink: /:collection/:path/
     
 #    sort_by: last_name #doesn't seem to have any effect
