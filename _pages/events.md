@@ -19,7 +19,7 @@ Other global events can be found on [the image.sc forum](https://forum.image.sc/
 
 ### Past
 - [**SwissBIAS Annual Meeting
-  2026**](https://www.eventbrite.ch/e/swissbias-annual-meeting-2026-tickets-1984124721453?aff=oddtdtcreator),
+  2026**](https://swissbias.github.io/annual_meetings/annual_meeting_2026/),
   June 3rd 2026
 - Fabian Isensee presents [**nnInteractive**](https://swissbias.slack.com/files/U075S10EK8W/F0AKDMV1E2D/swissbias_seminar_march_2026.pdf), 19 March 10-11am
 - Roman Schwob presents [**convpaint**](https://drive.google.com/file/d/1smkpJRygnMU9h2FcrZVTHy5j8AhhXA6w/view?usp=sharing), 11 December 2025 10-11am
