@@ -1,3 +1,7 @@
+---
+title: "SwissBIAS Annual Meeting 2026"
+---
+
 # SwissBIAS Annual Meeting 2026 — Schedule
 
 ## Morning Session
