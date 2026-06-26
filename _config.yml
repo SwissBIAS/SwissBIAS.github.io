@@ -290,6 +290,12 @@ defaults:
       type: community
     values:
       layout: member
+  - scope:
+      path: ""
+      type: annual_meetings
+    values:
+      layout: single
+
       
 # collections: similar to posts, but content doesn't have to be grouped by date
 collections:
@@ -297,5 +303,8 @@ collections:
     output: true
   community:
     output: true
+  annual_meetings:
+    output: true
+    permalink: /:collection/:path/
     
 #    sort_by: last_name #doesn't seem to have any effect
