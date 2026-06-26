@@ -38,7 +38,9 @@ side:
         url: /merbers/andrzej.rzepiela/
       - title: "Communication: Guillaume Witz"
         url: /members/guillaume.witz/              
-      
+      - title: "Observer: Arthur Baroni"
+        url: /members/arthur.baroni/
+        
   - title: Contribute
     children:
      - title: Join as full member
