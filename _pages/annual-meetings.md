@@ -6,8 +6,6 @@ toc: false
 
 <ul>
 {% for page in site.annual_meetings %}
-   {% if page != "" %}
-   <li>{{ page }}</li>
-   {% endif %}
+   <li><a href="{{ page.url }}">{{ page.title }}</li>
 {% endfor %}
 </ul>
