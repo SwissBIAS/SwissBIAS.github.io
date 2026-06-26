@@ -28,3 +28,17 @@ title: "SwissBIAS Annual Meeting 2026"
 | 16:40 | Simon F. Nørrelykke, EPFL | BIAs communities |
 | 17:00 | *Break* | — |
 | 17:15 | *General Assembly* | — |
+
+## Posters
+
+Romain Guiet, EPFL -  "Comparative Characterization of Microscope Detectors Using Multi-Intensity Calibration Beads"
+Lorenzo Cerrone, BioVisioncenter - "ngio - Simple and Declarative OME-Zarr Processing in Python"
+Joel Lüthi, BioVisionCenter - "Fractal: Towards FAIR bioimage analysis at scale with OME-Zarr-native workflows"
+Giuseppe Ricciardi, Università della Svizzera Italiana - "MICI: motility-based immune cell identifier"
+
+## Open-Source Software Lounge (OSSL)
+
+Florian Aymanns, - "OpenUC2 microscopes"
+Romain Guiet, EPFL - "coLoc - The Game , webpage!"
+Guillaum Witz, University of Bern - "VIBE platform"
+Alex Landolt, University of Bern - "FARO: Real-time feedback control microscopy for automation of optogenetic targeting"
