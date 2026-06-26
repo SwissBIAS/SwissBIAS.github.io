@@ -6,6 +6,6 @@ toc: false
 
 <ul>
 {% for page in site.annual_meetings %}
-   <li><a href="{{ page.url }}">{{ page.title }}</li>
+   <li><a href=" {{ page.url }} "> {{ page.title }} </li>
 {% endfor %}
 </ul>
