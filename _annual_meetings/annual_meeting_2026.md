@@ -38,7 +38,7 @@ title: "SwissBIAS Annual Meeting 2026"
 
 ## Open-Source Software Lounge (OSSL)
 
-- Florian Aymanns, - *OpenUC2 microscopes*
+- Florian Aymanns, EPFL - *OpenUC2 microscopes*
 - Romain Guiet, EPFL - *coLoc - The Game , webpage!*
 - Guillaum Witz, University of Bern - *VIBE platform*
  -Alex Landolt, University of Bern - *FARO: Real-time feedback control microscopy for automation of optogenetic targeting*
