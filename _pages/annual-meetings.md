@@ -1,6 +1,6 @@
 ---
 title: Annual Meetings
-permalink: /annual-meetings
+permalink: /annual-meetings/
 toc: false
 ---
 
