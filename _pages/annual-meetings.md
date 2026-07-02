@@ -5,7 +5,7 @@ toc: false
 ---
 
 <ul>
-{% for page in site.annual_meetings %}
+{% for page in site.annual_meetings reversed %}
    <li><a href=" {{ page.url }} "> {{ page.title }} </a></li>
 {% endfor %}
 </ul>

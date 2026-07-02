@@ -295,6 +295,8 @@ defaults:
       type: annual_meetings
     values:
       layout: single
+      sidebar:
+        nav: "side"
 
       
 # collections: similar to posts, but content doesn't have to be grouped by date

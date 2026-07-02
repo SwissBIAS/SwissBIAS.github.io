@@ -17,25 +17,22 @@ Other global events can be found on [the image.sc forum](https://forum.image.sc/
 
 
 ### Past
-- Lorenzo Cerrone and Joel Lüthi present **ngio — Simple and Declarative OME-Zarr Processing in Python** on June 22nd, 10:30-12:30
-- [**SwissBIAS Annual Meeting 2026**]({% link _annual_meetings/annual_meeting_2026.md %}), June 3rd 2026
-- Fabian Isensee presents [**nnInteractive**](https://swissbias.slack.com/files/U075S10EK8W/F0AKDMV1E2D/swissbias_seminar_march_2026.pdf), 19 March 10-11am
-- Roman Schwob presents [**convpaint**](https://drive.google.com/file/d/1smkpJRygnMU9h2FcrZVTHy5j8AhhXA6w/view?usp=sharing), 11 December 2025 10-11am
-- Nicolas Chiarrutini presents [**QuPath Image Registration Workshop**](https://docs.google.com/forms/d/e/1FAIpQLSdEVfB_cPPIomMDFVJ2zj9CMMYITIqPvfjgMjvppCxGTzI5EQ/viewform), 26 November 2025 1-3pm
-- [**OME-NGFF Symposium and Hackaton**](https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html), 10-14 November 2025
-- Cameron Shand presents [**Automating and Simplifying Napari Plugin Development**](https://drive.google.com/file/d/1aVNp9dxn_YbnTdMPfKbT20f1oVD9p5td/view), 23 september 2025
-- [SwissBIAS Annual Meeting 2025](https://www.eventbrite.ch/e/swissbias-annual-meeting-2025-tickets-1230003998069?aff=oddtdtcreator) June 18th (and June 19th for workshops)
-- [ZIDAS 2025](https://www.zidas.org/), EPFL, ETHZ, and Uni Basel; Basel
-- **2024 SwissBIAS Annual meeting & General assembly in Bern**: 
-    Find here the program of NormConf talk, Lightning talk or OSSL slot: [Form link](https://docs.google.com/spreadsheets/d/1-Qjk-R_ajpzYfxGqcYa_9MZYNqH4W5z_P6mKYiu9Jr8/))
-     <u> Workshops were : </u>
-    - Non linear registration using BigWarp, Warpy and python (by Nicolas C.)
-    - Python code testing (Kevin Y. et al )
+- Lorenzo Cerrone and Joel Lüthi present *ngio — Simple and Declarative OME-Zarr Processing in Python* on June 22nd, 10:30-12:30
+- [SwissBIAS Annual Meeting 2026]({% link _annual_meetings/annual_meeting_2026.md %}), June 3rd 2026
+- Fabian Isensee presents [nnInteractive](https://swissbias.slack.com/files/U075S10EK8W/F0AKDMV1E2D/swissbias_seminar_march_2026.pdf), 19 March 10-11am
+- Roman Schwob presents [convpaint](https://drive.google.com/file/d/1smkpJRygnMU9h2FcrZVTHy5j8AhhXA6w/view?usp=sharing), 11 December 2025 10-11am
+- Nicolas Chiarrutini presents [QuPath Image Registration Workshop](https://docs.google.com/forms/d/e/1FAIpQLSdEVfB_cPPIomMDFVJ2zj9CMMYITIqPvfjgMjvppCxGTzI5EQ/viewform), 26 November 2025 1-3pm
+- [OME-NGFF Symposium and Hackaton](https://www.biovisioncenter.uzh.ch/en/events/Upcoming-Events/2025-OME-NGFF-workshop.html), 10-14 November 2025
+- Cameron Shand presents [Automating and Simplifying Napari Plugin Development](https://drive.google.com/file/d/1aVNp9dxn_YbnTdMPfKbT20f1oVD9p5td/view), 23 september 2025
+- [SwissBIAS Annual Meeting 2025]({% link _annual_meetings/annual_meeting_2025.md %}), June 18th (and June 19th for workshops)
+- [ZIDAS 2025](https://2025.zidas.org/), EPFL, ETHZ, and Uni Basel; Basel
+- [SwissBIAS Annual Meeting 2024]({% link _annual_meetings/annual_meeting_2024.md %}), June 19th (and June 20th for workshops)
 - [Next generation bioimage analysis workflows hackathon](https://www.ema.uzh.ch/en/register/biovisioncenter-hackathon.html), University of Zurich, Irchel Campus, Switzerland, 6-8 November 2023.
 - [Building Napari Widgets and Plugins](https://memento.epfl.ch/event/workshop-building-napari-widgets-and-plugins/), EPFL Lausanne, Switzerland, 19 October 2023
-- Julián Mejía Morales & Rocco D'Antuono present [**napari-superres**](https://drive.google.com/file/d/1fnDnEatNMLHpN2xx0CwvR1KDTIZ8IpnE/view?usp=sharing), 8 September 2023 
+- Julián Mejía Morales & Rocco D'Antuono present [napari-superres](https://drive.google.com/file/d/1fnDnEatNMLHpN2xx0CwvR1KDTIZ8IpnE/view?usp=sharing), 8 September 2023 
 - [Advanced Methods in Bioimage Analysis](https://www.embl.org/about/info/course-and-conference-office/events/bia23-01/), EMBL Heidelberg, Germany, 2023.
-- [ZIDAS 2023](https://www.zidas.org/), EPFL, ETHZ, FMI, and Uni Basel; Lausanne
+- [SwissBIAS Annual Meeting 2023]({% link _annual_meetings/annual_meeting_2023.md %}), June 21st
+- [ZIDAS 2023](https://2023.zidas.org/), EPFL, ETHZ, FMI, and Uni Basel; Lausanne
 - [ZIDAS 2022](https://2022.zidas.org/), EPFL, ETHZ, FMI, and Uni Basel; Lausanne
 - [Deep Learning for BioImage Analysis](https://www.embl.org/about/info/course-and-conference-office/events/mac22-01/), EMBL, Heidelberg, Germany [Virtual]. 17-21 Jan, 2022.
 - [ZIDAS 2021](https://2021.zidas.org/), EPFL & ETHZ; Virtual
