@@ -15,6 +15,7 @@ Other global events can be found on [the image.sc forum](https://forum.image.sc/
 
 ### Upcoming
 
+- Cyril Achard presents [CellSeg3D](https://drive.google.com/file/d/1-VrRFMxcPpu1uwsF_vEdLuyMKr4GE-1u/view?usp=drive_link), a scalable end-to-end workflow for supervised & self-supervised 3D nuclei segmentation in cleared brain samples on November 26th, 10-11am
 
 ### Past
 - Lorenzo Cerrone and Joel Lüthi present *ngio — Simple and Declarative OME-Zarr Processing in Python* on June 22nd, 10:30-12:30
